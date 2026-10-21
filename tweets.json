@@ -7395,27 +7395,8 @@
       "score": 0,
       "delHash": "501f2934c98f4a83d65252d6956294c4d3f9a686ff43d1fca6e5c0179f190c77",
       "tweetText": "착하게 가만히 잇을테니까 오빠가 내 다리 꼬옥 안아주고 만져줄래?💕",
-      "translations": {
-        "ko": "착하게 가만히 잇을테니까 오빠가 내 다리 꼬옥 안아주고 만져줄래?💕",
-        "en": "I'll be good and stay still, so will you hug my legs tight and touch them?💕",
-        "ja": "お利口さんにしてじっとしてるから、オッパが私の足をぎゅっと抱きしめて触ってくれる？💕",
-        "zh": "我会乖乖一动不动地待着，欧巴能紧紧抱住我的腿并摸摸我吗？💕",
-        "es": "Me voy a portar bien y me quedaré quietita, ¿así que me abrazas fuerte de las piernas y las acaricias?💕",
-        "fr": "Je vais être sage et rester immobile, tu veux bien serrer mes jambes fort dans tes bras et les caresser ?💕",
-        "de": "Ich bin lieb und bleibe ganz ruhig, wirst du meine Beine fest umarmen und sie berühren?💕",
-        "pt": "Vou ficar bonzinha e quietinha, então você vai abraçar minhas pernas bem forte e tocá-las?💕",
-        "ru": "Я буду вести себя хорошо и тихо полежу, ты крепко обнимешь мои ножки и погладишь их?💕",
-        "ar": "سأكون فتاة مطيعة وأبقى هادئة، فهل ستضم ساقي بقوة وتلمسهما؟💕",
-        "id": "Aku akan jadi anak baik dan diam saja, jadi maukah oppa memeluk kakiku erat-erat dan menyentuhku?💕",
-        "th": "ฉันจะเป็นเด็กดีและอยู่นิ่งๆ โอปป้าจะกอดขาฉันแน่นๆ แล้วลูบมันให้หน่อยได้ไหม?💕",
-        "vi": "Em sẽ ngoan ngoãn nằm yên, oppa ôm chặt lấy chân em và vuốt ve nhé?💕",
-        "hi": "मैं अच्छी बनकर चुपचाप रहूँगी, तो क्या आप मेरे पैरों को कसकर गले लगाओगे और सहलाओगे?💕",
-        "it": "Farò la brava e starò immobile, mi abbracci forte le gambe e le tocchi?💕",
-        "pl": "Będę grzeczna i będę leżeć spokojnie, przytulisz mocno moje nogi i dotkniesz ich?💕",
-        "nl": "Ik zal braaf stil blijven liggen, ga je mijn benen stevig vasthouden en aanraken?💕",
-        "uk": "Я буду слухняною і лежатиму спокійно, ти міцно обіймеш мої ніжки і погладиш їх?💕",
-        "ms": "Saya akan jadi baik dan diam sahaja, jadi bolehkah oppa peluk kaki saya erat-erat dan sentuh saya?💕"
-      }
+      "translateFail": "bad_json",
+      "translateFailAt": 1792580751054
     },
     {
       "id": "2112706415131545985",
