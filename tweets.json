@@ -8600,28 +8600,8 @@
       "score": 0,
       "delHash": "ab55665a5c76e4b2a2c200ab1ef05dd6e82c5f4c1ca57017e1927938b0ccf11b",
       "tweetText": "바니걸 총으루 오빠들 심장 딱 따먹구 사격완료 할껀데 어때? 🐰🔫",
-      "translations": {
-        "ko": "바니걸 총으루 오빠들 심장 딱 따먹구 사격완료 할껀데 어때? 🐰🔫",
-        "en": "How about a bunny girl shooting and stealing oppas' hearts with her gun, mission accomplished? 🐰🔫",
-        "ja": "バニーガールの銃でオッパたちのハートをしっかり撃ち抜いちゃう予定だけど、どう？ 🐰🔫",
-        "zh": "兔女郎要用枪狙击哥哥们的心并宣告射击完成，觉得怎么样？ 🐰🔫",
-        "es": "¿Qué tal si una conejita disata y roba los corazones de los oppas con su pistola, misión cumplida? 🐰🔫",
-        "fr": "Et si une bunny girl tirait et volait le cœur des oppas avec son pistolet, mission accomplie ? 🐰🔫",
-        "de": "Wie wäre es, wenn ein Bunny-Girl mit ihrer Pistole die Herzen der Oppas erobert und den Schuss vollendet? 🐰🔫",
-        "pt": "E se uma coelhinha atirar e roubar o coração dos oppas com sua arma, missão cumprida? 🐰🔫",
-        "ru": "Как насчет того, чтобы девушка-зайка выстрелила и завоевала сердца оппа из пистолета, миссия выполнена? 🐰🔫",
-        "ar": "ما رأيكم في فتاة الأرنب وهي تطلق النار وتسرع لسرعة قلوب الأوبا وتنتهي المهمة؟ 🐰🔫",
-        "id": "Bagaimana kalau gadis kelinci menembak dan merebut hati para oppa dengan senjatanya, misi selesai? 🐰🔫",
-        "th": "จะ 🐰🔫 เป็นยังไงถ้าสาวกระต่ายจะใช้ปืนยิงและขโมยหัวใจของโอปป้าจนภารกิจสำเร็จ?",
-        "vi": "Thỏ ngọc dùng súng bắn và đánh cắp trái tim các oppa, hoàn thành mục tiêu thì sao nhỉ? 🐰🔫",
-        "hi": "कैसा रहेगा अगर एक बन्नी गर्ल अपनी बंदूक से ओप्पा के दिलों को शूट करके चुरा ले, मिशन पूरा? 🐰🔫",
-        "it": "Che ne dite di una coniglietta che spara e ruba il cuore degli oppa con la sua pistola, missione compiuta? 🐰🔫",
-        "tr": "Tavşan kızın tabancasıyla oppaların kalbini vurup almasına ve atışı tamamlamasına ne dersiniz? 🐰🔫",
-        "pl": "Co powiecie na to, że króliczek strzela i zdobywa serca oppas, strzał zakończony? 🐰🔫",
-        "nl": "Wat dacht je ervan dat een bunny girl schiet en de harten van de oppa's steelt, missie volbracht? 🐰🔫",
-        "uk": "Як щодо того, щоб дівчина-зайчик вистрілила і завоювала серця оппа з пістолета, місію виконано? 🐰🔫",
-        "ms": "Bagaimana kalau gadis arnab menembak dan mencuri hati oppa dengan senapangnya, misi selesai? 🐰🔫"
-      }
+      "translateFail": "bad_json",
+      "translateFailAt": 1792590630743
     },
     {
       "id": "2112719423027208440",
