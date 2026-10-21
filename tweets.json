@@ -10866,8 +10866,28 @@
       "score": 0,
       "delHash": "49ddc4f1272cb228e555e8768203c131aa1910a5dea2a2597ec70cd02ac18468",
       "tweetText": "눈나 지금 ㅂㅈ젖엇는데 보여줄가? 🚖",
-      "translateFail": "bad_json",
-      "translateFailAt": 1792615688344
+      "translations": {
+        "ko": "눈나 지금 ㅂㅈ젖엇는데 보여줄가? 🚖",
+        "en": "Hey sis, I'm all wet now, should I show you? 🚖",
+        "ja": "ねえ、今もう濡れちゃったんだけど、見せようか？ 🚖",
+        "zh": "姐姐我现在湿了，要给你看吗？ 🚖",
+        "es": "Oye hermana, ya estoy mojada, ¿te lo muestro? 🚖",
+        "fr": "Hé sœurette, je suis toute mouillée là, je te montre ? 🚖",
+        "de": "Hey Schwester, ich bin jetzt ganz nass, soll ich es dir zeigen? 🚖",
+        "pt": "Eimana, já estou toda molhada agora, quer que eu te mostre? 🚖",
+        "ru": "Эй, сестренка, я тут вся мокрая уже, показать? 🚖",
+        "ar": "أختي، أنا مبللة الآن، هل أريكِ؟ 🚖",
+        "id": "Eh sis, aku sekarang udah basah nih, mau diliatin enggak? 🚖",
+        "th": "พี่สาว ตอนนี้ฉันเปียกหมดแล้ว ให้ดูไหม? 🚖",
+        "vi": "Chị ơi em ướt hết rồi, có muốn xem không? 🚖",
+        "hi": "अरे बहन, मैं अभी पूरी गीली हो गई हूँ, क्या तुम्हें दिखाऊँ? 🚖",
+        "it": "Ehi sorella, sono tutta bagnata adesso, te lo faccio vedere? 🚖",
+        "tr": "Abla şimdi sırılsıklam oldum, göstereyim mi? 🚖",
+        "pl": "Ej siostro, jestem teraz cała mokra, pokazać ci? 🚖",
+        "nl": "Hé zus, ik ben nu helemaal nat, zal ik het laten zien? 🚖",
+        "uk": "Ей, сестричко, я тут вже вся мокра, показати? 🚖",
+        "ms": "Eh sis, saya dah basah ni, nak tunjuk ke? 🚖"
+      }
     },
     {
       "id": "2112732462296248721",
