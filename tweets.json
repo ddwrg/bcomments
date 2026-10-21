@@ -9343,8 +9343,28 @@
       "score": 0,
       "delHash": "0b28f21e44a6b25b68e18c885cd81fffad00de864f82ad85cd5fc5851465ce5e",
       "tweetText": "뉸나랑하면 몇번까지 가능? 🧑‍🦳",
-      "translateFail": "bad_json",
-      "translateFailAt": 1792597356542
+      "translations": {
+        "ko": "뉸나랑하면 몇번까지 가능? 🧑‍🦳",
+        "en": "How many times is possible with noona? 🧑‍🦳",
+        "ja": "ヌナとだったら何回までいける？ 🧑‍🦳",
+        "zh": "和姐姐一起的话最多可以几次？ 🧑‍🦳",
+        "es": "¿Cuántas veces es posible conmigo/con la noona? 🧑‍🦳",
+        "fr": "Combien de fois c'est possible avec noona ? 🧑‍🦳",
+        "de": "Wie oft ist mit Noona möglich? 🧑‍🦳",
+        "pt": "Quantas vezes é possível com a noona? 🧑‍🦳",
+        "ru": "Сколько раз возможно с нуной? 🧑‍🦳",
+        "ar": "كم مرة ممكن مع نونا؟ 🧑‍🦳",
+        "id": "Kalau sama noona bisa berapa kali? 🧑‍🦳",
+        "th": "ถ้ากับนูน่าได้กี่ครั้ง? 🧑‍🦳",
+        "vi": "Với chị thì được mấy lần? 🧑‍🦳",
+        "hi": "नूना के साथ कितनी बार संभव है? 🧑‍🦳",
+        "it": "Quante volte è possibile con la noona? 🧑‍🦳",
+        "tr": "Noona ile kaç kez mümkün? 🧑‍🦳",
+        "pl": "Ile razy jest możliwe z nooną? 🧑‍🦳",
+        "nl": "Hoe vaak is mogelijk met noona? 🧑‍🦳",
+        "uk": "Скільки разів можливо з нуною? 🧑‍🦳",
+        "ms": "Berapa kali boleh dengan noona? 🧑‍🦳"
+      }
     },
     {
       "id": "2112563681674551573",
