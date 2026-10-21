@@ -4376,7 +4376,9 @@
       "createdAt": 1792553436779,
       "score": 0,
       "delHash": "c5115ed8c35b745c26cd22d123bef2c40752243964fbe98606f2e41e8eba4f58",
-      "tweetText": "오빠들 귀여운 토끼 대신 나 따먹 같이할 사람?"
+      "tweetText": "오빠들 귀여운 토끼 대신 나 따먹 같이할 사람?",
+      "translateFail": "bad_json",
+      "translateFailAt": 1792572797649
     },
     {
       "id": "2112247748980514943",
