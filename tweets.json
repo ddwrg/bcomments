@@ -11184,7 +11184,29 @@
       "note": "",
       "createdAt": 1792552897317,
       "score": 0,
-      "delHash": "2e266dd150e5b850a45008f4c2552f628275d54dadba5bdaca970318f2f3c7b7"
+      "delHash": "2e266dd150e5b850a45008f4c2552f628275d54dadba5bdaca970318f2f3c7b7",
+      "tweetText": "나한테 야노영상 못 받은 사람만 맘찍어놔...",
+      "translations": {
+        "ko": "나한테 야노영상 못 받은 사람만 맘찍어놔...",
+        "en": "Only like this if you haven't received the Yano video from me yet...",
+        "ja": "私から例の動画をもらってない人だけいいねして...",
+        "zh": "只有还没从我这里收到野野视频的人才可以点赞...",
+        "es": "Solo dale like si aún no has recibido el video de Yano de mi parte...",
+        "fr": "Mettez un j'aime seulement si vous n'avez pas encore reçu la vidéo de Yano de ma part...",
+        "de": "Lass nur ein Like da, wenn du das Yano-Video noch nicht von mir bekommen hast...",
+        "pt": "Curte aqui apenas se você ainda não recebeu o vídeo do Yano de mim...",
+        "ru": "Ставьте лайк только те, кто еще не получил от меня видео Яно...",
+        "ar": "فقط اضغط إعجاب إذا لم تستلم فيديو يانو مني بعد...",
+        "id": "Tekan suka hanya jika kamu belum menerima video Yano dariku...",
+        "th": "กดไลก์ไว้เฉพาะคนที่ยังไม่ได้คลิปยันโนะจากฉันนะ...",
+        "vi": "Chỉ thả tim nếu bạn chưa nhận được video Yano từ tôi...",
+        "it": "Metti mi piace solo se non hai ancora ricevuto il video di Yano da me...",
+        "tr": "Benden henüz Yano videosunu almadıysan sadece beğen...",
+        "pl": "Polub tylko wtedy, gdy nie dostałeś ode mnie jeszcze wideo Yano...",
+        "nl": "Laat alleen een like achter als je de Yano-video nog niet van mij hebt ontvangen...",
+        "uk": "Ставте лайк тільки ті, хто ще не отримав від мене відео Яно...",
+        "ms": "Tekan suka hanya jika anda belum menerima video Yano daripada saya..."
+      }
     },
     {
       "id": "2112738522616807631",
