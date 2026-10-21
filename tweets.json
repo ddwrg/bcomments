@@ -6692,7 +6692,29 @@
       "note": "",
       "createdAt": 1792553240907,
       "score": 0,
-      "delHash": "54364d6e6da520a03e0ff23be0c294795d03d5f0efcff8d30adb252bc15aebfa"
+      "delHash": "54364d6e6da520a03e0ff23be0c294795d03d5f0efcff8d30adb252bc15aebfa",
+      "tweetText": "티셔츠 하나만 걸치고 누워잇는데 은근히 긴장되네",
+      "translations": {
+        "ko": "티셔츠 하나만 걸치고 누워잇는데 은근히 긴장되네",
+        "en": "Just lying here wearing only a t-shirt and I'm secretly feeling kind of nervous",
+        "ja": "Tシャツ1枚だけ羽織って横になってるんだけど、密かに緊張するな",
+        "zh": "只穿一件T恤躺着，居然有点莫名的紧张呢",
+        "es": "Estoy aquí tumbado solo con una camiseta puesta y en secreto me siento un poco nervioso",
+        "fr": "Je suis allongé avec juste un t-shirt et secrètement, je me sens un peu nerveux",
+        "de": "Ich liege hier nur mit einem T-shirt und bin heimlich ein bisschen nervös",
+        "pt": "Deitado aqui usando apenas uma camiseta e secretamente me sentindo meio nervoso",
+        "ru": "Лежу тут в одной футболке, и мне почему-то немного тревожно",
+        "ar": "مستلق هنا وأرتدي تي شيرت فقط وأشعر بتوتر خفي نوعاً ما",
+        "id": "Hanya berbaring di sini memakai kaos dan diam-diam merasa agak gugup",
+        "th": "นอนใส่เสื้อยืดแค่ตัวเดียวแล้วแอบรู้สึกตื่นเต้นนิดหน่อยแฮะ",
+        "vi": "Nằm đây với mỗi chiếc áo phông mà sao tự nhiên thấy hơi hồi hộp ngầm",
+        "hi": "बस एक टी-शर्ट पहन कर लेटा हूँ और अंदर-से थोड़ा सा घबरा रहा हूँ",
+        "it": "Sono qui sdraiato con solo una maglietta e segretamente mi sento un po' in ansia",
+        "tr": "Sadece bir tişört giyip uzanıyorum ve içten içe biraz gerildim",
+        "pl": "Leżę tak w samej koszulce i w sumie to trochę się stresuję",
+        "uk": "Лежу тут в одній футболці, і чомусь трохи тривожно",
+        "ms": "Baring kat sini pakai t-shirt je dan diam-diam rasa agak berdebar"
+      }
     },
     {
       "id": "2112703229519908949",
