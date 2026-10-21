@@ -9946,7 +9946,7 @@
       "score": 0,
       "delHash": "ec7270997bdf27a20332875343ab6aaaf9128b8646ee6a217470801766bcb84d",
       "translateFail": "no_text",
-      "translateFailAt": 1792605096783
+      "translateFailAt": 1792605068051
     },
     {
       "id": "2112729687436964011",
@@ -9954,7 +9954,30 @@
       "note": "",
       "createdAt": 1792552986731,
       "score": 0,
-      "delHash": "d31361db123cb371dbcb84c5bbdb2090fdd706def3fa1c5b6eb21a675d8eba2f"
+      "delHash": "d31361db123cb371dbcb84c5bbdb2090fdd706def3fa1c5b6eb21a675d8eba2f",
+      "tweetText": "맘눌섹 🫱",
+      "translations": {
+        "ko": "맘눌섹 🫱",
+        "en": "맘눌섹 🫱",
+        "ja": "맘눌섹 🫱",
+        "zh": "맘눌섹 🫱",
+        "es": "맘눌섹 🫱",
+        "fr": "맘눌섹 🫱",
+        "de": "맘눌섹 🫱",
+        "pt": "맘눌섹 🫱",
+        "ru": "맘눌섹 🫱",
+        "ar": "맘눌섹 🫱",
+        "id": "맘눌섹 🫱",
+        "th": "맘눌섹 🫱",
+        "vi": "맘눌섹 🫱",
+        "hi": "맘눌섹 🫱",
+        "it": "맘눌섹 🫱",
+        "tr": "맘눌섹 🫱",
+        "pl": "맘눌섹 🫱",
+        "nl": "맘눌섹 🫱",
+        "uk": "맘눌섹 🫱",
+        "ms": "맘눌섹 🫱"
+      }
     },
     {
       "id": "2112729965326458905",
