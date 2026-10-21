@@ -7983,7 +7983,30 @@
       "note": "",
       "createdAt": 1792553139099,
       "score": 0,
-      "delHash": "69fdbb7e4adee4651f704bbc4c4b5a075c9bc769d076b00515034fc1adf6865b"
+      "delHash": "69fdbb7e4adee4651f704bbc4c4b5a075c9bc769d076b00515034fc1adf6865b",
+      "tweetText": "이거 아직 못 받은 오빠 잇어?",
+      "translations": {
+        "ko": "이거 아직 못 받은 오빠 잇어?",
+        "en": "Is there any oppa who still hasn't received this?",
+        "ja": "これまだもらってないオッパいる？",
+        "zh": "还有哪个哥哥没收到这个吗？",
+        "es": "¿Hay algún oppa que todavía no haya recibido esto?",
+        "fr": "Il y a encore des oppa qui n'ont pas reçu ça ?",
+        "de": "Gibt es einen Oppa, der das noch nicht bekommen hat?",
+        "pt": "Tem algum oppa que ainda não recebeu isso?",
+        "ru": "Есть тут оппа, который это еще не получил?",
+        "ar": "هل هناك أوبا لم يتلق هذا بعد؟",
+        "id": "Ada oppa yang belum terima ini?",
+        "th": "มีโอปป้าคนไหนยังไม่ได้อันนี้บ้าง?",
+        "vi": "Có oppa nào vẫn chưa nhận được cái này không?",
+        "hi": "क्या कोई ओप्पा है जिसे अभी तक यह नहीं मिला?",
+        "it": "C'è qualche oppa che non l'ha ancora ricevuto?",
+        "tr": "Bunu hâlâ almayan bir oppa var mı?",
+        "pl": "Czy jest jakiś oppa, który tego jeszcze nie dostał?",
+        "nl": "Is er nog een oppa die dit niet heeft ontvangen?",
+        "uk": "Є хтось із оппа, хто це ще не отримав?",
+        "ms": "Ada oppa yang belum terima ni ke?"
+      }
     },
     {
       "id": "2112713727242031550",
