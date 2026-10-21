@@ -4765,7 +4765,29 @@
       "note": "",
       "createdAt": 1792553402375,
       "score": 0,
-      "delHash": "86bcf146724e4efc7f887b3601b903b73f0d6ce2d0a68c6fdabafc3e20ce859d"
+      "delHash": "86bcf146724e4efc7f887b3601b903b73f0d6ce2d0a68c6fdabafc3e20ce859d",
+      "tweetText": "커피 마시다 단추 슬쩍 풀었는데 오빠 반응 보니까 씹질 마려워졋자나",
+      "translations": {
+        "ko": "커피 마시다 단추 슬쩍 풀었는데 오빠 반응 보니까 씹질 마려워졋자나",
+        "en": "I casually unbuttoned my shirt while drinking coffee, and seeing oppa's reaction makes me want to tease him so bad",
+        "ja": "コーヒーを飲みながらボタンをそっと外したら、オッパの反応を見てからかわきたくなっちゃった",
+        "zh": "喝咖啡时悄悄解开了一颗纽扣，看到哥哥的反应后突然好想逗逗他",
+        "es": "Me desabotoné un poco la camisa mientras tomaba café, y al ver la reacción de oppa, me dan unas ganas de fastidiarlo",
+        "fr": "J'ai discrètement déboutonné ma chemise en buvant du café, et en voyant la réaction d'oppa, ça me donne trop envie de le taquiner",
+        "de": "Ich habe beim Kaffeeetrinken unauffällig einen Knopf geöffnet, und als ich Opas Reaktion sah, kriege ich total Lust, ihn zu ärgern",
+        "pt": "Desabotoei um pouco a blusa enquanto tomava café, e vendo a reação do oppa, fiquei com muita vontade de provocar ele",
+        "ru": "Я незаметно расстегнула пуговичку, пока пила кофе, и, увидев реакцию оппы, мне так захотелось подразнить его",
+        "ar": "فككت زري بهدوء أثناء شرب القهوة، ورؤية رد فعل أوبا جعلتني أرغب حقاً في إزعاجه",
+        "id": "Tadi pas minum kopi, kancingku agak kubuka sikit, terus pas lihat reaksi oppa jadi pengen ngeledek",
+        "th": "แอบปลดกระดุมตอนกินกาแฟ พอเห็นปฏิกิริยาของโอปป้าแล้วอยากแกล้งชะมัด",
+        "vi": "Đang uống cà phê thì lén cởi nhẹ một cúc áo, thấy phản ứng của oppa xong tự nhiên muốn trêu ghẹo ghê",
+        "hi": "कॉफी पीते हुए मैंने चुपके से बटन खोल दिया, और ओप्पा की प्रतिक्रिया देखकर मेरा उन्हें छेड़ने का मन कर रहा है",
+        "it": "Mi sono sbottonata un attimo la camicia mentre bevevo il caffè, e vedendo la reazione di oppa mi è venuta una voglia matta di prenderlo in giro",
+        "tr": "Kahve içerken düğmemi hafifçe çözmüştüm, oppa'nın tepkisini görünce onunla dalga/naz yapasım geldi",
+        "nl": "Ik knoopte mijn shirt stiekem los tijdens het koffiedrinken, en door de reactie van oppa krijg ik echt zin om hem te plagen",
+        "uk": "Я непомітно розстебнула ґудзик, поки пила каву, і від реакції оппи мені так захотілося подразнити його",
+        "ms": "Tadi masa minum kopi, terlepas sikit butang baju, tengok reaksi oppa terus tergerak hati nak menyakat dia"
+      }
     },
     {
       "id": "2112521772465799333",
