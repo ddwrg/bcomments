@@ -8600,8 +8600,27 @@
       "score": 0,
       "delHash": "ab55665a5c76e4b2a2c200ab1ef05dd6e82c5f4c1ca57017e1927938b0ccf11b",
       "tweetText": "바니걸 총으루 오빠들 심장 딱 따먹구 사격완료 할껀데 어때? 🐰🔫",
-      "translateFail": "bad_json",
-      "translateFailAt": 1792590630743
+      "translations": {
+        "ko": "바니걸 총으루 오빠들 심장 딱 따먹구 사격완료 할껀데 어때? 🐰🔫",
+        "en": "How about a bunny girl shooting and stealing your hearts with her gun? Mission complete! 🐰🔫",
+        "ja": "バニーガールの銃でみんなのハートを撃ち抜いちゃうけど、どう？ 🐰🔫",
+        "zh": "兔女郎要用枪狙击哥哥们的心啦，射击完毕，觉得怎么样？ 🐰🔫",
+        "es": "¿Qué tal si una conejita te dispara y te roba el corazón? ¡Disparo completado! 🐰🔫",
+        "fr": "Et si une bunny girl vous tirait dessus pour voler vos cœurs ? Tir réussi ! 🐰🔫",
+        "de": "Wie wär's, wenn ein Bunny-Mädchen mit ihrer Waffe euer Herz erobert? Schuss abgegeben! 🐰🔫",
+        "pt": "Que tal uma coelhinha atirando e roubando o coração de vocês? Tiro certeiro! 🐰🔫",
+        "ru": "Как насчет того, чтобы зайка выстрелила и завоевала ваши сердечки? Выстрел выполнен! 🐰🔫",
+        "ar": "ما رأيكم بفتاة أرنب تطلق النار وتسرع في خطف قلوبكم؟ تم إطلاق النار بنجاح! 🐰🔫",
+        "id": "Bagaimana kalau gadis kelinci menembak dan mencuri hati kalian? Tembakan selesai! 🐰🔫",
+        "th": "ไงล่ะ บัน니เกิร์ลคนนี้จะใช้ปืนยิงขโมยหัวใจพวก(เธอ/พี่ๆ) ยิงเสร็จเรียบร้อยแล้วนะ? 🐰🔫",
+        "vi": "Sao nào, một cô gái thỏ dùng súng bắn hạ và đánh cắp trái tim các anh nhé? Hoàn thành phát súng! 🐰🔫",
+        "hi": "कैसा रहेगा अगर एक बन्नी गर्ल अपनी बंदूक से आप सबका दिल चुरा ले? निशाना पूरा हुआ! 🐰🔫",
+        "it": "Che ne dite se una coniglietta vi spara e vi ruba il cuore? Colpo andato a segno! 🐰🔫",
+        "pl": "Co powiecie na króliczek, który strzela i podbija Wasze serca? Strzał oddany! 🐰🔫",
+        "nl": "Wat dachten jullie ervan als een bunny girl met haar geweer jullie harten verovert? Schot voltooid! 🐰🔫",
+        "uk": "Як щодо того, щоб дівчинка-зайчик вистрілила і завоювала ваші серця? Постріл виконано! 🐰🔫",
+        "ms": "Bagaimana kalau gadis arnab menembak dan mencuri hati korang? Tembakan selesai! 🐰🔫"
+      }
     },
     {
       "id": "2112719423027208440",
