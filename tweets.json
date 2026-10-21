@@ -10866,8 +10866,28 @@
       "score": 0,
       "delHash": "49ddc4f1272cb228e555e8768203c131aa1910a5dea2a2597ec70cd02ac18468",
       "tweetText": "눈나 지금 ㅂㅈ젖엇는데 보여줄가? 🚖",
-      "translateFail": "bad_json",
-      "translateFailAt": 1792615731453
+      "translations": {
+        "ko": "눈나 지금 ㅂㅈ젖엇는데 보여줄가? 🚖",
+        "en": "Noona, I'm all wet right now, should I show you? 🚖",
+        "ja": "ヌナ、今もう濡れてるんだけど、見せようか？ 🚖",
+        "zh": "姐姐，我现在下面湿了，要看吗？ 🚖",
+        "es": "Noona, estoy toda mojada ahora mismo, ¿te lo muestro? 🚖",
+        "fr": "Noona, je suis toute mouillée là, tu veux que je te montre ? 🚖",
+        "de": "Noona, ich bin jetzt ganz nass, soll ich es dir zeigen? 🚖",
+        "pt": "Noona, estou toda molhada agora, quer que eu te mostre? 🚖",
+        "ru": "Нуна, я тут вся мокрая, показать? 🚖",
+        "ar": "نونا، أنا مبللة الآن، هل أريكِ؟ 🚖",
+        "id": "Noona, aku lagi basah nih, mau lihat nggak? 🚖",
+        "th": "นูนา ตอนนี้แฉะหมดแล้ว ให้ดูไหม? 🚖",
+        "vi": "Chị ơi em đang ướt hết rồi, có muốn xem không? 🚖",
+        "hi": "नूना, मैं अभी गीली हूँ, क्या मैं तुम्हें दिखाऊँ? 🚖",
+        "it": "Noona, sono tutta bagnata adesso, te lo faccio vedere? 🚖",
+        "tr": "Noona, şu an sırılsıklam ıslandım, göstereyim mi? 🚖",
+        "pl": "Noona, jestem teraz cała mokra, pokazać ci? 🚖",
+        "nl": "Noona, ik ben nu kletsnat, zal ik het laten zien? 🚖",
+        "uk": "Нуна, я зараз вся мокра, показати? 🚖",
+        "ms": "Noona, saya basah sekarang ni, nak tengok tak? 🚖"
+      }
     },
     {
       "id": "2112732462296248721",
