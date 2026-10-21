@@ -9249,7 +9249,30 @@
       "note": "",
       "createdAt": 1792553041638,
       "score": 0,
-      "delHash": "0aae021b8386fbef1379070b04c726ea0e613c0f387d30e152454e12e289eacd"
+      "delHash": "0aae021b8386fbef1379070b04c726ea0e613c0f387d30e152454e12e289eacd",
+      "tweetText": "앙큼한 고양이랑 같이 냠냠 맛있는 고기 노나 먹을 사람?",
+      "translations": {
+        "ko": "앙큼한 고양이랑 같이 냠냠 맛있는 고기 노나 먹을 사람?",
+        "en": "Who wants to share some delicious meat with a sly cat? 냠냠",
+        "ja": "お茶目な猫ちゃんと一緒に美味しいお肉を分け合って食べる人？",
+        "zh": "有谁想和狡猾的小猫咪一起享用美味的肉肉？",
+        "es": "¿Quién quiere compartir un poco de carne deliciosa con un gato travieso? 냠냠",
+        "fr": "Qui veut partager de la viandarde délicieuse avec un chat sournois ? 냠냠",
+        "de": "Wer möchte ein paar leckere Fleischstücke mit einer verschmitzten Katze teilen?",
+        "pt": "Quem quer dividir uma carne deliciosa com um gato astuto? 냠냠",
+        "ru": "Кто хочет разделить вкусное мясо с хитрой кошечкой? 냠냠",
+        "ar": "من يريد مشاركة بعض اللحم اللذيذ مع قط ماكر؟ 냠냠",
+        "id": "Siapa yang mau berbagi daging lezat dengan kucing yang licik? 냠냠",
+        "th": "ใครอยากแบ่งเนื้ออร่อยๆ กินกับแมวสุดเจ้าเล่ห์บ้าง? 냠냠",
+        "vi": "Ai muốn chia sẻ chút thịt ngon với một chú mèo ranh mãnh nào? 냠냠",
+        "hi": "धूर्त बिल्ली के साथ स्वादिष्ट मांस कौन शेयर करना चाहता है? 냠냠",
+        "it": "Chi vuole condividere della carne deliziosa con un gatto furbo? 냠냠",
+        "tr": "Kezban bir kediyle lezzetli etleri paylaşmak isteyen var mı? 냠냠",
+        "pl": "Kto chce zjeść pyszną mięsną przekąskę z uroczym, sprytnym kotkiem? 냠냠",
+        "nl": "Wie wil er wat lekker vlees delen met een sluwe kat? 냠냠",
+        "uk": "Хто хоче розділити смачне м'ясо з хитрим котиком? 냠냠",
+        "ms": "Siapa nak kongsi daging sedap dengan kucing yang licik? 냠냠"
+      }
     },
     {
       "id": "2112724221092876509",
