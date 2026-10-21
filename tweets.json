@@ -11186,28 +11186,8 @@
       "score": 0,
       "delHash": "2e266dd150e5b850a45008f4c2552f628275d54dadba5bdaca970318f2f3c7b7",
       "tweetText": "나한테 야노영상 못 받은 사람만 맘찍어놔...",
-      "translations": {
-        "ko": "나한테 야노영상 못 받은 사람만 맘찍어놔...",
-        "en": "Only the people who haven't gotten the cam show video from me, heart this...",
-        "ja": "私からヤノ動画をもらってない人だけいいねして...",
-        "zh": "只有还没从我这里收到露点视频的人点赞...",
-        "es": "Solo los que no hayan recibido el video porno de mi parte, denle like...",
-        "fr": "Seulement ceux qui n'ont pas reçu la vidéo explicite de ma part, mettez un j'aime...",
-        "de": "Nur die Leute, die das Video noch nicht von mir bekommen haben, liken das...",
-        "pt": "Apenas quem não recebeu o vídeo pornográfico de mim, curte aqui...",
-        "ru": "Только те, кто еще не получил от меня видео для взрослых, ставьте лайк...",
-        "ar": "فقط الأشخاص الذين لم يحصلوا على فيديو الإباحي مني، ضعوا إعجاباً...",
-        "id": "Hanya orang yang belum dapat video porno dari aku yang kasih like...",
-        "th": "เฉพาะคน ที่ยังไม่ได้วิดีโอ 18+ จากฉัน กดหัวใจไว้...",
-        "vi": "Chỉ những ai chưa nhận được video nhạy cảm từ tôi thì thả tim nhé...",
-        "hi": "सिर्फ वे लोग जिन्हें मुझसे एडल्ट वीडियो नहीं मिला है, लाइक करें...",
-        "it": "Solo chi non ha ricevuto il video esplicito da me, metta like...",
-        "tr": "Benden erotik videoyu almayanlar sadece beğensin...",
-        "pl": "Tylko ci, którzy jeszcze nie dostali ode mnie nagrania, polubcie to...",
-        "nl": "Alleen degenen die de video nog niet van mij hebben gekregen, liken dit...",
-        "uk": "Тільки ті, хто ще не отримав від мене відео 18+, ставте лайк...",
-        "ms": "Hanya mereka yang belum dapat video porno daripada saya yang like..."
-      }
+      "translateFail": "bad_json",
+      "translateFailAt": 1792620990859
     },
     {
       "id": "2112738522616807631",
