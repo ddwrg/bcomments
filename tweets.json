@@ -6323,7 +6323,30 @@
       "note": "",
       "createdAt": 1792553269007,
       "score": 0,
-      "delHash": "7f955209d3b1765a170f18a8ef8c530003013eb6190191b069f83134e8ddda39"
+      "delHash": "7f955209d3b1765a170f18a8ef8c530003013eb6190191b069f83134e8ddda39",
+      "tweetText": "내가 보까시 제대로 해주면 하루종일 붙어있기 가능?",
+      "translations": {
+        "ko": "내가 보까시 제대로 해주면 하루종일 붙어있기 가능?",
+        "en": "If I give you proper bossam (or pampering/massage), can we stick together all day?",
+        "ja": "私がボッカシ（マッサージ／お手入れ）をちゃんとしてあげたら、一日中くっついていられる？",
+        "zh": "如果我给你好好做个按摩/护理，你能一整天都粘着我吗？",
+        "es": "Si te doy un buen masaje/cuidado, ¿puedes estarpegado/a a mí todo el día?",
+        "fr": "Si je te fais un bon massage/soin, tu peux rester collé(e) à moi toute la journée ?",
+        "de": "Wenn ich dir eine richtige Massage/Verwöhnung gebe, können wir den ganzen Tag zusammenkleben?",
+        "pt": "Se eu te der uma boa massagem/cuidado, dá para ficar grudado o dia todo?",
+        "ru": "Если я сделаем тебе классный массаж/уход, сможем ли мы быть вместе весь день?",
+        "ar": "إذا قمت بعمل مساج/عناية ممتازة لك، هل يمكنك البقاء ملتصقاً بي طوال اليوم؟",
+        "id": "Kalau aku pijat/urus kamu dengan benar, bisa nempel seharian?",
+        "th": "ถ้าฉันนวด/ดูแลให้อย่างดี จะติดกันทั้งวันได้ไหม?",
+        "vi": "Nếu tớ mát-xa/chăm sóc tử tế cho cậu, có dính lấy nhau cả ngày được không?",
+        "hi": "अगर मैं तुम्हें अच्छे से मालिश/देखभाल दूँ, तो क्या तुम पूरे दिन साथ रह सकते हो?",
+        "it": "Se ti faccio un buon massaggio/trattamento, possiamo stare appiccicati tutto il giorno?",
+        "tr": "Sana düzgünce bir masaj/bakım yaparsam bütün gün bana yapışık kalabilir misin?",
+        "pl": "Jeśli zrobię ci porządny masaż/zabieg, to możemy trzymać się razem cały dzień?",
+        "nl": "Als ik je een goede massage/verzorging geef, kunnen we dan de hele dag bij elkaar blijven?",
+        "uk": "Якщо я зроблю тобі якісний масаж/догляд, зможемо бути разом увесь день?",
+        "ms": "Kalau aku urut/jaga kau elok-elok, boleh lekat sepanjang hari?"
+      }
     },
     {
       "id": "2112693856403849691",
