@@ -11243,7 +11243,10 @@
       "note": "",
       "createdAt": 1792552893256,
       "score": 0,
-      "delHash": "122ec40fa91b469250be6863e6ca1650f193e4d478474531357e6673db40bb5c"
+      "delHash": "122ec40fa91b469250be6863e6ca1650f193e4d478474531357e6673db40bb5c",
+      "tweetText": "숨겨둔 더 대박인 추가컷은 디엠으로만 보내줄건데 받아볼 오빠 메시지 남겨줄래?",
+      "translateFail": "bad_json",
+      "translateFailAt": 1792621972729
     },
     {
       "id": "2112575145244250522",
