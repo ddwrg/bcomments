@@ -7609,8 +7609,28 @@
       "score": 0,
       "delHash": "8ff791fd14cd7ca3a974696d485c7c11280098806929a8b3eff0106973bb4642",
       "tweetText": "치마 살랑거릴때마다 뽀뽀 갈기고싶다는 오빠들 만아서 뒤태 슬쩍 찍어봄ㅋ",
-      "translateFail": "bad_json",
-      "translateFailAt": 1792582640098
+      "translations": {
+        "ko": "치마 살랑거릴때마다 뽀뽀 갈기고싶다는 오빠들 만아서 뒤태 슬쩍 찍어봄ㅋ",
+        "en": "So many guys said they wanted to kiss me every time my skirt flutters, so I secretly took a photo of my back ㅋ",
+        "ja": "スカートが揺れるたびにキスしたくなるっていうお兄さんたちがたくさんいるから、後ろ姿をこっそり撮ってみたㅋ",
+        "zh": "好多哥哥说每次裙子飘动都想亲我，所以偷偷拍了下背影ㅋ",
+        "es": "Muchos chicos dicen que quieren besarme cada vez que mi falda se mueve, así que tomé una foto de mi espalda a escondidas ㅋ",
+        "fr": "Il y a tellement de gars qui disent qu'ils veulent m'embrasser à chaque fois que ma jupe volète, alors j'ai pris une photo de mon dos en cachette ㅋ",
+        "de": "Es gibt so viele Jungs, die meinten, sie wollen mich küssen, jedes Mal, wenn mein Rock weht, also habe ich heimlich ein Bild von meinem Rücken gemacht ㅋ",
+        "pt": "Tem tantos caras dizendo que querem me dar beijos toda vez que minha saia balança, então tirei uma foto das minhas costas escondida ㅋ",
+        "ru": "Так много парней говорили, что хотят целовать меня каждый раз, когда моя юбка развевается, так что я исподтишка сфотографировала свою спину ㅋ",
+        "ar": "الكثير من الشباب يقولون إنهم يريدون تقبيلي في كل مرة تتمايل فيها تنورتي، لذا التقطت صورة لظهري خلسة ㅋ",
+        "id": "Banyak cowok bilang mau ciuman setiap kali rokku berkibar, jadi aku diam-diam foto punggungku ㅋ",
+        "th": "มีผู้ชายหลายคนบอกว่าอยากจູບทุกครั้งที่กระโปรงพลิ้ว ฉันก็เลยแอบถ่ายรูปด้านหลังมาฝาก ㅋ",
+        "vi": "Có rất nhiều anh trai bảo muốn hôn mỗi khi váy tà lướt thướt, nên tớ chụp lén dáng lưng một chút ㅋ",
+        "hi": "बहुत सारे लड़कों ने कहा कि जब भी मेरी स्क्रीट हिलती है वे मुझे किस करना चाहते हैं, इसलिए मैंने चुपचाप अपनी पीठ की एक तस्वीर ले ली ㅋ",
+        "it": "Ci sono così tanti ragazzi che dicono di voler mi baciare ogni volta che la mia gonna fluttua, quindi ho scattato una foto di nascosto alla mia schiena ㅋ",
+        "tr": "Eteğim her sallandığında öpücük kondurmak istediklerini söyleyen o kadar çok erkek var ki, ben de arkadan gizlice bir fotoğrafını çektim ㅋ",
+        "pl": "Wielu chłopaków mówiło, że chcą mnie całować za każdym razem, gdy moja spódnica powiewa, więc potajemnie zrobiłam zdjęcie swoich pleców ㅋ",
+        "nl": "Zoveel jungs zeiden dat ze me willen kussen elke keer als mijn rok wappert, dus ik heb stiekem een foto van mijn rug gemaakt ㅋ",
+        "uk": "Так багато хлопців казали, що хочуть цілувати мене щоразу, коли моя спідниця майорить, тож я нишком сфотографувала свою спину ㅋ",
+        "ms": "Ramai abang-abang cakap nak cium setiap kali kain saya berkibar, jadi saya ambil gambar belakang badan secara sembunyi-sembunyi ㅋ"
+      }
     },
     {
       "id": "2112700283675725975",
