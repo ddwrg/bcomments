@@ -7395,8 +7395,26 @@
       "score": 0,
       "delHash": "501f2934c98f4a83d65252d6956294c4d3f9a686ff43d1fca6e5c0179f190c77",
       "tweetText": "착하게 가만히 잇을테니까 오빠가 내 다리 꼬옥 안아주고 만져줄래?💕",
-      "translateFail": "bad_json",
-      "translateFailAt": 1792580751054
+      "translations": {
+        "ko": "착하게 가만히 잇을테니까 오빠가 내 다리 꼬옥 안아주고 만져줄래?💕",
+        "en": "I'll be good and stay still, so will you hug my legs tight and touch them?💕",
+        "ja": "お利口にするから、オッパが私の足をぎゅっと抱きしめて触ってくれる？💕",
+        "zh": "我会乖乖一动不动地待着，欧巴能紧紧抱住并抚摸我的腿吗？💕",
+        "es": "¿Me porto bien y me quedo quieta, así que me abrazas fuerte de las piernas y las acaricias?💕",
+        "fr": "Je serai sage et je resterai immobile, alors est-ce que tu pourras serrer mes jambes fort et les caresser ?💕",
+        "de": "Ich bin brav und bleibe ganz still, wirst du meine Beine fest umarmen und streicheln?💕",
+        "pt": "Vou ficar boazinha e quieta, então você vai abraçar minhas pernas bem forte e acariciá-las?💕",
+        "ru": "Я буду вести себя хорошо и лежать тихо, ты крепко обнимешь мои ноги и погладишь их?💕",
+        "id": "Aku akan menjadi anak baik dan diam saja, jadi maukah oppa memeluk kakiku erat-erat dan menyentuhnya?💕",
+        "th": "ฉันจะทำตัวดีๆ และนอนนิ่งๆ เลย โอปป้าจะกอดขาฉันแน่นๆ แล้วลูบมันให้หน่อยได้ไหม?💕",
+        "vi": "Em sẽ ngoan ngoãn nằm yên, nên oppa ôm chặt lấy chân em và vuốt ve nhé?💕",
+        "hi": "मैं अच्छी बनकर चुपचाप रहूँगी, तो क्या आप मेरे पैरों को कसकर गले लगाओगे और सहलाओगे?💕",
+        "it": "Farò la buona e starò ferma, quindi mi abbracci forte le gambe e le accarezzi?💕",
+        "pl": "Będę grzeczna i będę leżeć spokojnie, więc przytulisz mocno moje nogi i je dotkniesz?💕",
+        "nl": "Ik zal braaf stilletjes blijven liggen, dus wil je mijn benen stevig vastpakken en aanraken?💕",
+        "uk": "Я буду слухняною і лежатиму спокійно, тож ти міцно обіймеш мої ніжки і погладиш їх?💕",
+        "ms": "Saya akan jadi baik dan diam sahaja, jadi bolehkah oppa peluk kaki saya erat-erat dan usap?💕"
+      }
     },
     {
       "id": "2112706415131545985",
