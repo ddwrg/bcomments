@@ -9944,7 +9944,9 @@
       "note": "",
       "createdAt": 1792552989585,
       "score": 0,
-      "delHash": "ec7270997bdf27a20332875343ab6aaaf9128b8646ee6a217470801766bcb84d"
+      "delHash": "ec7270997bdf27a20332875343ab6aaaf9128b8646ee6a217470801766bcb84d",
+      "translateFail": "no_text",
+      "translateFailAt": 1792605068051
     },
     {
       "id": "2112729687436964011",
