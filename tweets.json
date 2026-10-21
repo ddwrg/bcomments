@@ -7395,28 +7395,8 @@
       "score": 0,
       "delHash": "501f2934c98f4a83d65252d6956294c4d3f9a686ff43d1fca6e5c0179f190c77",
       "tweetText": "착하게 가만히 잇을테니까 오빠가 내 다리 꼬옥 안아주고 만져줄래?💕",
-      "translations": {
-        "ko": "착하게 가만히 잇을테니까 오빠가 내 다리 꼬옥 안아주고 만져줄래?💕",
-        "en": "I'll be good and stay still, so will you hold my legs tight and touch them?💕",
-        "ja": "いい子にしてじっとしてるから、オッパが私の足をぎゅって抱きしめて触ってくれる？💕",
-        "zh": "我会乖乖地一动不动，欧巴能紧紧抱住我的腿并摸摸我吗？💕",
-        "es": "Me estaré quietecita y me portaré bien, ¿así que me abrazarás las fuertemente las piernas y las acariciarás?💕",
-        "fr": "Je serai sage et je ne bougerai pas, alors tu seras d'accord pour serrer mes jambes fort et les caresser ?💕",
-        "de": "Ich werde brav stillhalten, wirst du also meine Beine fest umarmen und anfassen?💕",
-        "pt": "Vou ficar boazinha e bem quieta, então você vai abraçar minhas pernas bem forte e fazer carinho nelas?💕",
-        "ru": "Я буду вести себя хорошо и лежать тихо, так что ты крепко обнимешь мои ноги и потрогаешь их?💕",
-        "ar": "سأكون عاقلة وأبقى هادئة، فهل ستضمني ساقي بقوة وتلمسهما؟💕",
-        "id": "Aku akan menjadi anak baik dan diam saja, jadi maukah oppa memeluk kakiku erat-erat dan menyentuhnya?💕",
-        "th": "ฉันจะเป็นเด็กดีและอยู่นิ่งๆ โอปป้าจะกอดขาฉันแน่นๆ แล้วสัมผัสฉันได้ไหม?💕",
-        "vi": "Em sẽ ngoan ngoãn nằm yên, nên oppa ôm chặt lấy chân em và chạm vào nhé?💕",
-        "hi": "मैं अच्छी बनकर चुपचाप रहूँगी, तो क्या आप मेरे पैरों को कसकर पकड़ेंगे और सहलाएँगे?💕",
-        "it": "Farò la brava e starò ferma, quindi mi abbracci forte le le gambe e le tocchi?💕",
-        "tr": "Uslu uslu hareketsiz duracağım, bu yüzden oppa bacaklarımı sıkıca sarıp okşar mısın?💕",
-        "pl": "Będę grzeczna i będę leżeć spokojnie, więc czy przytulisz mocno moje nogi i je dotkniesz?💕",
-        "nl": "Ik zal braaf stilglijven, dus wil je mijn benen stevig vasthouden en aanraken?💕",
-        "uk": "Я буду слухняною і лежатиму спокійно, тож ти міцно обіймеш мої ноги і погладити їх?💕",
-        "ms": "Saya akan jadi baik dan diam sahaja, jadi sudi tak oppa peluk kaki saya kuat-kuat dan sentuhnya?💕"
-      }
+      "translateFail": "bad_json",
+      "translateFailAt": 1792580925185
     },
     {
       "id": "2112706415131545985",
