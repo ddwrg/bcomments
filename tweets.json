@@ -14571,7 +14571,39 @@
       "note": "",
       "createdAt": 1792485269886,
       "score": 0,
-      "delHash": "8fea145dceb7caa2f002e371206e127d27b168085a73a7ba2a8f9986337eac36"
+      "delHash": "8fea145dceb7caa2f002e371206e127d27b168085a73a7ba2a8f9986337eac36",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112214652042252289/vid/avc1/720x900/AFGBL-9m65mPlXkg.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112214652042252289/img/LVaGI5ha5Mom5BD4.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112214652042252289/img/LVaGI5ha5Mom5BD4.jpg",
+      "tweetText": "아저씨 어려도 따먹어 줘요⁉️ 😔",
+      "translations": {
+        "ko": "아저씨 어려도 따먹어 줘요⁉️ 😔",
+        "en": "Even if I'm young, will you hook up with me, mister⁉️ 😔",
+        "ja": "おじさん、若くても食べてくれる⁉️ 😔",
+        "zh": "大叔，就算我很年轻也能和我那个吗⁉️ 😔",
+        "es": "¿Aunque sea joven, me lo das, tío⁉️ 😔",
+        "fr": "Même si je suis jeune, tu veux bien de moi, monsieur⁉️ 😔",
+        "de": "Auch wenn ich jung bin, nimmst du mich, Alter⁉️ 😔",
+        "pt": "Mesmo sendo jovem, você me pega, tio⁉️ 😔",
+        "ru": "Даже если я молодая, переспишь со мной, дядя⁉️ 😔",
+        "ar": "حتى لو كنت صغيراً، هل ستتناولني أيها العم⁉️ 😔",
+        "id": "Meskipun aku masih muda, maukah kamu memakannya, om⁉️ 😔",
+        "th": "ถึงฉันจะเด็ก ก็กินฉันหน่อยนะลุง⁉️ 😔",
+        "vi": "Dù em còn trẻ, chú có muốn ăn em không⁉️ 😔",
+        "hi": "अगर मैं छोटी हूँ, तब भी क्या तुम मुझे लोगे, अंकल⁉️ 😔",
+        "it": "Anche se sono giovane, me la dai, zio⁉️ 😔",
+        "tr": "Genç olsam bile benimle birlikte olur musun amca⁉️ 😔",
+        "pl": "Nawet jeśli jestem młoda, przelecisz mnie, wuju⁉️ 😔",
+        "nl": "Zelfs als ik jong ben, doe je me, meneer⁉️ 😔",
+        "uk": "Навіть якщо я молода, переспиш зі мною, дядько⁉️ 😔",
+        "ms": "Walaupun saya muda, sudi ke abang layan saya⁉️ 😔"
+      },
+      "mediaCheckedAt": 1792641923536
     },
     {
       "id": "2112214971304354182",
