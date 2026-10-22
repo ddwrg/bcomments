@@ -13456,7 +13456,35 @@
       "note": "",
       "createdAt": 1792485335582,
       "score": 0,
-      "delHash": "319c2ebd57b1815d494b7b0aa4813b59a31fde1958babbf6ca5fed5047ba789f"
+      "delHash": "319c2ebd57b1815d494b7b0aa4813b59a31fde1958babbf6ca5fed5047ba789f",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112329955657007104/vid/avc1/720x960/P9JjyDf6-YO8I6P9.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112329955657007104/img/npU_pp14eFpt77y1.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112329955657007104/img/npU_pp14eFpt77y1.jpg",
+      "tweetText": "반응 조으면 더 야릇하게 노는 영상 오빠들한테 다 뿌림.",
+      "translations": {
+        "ko": "반응 조으면 더 야릇하게 노는 영상 오빠들한테 다 뿌림.",
+        "en": "If the reaction is good, I'll send the even more suggestive playing video to all the oppas.",
+        "ja": "反応が良ければ、もっと妖艶に遊んでる動画、オッパたちにみんな配っちゃう。",
+        "zh": "如果反应好的话，把更挑逗的玩耍视频发给所有哥哥们。",
+        "es": "Si la reacción es buena, les enviaré a todos los oppas el video jugando de manera aún más sugerente.",
+        "fr": "Si la réaction est bonne, j'enverrai la vidéo encore plus suggestive à tous les oppas.",
+        "id": "Jika tanggapannya bagus, aku akan membagikan video bermain yang lebih menggoda ke semua oppa.",
+        "th": "ถ้ากระแสตอบรับดี เดี๋ยวส่งคลิปเล่นแบบยั่วยวนกว่าเดิมให้พวกโอปป้าดูให้หมดเลย",
+        "vi": "Nếu phản ứng tốt, tôi sẽ gửi video chơi bời khiêu gợi hơn cho tất cả các oppa.",
+        "hi": "अगर प्रतिक्रिया अच्छी रही, तो मैं और अधिक कामुक खेलने का वीडियो सभी ओप्पा को भेज दूंगी।",
+        "it": "Se la reazione è buona, manderò il video in cui gioco in modo ancora più provocante a tutti gli oppa.",
+        "tr": "Tepki iyi olursa, daha da kışkırtıcı bir şekilde oynadığım videoyu bütün oppalara yayarım.",
+        "pl": "Jeśli reakcja będzie dobra, wyślę filmik, na którym bawię się w bardziej zmysłowy sposób, do wszystkich oppów.",
+        "nl": "Als de reactie goed is, stuur ik de nog meer suggestieve speelvideo naar alle oppa's.",
+        "uk": "Якщо реакція буде хорошою, я розішлю відео, де граюся ще більш пікантно, всім оппам.",
+        "ms": "Jika sambutan bagus, saya akan hantar video bermain yang lebih menggoda kepada semua oppa."
+      },
+      "mediaCheckedAt": 1792641492733
     },
     {
       "id": "2112084579830145040",
