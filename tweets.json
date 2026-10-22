@@ -12903,7 +12903,18 @@
       "note": "",
       "createdAt": 1792485369127,
       "score": 0,
-      "delHash": "d2f79adb961dcb5be30c245e82b644f237b5e1b5bc4136e4101831dcc922b821"
+      "delHash": "d2f79adb961dcb5be30c245e82b644f237b5e1b5bc4136e4101831dcc922b821",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112204226193678336/vid/avc1/720x1280/2Gi8IOFW1wuB6gmW.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112204226193678336/img/D0vHdIE_sTQr_yjS.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112204226193678336/img/D0vHdIE_sTQr_yjS.jpg",
+      "tweetText": "샤워하구 누웟는데 다리가 너무 길어서 이불이 배꼽까지만 덮이는거 실화냐 ㅋ 다리 추운데 안아줄 오빠 구함 🤤\n내일 오전 11시까지 마음누른 오빠들한테 내 ㅈㅇ영상 보내주까?",
+      "translateFail": "bad_json",
+      "translateFailAt": 1792641273124
     },
     {
       "id": "2112203344404189670",
