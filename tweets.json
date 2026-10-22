@@ -184,7 +184,15 @@
         "nl": "Elke keer als jullie knopjes losraken, denk ik dat mijn lichaam vieze gedachten heeft lol",
         "uk": "Дивлячись на те, як ви постійно розстібаєте ґудзики, мені здається, що моє тіло думає про брудні речі лол",
         "ms": "Melihat korang terus buka butang baju buat aku rasa badan aku tengah fikir benda kotor je haha"
-      }
+      },
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112628283712155648/vid/avc1/720x960/5ZJLCscfyhPy2zq5.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112628283712155648/img/gHkqkhYQdd3ZcVy5.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112628283712155648/img/gHkqkhYQdd3ZcVy5.jpg"
     },
     {
       "id": "2112625203935396254",
