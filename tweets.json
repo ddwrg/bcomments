@@ -13492,7 +13492,39 @@
       "note": "",
       "createdAt": 1792485333054,
       "score": 0,
-      "delHash": "0da6c748c530dd841ab1d90a5ee9bf2ad4d79ca9c12727d96ff7ef57bee78707"
+      "delHash": "0da6c748c530dd841ab1d90a5ee9bf2ad4d79ca9c12727d96ff7ef57bee78707",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112084469016567808/vid/avc1/720x960/2b_PRIwLU5sIWuRq.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112084469016567808/img/LLJO-0l-xBEQejiS.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112084469016567808/img/LLJO-0l-xBEQejiS.jpg",
+      "tweetText": "고추 16센치이상만 하트눌렁 🥭",
+      "translations": {
+        "ko": "고추 16센치이상만 하트눌렁 🥭",
+        "en": "Peppers 16cm and above only, press heart 🥭",
+        "ja": "唐辛子16センチ以上だけハート押してね 🥭",
+        "zh": "辣椒16厘米以上的才点赞哦 🥭",
+        "es": "Solo chiles de 16 cm o más, dale al corazón 🥭",
+        "fr": "Piments de 16 cm et plus seulement, appuient sur le cœur 🥭",
+        "de": "Nur Paprika ab 16 cm, Herz drücken 🥭",
+        "pt": "Apenas pimentas de 16 cm ou mais, curtam 🥭",
+        "ru": "Только перцы от 16 см и выше жмут сердечко 🥭",
+        "ar": "الفلفل بطول 16 سم فأكثر فقط اضغط على القلب 🥭",
+        "id": "Cabai 16cm ke atas saja yang tekan ❤️ 🥭",
+        "th": "พริก 16 ซม. ขึ้นไปเท่านั้นกดหัวใจ 🥭",
+        "vi": "Chỉ ớt từ 16cm trở lên mới bấm tim nhé 🥭",
+        "hi": "केवल 16 सेमी और उससे अधिक लंबी मिर्च वाले ही दिल दबाएं 🥭",
+        "it": "Solo peperoncini dai 16 cm in su, mettete mi piace 🥭",
+        "tr": "Sadece 16 cm ve üzeri biberler kalbe bassın 🥭",
+        "pl": "Tylko papryczki od 16 cm wzwyż dają serduszko 🥭",
+        "nl": "Alleen pepers van 16 cm en hoger drukken op hartje 🥭",
+        "uk": "Тільки перці від 16 см і більше тиснуть сердечко 🥭",
+        "ms": "Cili 16cm ke atas sahaja tekan butang 🥭"
+      },
+      "mediaCheckedAt": 1792641500945
     },
     {
       "id": "2112208660990751058",
