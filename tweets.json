@@ -16567,7 +16567,38 @@
       "note": "",
       "createdAt": 1792485153056,
       "score": 0,
-      "delHash": "177fdb7577ad23f18d8449b709e2a32fb5ab7a98f11e8e2fff5029327503795a"
+      "delHash": "177fdb7577ad23f18d8449b709e2a32fb5ab7a98f11e8e2fff5029327503795a",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112104673209729024/vid/avc1/960x720/uG6Xwdcl-DjugKx3.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112104673209729024/img/yIzKSBcJWXRPwwRs.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112104673209729024/img/yIzKSBcJWXRPwwRs.jpg",
+      "tweetText": "블랙 레이스 브라만 입고 있으니까 손이 자꾸 아래로 내려가네",
+      "translations": {
+        "ko": "블랙 레이스 브라만 입고 있으니까 손이 자꾸 아래로 내려가네",
+        "en": "Wearing only a black lace bra, my hands keep wandering down",
+        "ja": "黒のレースブラだけ着ていると、手がどうしても下にいっちゃうな",
+        "zh": "只穿着黑色蕾丝文胸，手总是不由自主地往下伸",
+        "es": "Llevando solo un sujetador de encaje negro, mis manos siguen bajando",
+        "fr": "Je ne porte qu'en soutien-gorge en dentelle noire, mes mains n'arrêtent pas de descendre",
+        "de": "Wenn ich nur einen schwarzen Spitzen-BH trage, wandern meine Hände ständig nach unten",
+        "pt": "Usando apenas um sutiã de renda preta, minhas mãos insistem em descer",
+        "ru": "Когда я в одном черном кружевном лифчике, руки так и норовят опуститься ниже",
+        "ar": "أرتدي حمالة صدر من الدانتيل الأسود فقط، وتستمر يداي في النزول للأسفل",
+        "id": "Hanya memakai bra renda hitam, tangan ini terus saja turun ke bawah",
+        "th": "ใส่แค่บราลูกไม้สีดำทีไร มือมันเผลอเลื่อนลงต่ำเรื่อยเลย",
+        "vi": "Chỉ mặc mỗi áo lót ren đen, tay cứ cứ vô thức trượt xuống dưới",
+        "hi": "सिर्फ कालीLace ब्रा पहने होने के कारण, मेरे हाथ बार-बार नीचे जा रहे हैं",
+        "it": "Indossando solo un reggiseno di pizzo nero, le mie mani continuano a scendere",
+        "pl": "Mając na sobie tylko czarny koronkowy biustonosz, moje ręce wciąż wędrują w dół",
+        "nl": "Als ik alleen een zwarte kanten bh draag, blijven mijn handen naar beneden dwalen",
+        "uk": "Коли я в одному чорному мереживному бюстгальтері, руки так і норовлять опуститися вниз",
+        "ms": "Memakai bra renda hitam sahaja, tangan ini asyik turun ke bawah je"
+      },
+      "mediaCheckedAt": 1792642984543
     },
     {
       "id": "2112230426559578202",
