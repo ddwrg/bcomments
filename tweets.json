@@ -17130,7 +17130,39 @@
       "note": "",
       "createdAt": 1792485118714,
       "score": 0,
-      "delHash": "0ec655d9da70f0e5a190934ecd600d193ffef032fc1ed9e5684b771daa5c60e6"
+      "delHash": "0ec655d9da70f0e5a190934ecd600d193ffef032fc1ed9e5684b771daa5c60e6",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112233330137833472/vid/avc1/774x720/AbcnNHCWRtmGOk90.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112233330137833472/img/9PK5bi8zvr3Hm9Wt.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112233330137833472/img/9PK5bi8zvr3Hm9Wt.jpg",
+      "tweetText": "집에서 이러구 기달리는데 오빠가 내 귀여운 젤리 빨아 줄 수 있어?🐱",
+      "translations": {
+        "ko": "집에서 이러구 기달리는데 오빠가 내 귀여운 젤리 빨아 줄 수 있어?🐱",
+        "en": "I'm waiting at home like this, can oppa suck on my cute jelly?🐱",
+        "ja": "家でこうやって待ってるんだけど、オッパ私の可愛いゼリーを吸ってくれる？🐱",
+        "zh": "我在家里这样等着，欧巴能吸我可爱的果冻吗？🐱",
+        "es": "Estoy esperando en casa así, ¿puede oppa chuparme mi linda gelatina?🐱",
+        "fr": "J'attends à la maison comme ça, est-ce que oppa peut sucer ma mignonne gelée ?🐱",
+        "de": "Ich warte zu Hause so, kann Oppa an meinem süßen Jelly lutschen?🐱",
+        "pt": "Estou esperando em casa assim, o oppa pode chupar minha geleinha fofa?🐱",
+        "ru": "Я жду дома вот так, оппа, можешь пососать мое милое желе?🐱",
+        "ar": "أنا أنتظر في المنزل هكذا، هل يمكن لأوبا أن يمص جيلي اللطيف؟🐱",
+        "id": "Aku menunggu di rumah seperti ini, bisakah oppa menghisap jelly-ku yang lucu?🐱",
+        "th": "ฉันรอยู่อย่างนี้ที่บ้านนะ โอปป้าช่วยดูดเยลลี่น่ารักๆ ของฉันหน่อยได้ไหม?🐱",
+        "vi": "Em đang đợi ở nhà thế này, oppa có thể mút chiếc thạch dễ thương của em không?🐱",
+        "hi": "मैं घर पर ऐसे इंतज़ार कर रही हूँ, क्या ओप्पा मेरी प्यारी जेली चूस सकता है?🐱",
+        "it": "Sto aspettando a casa così, oppa può succhiare la mia gelatinosa carina?🐱",
+        "tr": "Evde böyle bekliyorum, oppa tatlı jölemi emebilir misin?🐱",
+        "pl": "Czekam tak w domu, czy oppa może ssąć moją uroczą galaretkę?🐱",
+        "nl": "Ik zit thuis zo te wachten, kan oppa aan mijn schattige jelly zuigen?🐱",
+        "uk": "Я чекаю вдома ось так, оппа, можеш поссмоктати моє миле желе?🐱",
+        "ms": "Saya tunggu di rumah macam ni, boleh ke oppa sedut jeli comel saya?🐱"
+      },
+      "mediaCheckedAt": 1792643214844
     },
     {
       "id": "2112234385298874484",
