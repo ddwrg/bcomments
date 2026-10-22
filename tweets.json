@@ -12042,7 +12042,7 @@
       "score": 0,
       "delHash": "582dcbfd0a47f07e69d62f7e358be2d66d85ee9307f761d3ba52735fd416a926",
       "translateFail": "no_text",
-      "translateFailAt": 1792635172648
+      "translateFailAt": 1792635157862
     },
     {
       "id": "2111951128581881972",
@@ -12050,7 +12050,30 @@
       "note": "",
       "createdAt": 1792485408621,
       "score": 0,
-      "delHash": "1afc659b6c3ed1c61c18ea55e1193cacc06f0b514c248246c6cb9033aa9242d2"
+      "delHash": "1afc659b6c3ed1c61c18ea55e1193cacc06f0b514c248246c6cb9033aa9242d2",
+      "tweetText": "아까 찍은 야노 영상 아직 못 받은 사람? DM 남겨",
+      "translations": {
+        "ko": "아까 찍은 야노 영상 아직 못 받은 사람? DM 남겨",
+        "en": "Who hasn't received the Yano video I took earlier yet? Send me a DM",
+        "ja": "さっき撮ったヤノの動画、まだ受け取ってない人？DMして",
+        "zh": "刚才拍的Yano视频还没收到的人？给我发私信",
+        "es": "¿Quién no ha recibido todavía el vídeo de Yano que grabé antes? Envíame un DM",
+        "fr": "Qui n'a pas encore reçu la vidéo de Yano que j'ai filmée tout à l'heure ? Envoyez-moi un DM",
+        "de": "Wer hat das Video von Yano, das ich vorhin aufgenommen habe, noch nicht bekommen? Schreibt mir eine DM",
+        "pt": "Quem ainda não recebeu o vídeo do Yano quegravei mais cedo? Me mande uma DM",
+        "ru": "Кто еще не получил видео с Яно, которое я снял(а) ранее? Напишите мне в ДМ",
+        "ar": "من لم يحصل بعد على فيديو يانو الذي صورته قبل قليل؟ أرسل لي رسالة خاصة",
+        "id": "Siapa yang belum terima video Yano yang tadi aku ambil? DM ya",
+        "th": "ใครยังไม่ได้วิดีโอน้องยาโนะที่ถ่ายไว้เมื่อกี้บ้าง? DM มานะ",
+        "vi": "Ai chưa nhận được video Yano tôi quay lúc nãy không? Nhắn tin DM cho tôi",
+        "hi": "जिसने थोड़ी देर पहले मैंने जो यानो का वीडियो बनाया था, वह अभी तक नहीं मिला? मुझे DM करें",
+        "it": "Chi non ha ancora ricevuto il video di Yano che ho girato prima? Mandatemi un DM",
+        "tr": "Demin çektiğim Yano videosunu henüz almayan var mı? DM atın",
+        "pl": "Kto jeszcze nie dostał nagranego wcześniej wideo Yano? Wyślijcie DM",
+        "nl": "Wie heeft de Yano-video die ik daarnet heb gemaakt nog niet ontvangen? Stuur me een DM",
+        "uk": "Хто ще не отримав відео Яно, яке я зняв(ла) раніше? Напишіть мені в DM",
+        "ms": "Siapa yang belum dapat video Yano yang saya rakam tadi? DM saya"
+      }
     },
     {
       "id": "2112197869440733446",
