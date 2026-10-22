@@ -13259,7 +13259,38 @@
       "note": "",
       "createdAt": 1792485346344,
       "score": 0,
-      "delHash": "93980a70de1821e2be5a34efd536f76d5eae9e9c78d34d5ba2acb594b4056c5a"
+      "delHash": "93980a70de1821e2be5a34efd536f76d5eae9e9c78d34d5ba2acb594b4056c5a",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112206899525586944/vid/avc1/720x960/6rOv1lD_ECEOKcmQ.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112206899525586944/img/oH73PZ40Ac-JK6Hf.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112206899525586944/img/oH73PZ40Ac-JK6Hf.jpg",
+      "tweetText": "내 미공개 셀카 영상 원본 그대로 다 받을사람?",
+      "translations": {
+        "ko": "내 미공개 셀카 영상 원본 그대로 다 받을사람?",
+        "en": "Who wants to get all my unreleased selfie videos in their original quality?",
+        "ja": "私の未公開セルカ動画のオリジナルをそのまま全部受け取りたい人？",
+        "zh": "谁想要我未公开的自拍视频原片？",
+        "es": "¿Quién quiere recibir todos mis videos de selfies inéditos en su calidad original?",
+        "fr": "Qui veut recevoir toutes mes vidéos de selfies inédites en version originale ?",
+        "de": "Wer möchte alle meine unveröffentlichten Selfie-Videos in Originalqualität haben?",
+        "pt": "Quem quer receber todos os meus vídeos de selfies inéditos na íntegra?",
+        "ru": "Кто хочет получить все мои неопубликованные селфи-видео в оригинальном качестве?",
+        "ar": "من يريد الحصول على جميع مقاطع فيديو السيلفي غير المنشورة الخاصة بي بجودتها الأصلية؟",
+        "id": "Siapa yang mau semua video selfieunpublished aku dalam kualitas asli?",
+        "th": "ใครอยากได้วิดีโอเซลฟี่ที่ยังไม่เคยเปิดเผยของฉันแบบต้นฉบับเต็มๆ บ้าง?",
+        "vi": "Ai muốn nhận toàn bộ video selfie chưa từng công bố của tôi ở chất lượng gốc nào?",
+        "it": "Chi vuole ricevere tutti i miei video selfie inediti in versione originale?",
+        "tr": "Yayınlanmamış selfie videolarımın orijinalini tam olarak kimler almak ister?",
+        "pl": "Kto chce otrzymać wszystkie moje nieopublikowane wideo selfie w oryginalnej jakości?",
+        "nl": "Wie wil al mijn onuitgegeven selfie-video's in originele kwaliteit ontvangen?",
+        "uk": "Хто хоче отримати всі мої неопубліковані селфі-відео в оригінальній якості?",
+        "ms": "Siapa nak semua video selfie saya yang belum pernah dikeluarkan dalam kualiti asal?"
+      },
+      "mediaCheckedAt": 1792641449193
     },
     {
       "id": "2112207524556636607",
