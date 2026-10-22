@@ -12145,8 +12145,27 @@
       "score": 0,
       "delHash": "1fbb9374f6b76f76c0e9d7f60a5b7ff726dd8b4987081f1f2fc673e3d937f6ae",
       "tweetText": "환자오빠들 어디 아픈지 말해바 내 가슴 소리 들으면 싹 낫는 특효약인데 💉\n나한테 전담 밀착 간호 받아볼 오빠 가능?",
-      "translateFail": "bad_json",
-      "translateFailAt": 1792636013450
+      "translations": {
+        "ko": "환자오빠들 어디 아픈지 말해바 내 가슴 소리 들으면 싹 낫는 특효약인데 💉\n나한테 전담 밀착 간호 받아볼 오빠 가능?",
+        "en": "Hey patient oppas, tell me where it hurts. Listening to my heartbeat is a 100% cure-all remedy 💉\nAny oppas want my dedicated, close-up nursing care? Can you handle it?",
+        "ja": "患者のオッパたち、どこが痛いか言ってよ。私の胸の音を聞けばすっかり治る特効薬だから 💉\n私から専属の密着看護を受けてみたいオッパ、いける？",
+        "zh": "欧巴病人门，哪里痛快告诉我，听听我的心跳声包准立刻痊愈哦 💉\n有哪位欧巴想要接受我的专属贴身护理吗？",
+        "es": "Oppa pacientes, díganme dónde les duele. Escuchar los latidos de mi pecho es el remedio definitivo 💉\n¿Algún oppa quiere recibir mi atención de enfermería exclusiva y cercana?",
+        "fr": "Hé les oppas patients, dites-moi où ça fait mal. Écouter mon cœur est un remède miracle 💉\nQuel oppa veut recevoir mes soins infirmiers personnalisés et rapprochés ?",
+        "de": "Hey Patienten-Oppas, sagt mir, wo es wehtut. Meinen Herzschlag zu hören ist das absolute Wundermittel 💉\nWelcher Oppa möchte meine persönliche Intensivpflege?",
+        "pt": "Opps pacientes, me digam onde dói. Ouvir o som do meu peito é um remédio infalível 💉\nAlgum oppa quer receber meus cuidados de enfermagem exclusivos e bem pertinho?",
+        "ar": "يا أوباس المرضى، أخبِروني أين تؤلمكم. الاستماع إلى صوت صدري هو علاج سحري شافي 💉\nهل هناك أوبا يريد تلقي عنايتي التمريضية الخاصة والقريبة؟",
+        "id": "Para pasien oppa, beri tahu aku mana yang sakit. Mendengarkan suara dadaku adalah obat mujarab yang langsung sembuh 💉\nAda oppa yang mau dirawat secara khusus dan dekat olehku?",
+        "th": "เหล่าโอ빠คนไข้บอกมาซิว่าเจ็บตรงไหน ฟังเสียงหัวใจฉันแล้วหาย 100% เป็นยาดีเลยนะ 💉\nมีโอ빠คนไหนอยากให้ฉันดูแลแบบประกบใกล้ชิดตัวต่อตัวบ้าง?",
+        "vi": "Các oppa bệnh nhân ơi, đau ở đâu thì khai mau. Nghe tiếng tim em là khỏi bệnh ngay, thuốc đặc trị đấy 💉\nOppa nào muốn được em chăm sóc đặc biệt cận kề không?",
+        "hi": "रोगी ओप्पा, बताओ कहाँ दर्द है। मेरी छाती की धड़कन सुनना सौ प्रतिशत अचूक इलाज है 💉\nक्या कोई ओप्पा मेरी समर्पित, करीब से देखभाल पाना चाहता है?",
+        "it": "Hey oppa pazienti, ditemi dove vi fa male. Ascoltare il battito del mio petto è un rimedio miracoloso 💉\nC'è qualche oppa che vuole ricevere le mie cure infermieristiche dedicate e ravvicinate?",
+        "tr": "Hasta oppalar, nereniz ağrıyor söyleyin. Göğsümün sesini dinlemek anında iyileştiren mucizevi bir ilaç 💉\nBenden özel ve yakın hemşirelik bakımı almak isteyen oppa var mı?",
+        "pl": "Pacjenci-oppa, powiedzcie, co wam boli. Słuchanie mojego serca to niezawodne lekarstwo 💉\nKtóry oppa chce ode mnie dedykowanej, bliskiej opieki pielęgniarskiej?",
+        "nl": "Patiënt-oppa's, vertel me waar het pijn doet. Naar mijn hartslag luisteren is een wondermiddel 💉\nWelke oppa wil mijn toegewijde, intensieve verpleging proberen?",
+        "uk": "Пацієнти-оппи, кажіть, де болить. Слухати бій мого серця — це найкращі ліки від усього 💉\nЯкий оппа хоче отримати мій персональний догляд із близьким контактом?",
+        "ms": "Oppa pesakit, beritahu mana yang sakit. Mendengar degupan dada aku adalah ubat mujarab yang menyembuhkan terus 💉\nAda oppa yang nak cuba penjagaan kejururawatan eksklusif dan dekat daripada aku?"
+      }
     },
     {
       "id": "2112199980530430100",
