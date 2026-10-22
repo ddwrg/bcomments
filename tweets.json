@@ -16074,7 +16074,38 @@
       "note": "",
       "createdAt": 1792485183287,
       "score": 0,
-      "delHash": "2f1bf3f1b4eb24c6863373bcf692e48276d6f61f59c009ebac5616fadd8896eb"
+      "delHash": "2f1bf3f1b4eb24c6863373bcf692e48276d6f61f59c009ebac5616fadd8896eb",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112328687010099200/vid/avc1/720x960/PEWz5iqjEh3PF7ES.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112328687010099200/img/bJjoSx7MVI9364gv.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112328687010099200/img/bJjoSx7MVI9364gv.jpg",
+      "tweetText": "빨간 폰으로 거울셀카 찍엇더니 내 옷은 까만데 오빠 꽈추 반응은 완전 레드카드급으로 서버린거 가튼데 ㅋ",
+      "translations": {
+        "ko": "빨간 폰으로 거울셀카 찍엇더니 내 옷은 까만데 오빠 꽈추 반응은 완전 레드카드급으로 서버린거 가튼데 ㅋ",
+        "en": "Took a mirror selfie with my red phone, and even though my dress is black, it looks like his little guy reacted so hard it's practically a red card ㅋ",
+        "ja": "赤いスマホで鏡セルフィ―撮ったら、私の服は黒いのに、彼のイチモツの反応が完全にレッドカード級に立っちゃったみたいなんだけど ㅋ",
+        "zh": "用红色的手机拍了对镜自拍，虽然我穿得很黑，但感觉他的小弟弟有反应得跟红牌警告一样直接硬了 ㅋ",
+        "es": "Me hice una selfie en el espejo con mi teléfono rojo y, aunque mi ropa es negra, parece que la reacción de su amiguito se puso tan dura que es digna de tarjeta roja ㅋ",
+        "fr": "J'ai pris un selfie dans le miroir avec mon téléphone rouge, et même si mes vêtements sont noirs, on dirait que la réaction de son petit gars est montée au quart de tour au niveau carton rouge ㅋ",
+        "de": "Habe ein Spiegel-Selfie mit meinem roten Handy gemacht, und obwohl meine Kleidung schwarz ist, sieht es so aus, als ob sein Gemächt so hart reagiert hat, dass es reif für eine Rote Karte ist ㅋ",
+        "pt": "Tirei uma selfie no espelho com meu celular vermelho e, embora minha roupa seja preta, parece que a reação do amiguinho dele ficou tão dura que merece cartão vermelho ㅋ",
+        "ar": "التقطت صورة سيلفي في المرآة بهاتفي الأحمر، وعلى الرغم من أن ملابسي سوداء، يبدو أن تفاعل صغيره أصبح منتصباً لدرجة تستحق بطاقة حمراء ㅋ",
+        "id": "Ambil mirror selfie pakai HP merah, padahal bajuku hitam tapi reaksi 'anu'nya dia kayaknya udah tegak banget sampe level kartu merah ㅋ",
+        "th": "ถ่ายเซลฟี่หน้ากระจกด้วยมือถือสีแดง ถึงชุดฉันจะสีดำ แต่ดูเหมือนว่าน้องชายของเขาจะตอบสนองจนตั้งโด่ระดับใบแดงเลยนะเนี่ย ㅋ",
+        "vi": "Chụp selfie trước gương bằng điện thoại đỏ, dù đồ tôi màu đen nhưng có vẻ phản ứng 'cậu nhỏ' của anh ấy cứng ngắc đến mức đáng nhận thẻ đỏ luôn rồi ㅋ",
+        "hi": "लाल फोन से मिरर सेल्फी ली, और भले ही मेरे कपड़े काले हैं, ऐसा लगता है कि उसके छोटे भाई की प्रतिक्रिया इतनी सख्त हो गई कि यह लगभग रेड कार्ड के बराबर है ㅋ",
+        "it": "Ho fatto un selfie allo specchio con il mio telefono rosso e, anche se i miei vestiti sono neri, sembra che la reazione del suo amichetto sia così dura da meritarsi un cartellino rosso ㅋ",
+        "tr": "Kırmızı telefonumla ayna özçekimi yaptım, kıyafetlerim siyah olmasına rağmen sevgilinin pipisi o kadar sert tepki vermiş ki neredeyse kırmızı kartlık olmuş ㅋ",
+        "pl": "Zrobiłam sobie selfie w lustrze z czerwonym telefonem i chociaż moje ubrania są czarne, to chyba jego mały przyjaciel zareagował tak mocno, że zasługuje na czerwoną kartkę ㅋ",
+        "nl": "Een mirrorselfie gemaakt met mijn rode telefoon, en hoewel mijn kleding zwart is, lijkt het erop dat de reactie van zijn kleine vriend zo hard is dat het bijna een rode kaart waard is ㅋ",
+        "uk": "Зробила селфі в дзеркалі з червоним телефоном, і хоча мій одяг чорний, здається, реакція його молодшого брата настільки збудилася, що це тягне на червону картку ㅋ",
+        "ms": "Ambil selfie cermin guna telefon merah, walaupun baju aku warna hitam tapi nampak macam reaksi 'adik' dia dah tegak sampai tahap kad merah ㅋ"
+      },
+      "mediaCheckedAt": 1792642768146
     },
     {
       "id": "2112101442270175443",
