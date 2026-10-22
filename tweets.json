@@ -29,7 +29,15 @@
         "nl": "Hou je van roze? Het is nog mooier als je het lint losmaakt",
         "uk": "Тобі подобається рожевий? Без стрічки ще красивіше",
         "ms": "Awak suka warna pink? Lagi cantik kalau buka reben ni"
-      }
+      },
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112598432196280320/vid/avc1/720x720/A-EDSTRmvmdxOpN5.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112598432196280320/img/_hVn_ZC3tFXIXYlR.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112598432196280320/img/_hVn_ZC3tFXIXYlR.jpg"
     },
     {
       "id": "2112627287841796603",
@@ -12751,29 +12759,7 @@
       "note": "",
       "createdAt": 1792485373314,
       "score": 0,
-      "delHash": "3869493112cff3c07eaa1f26ce837bb531bfc299b9f07d6703844670c5d776a9",
-      "tweetText": "빨간 제복 입으니까 가슴 단추 터질꺼 가튼데 오빠들 심장에 총알 탕탕 쏠까낭 ✌️",
-      "translations": {
-        "ko": "빨간 제복 입으니까 가슴 단추 터질꺼 가튼데 오빠들 심장에 총알 탕탕 쏠까낭 ✌️",
-        "en": "Wearing this red uniform, my chest buttons feel like they're gonna pop! Should I shoot a bullet straight into you guys' hearts, bang bang? ✌️",
-        "ja": "赤い制服を着たら胸のボタンが弾けそうなんだけど、オッパたちの心臓に弾丸をバンッて撃っちゃおうかな ✌️",
-        "zh": "穿着红色制服，胸前的纽扣感觉都要撑开了呢，要不要向哥哥们的心里开几枪呢 ✌️",
-        "es": "¡Con este uniforme rojo puesto, los botones de mi pechera van a explotar! ¿Debería disparar una bala directo a sus corazones, bang bang? ✌️",
-        "fr": "En portant cet uniforme rouge, j'ai l'impression que les boutons de ma chemise vont sauter ! Je devrais tirer une balle directement dans vos cœurs, pan pan ? ✌️",
-        "de": "In dieser roten Uniform platzen gleich die Knöpfe! Soll ich ein paar Kugeln direkt in eure Herzen schießen, bang bang? ✌️",
-        "pt": "Usando este uniforme vermelho, os botões do meu peito parecem que vão estourar! Será que dou uns tiros direto nos corações de vocês, pow pow? ✌️",
-        "ru": "В этой красной форме пуговицы на груди того и гляди лопнут! Может, пальнуть вам прямо в сердечки, бах-бах? ✌️",
-        "ar": "أنا أرتدي هذا الزي الأحمر لدرجة أن أزرار صدري تكاد تنفجر! هل أطلق رصاصة مباشرة في قلوبكم، بانج بانج؟ ✌️",
-        "id": "Memakai seragam merah ini, kancing dadaku rasanya mau copot! Haruskah aku tembakkan peluru langsung ke hati kalian, dor dor? ✌️",
-        "th": "ใส่ชุดยูนิฟอร์มสีแดงนี้แล้วกระดุมหน้าอกแทบจะปริเลยล่ะ จะให้ยิงกระสุนใส่หัวใจพวกโอปป้าดีมั้ยนะ ปังๆ ✌️",
-        "vi": "Mặc bộ đồng phục đỏ này mà cúc áo trước ngực cứ như muốn bung ra! Hay là em bắn một phát đạn thẳng vào tim các anh nhé, pằng pằng? ✌️",
-        "hi": "यह लाल यूनिफ़ॉर्म पहनने के बाद ऐसा लगता है कि मेरे सीने के बटन फट जाएंगे! क्या मैं आप लोगों के दिलों में सीधे एक गोली चला दूँ, बैंग बैंग? ✌️",
-        "it": "Indossando questa divisa rossa, i bottoni del petto sembrano sul punto di scoppiare! Dovrei sparare un proiettile dritto nei vostri cuori, bang bang? ✌️",
-        "pl": "W tym czerwonym mundurku mam wrażenie, że guziki na piersi zaraz pękną! Czy powinnam strzelić prosto w wasze serca, bang bang? ✌️",
-        "nl": "In dit rode uniform knallen de knoopjes bijna van mijn borst! Zal ik een kogel recht in jullie harten afschieten, bang bang? ✌️",
-        "uk": "У цій червоній формі ґудзики на грудях зараз лопнуть! Може, стрілити вам прямо в серця, бах-бах? ✌️",
-        "ms": "Memakai pakaian seragam merah ni, butang dada rasa macam nak tercabut! Patutkah aku tembak peluru terus ke hati korang, bang bang? ✌️"
-      }
+      "delHash": "3869493112cff3c07eaa1f26ce837bb531bfc299b9f07d6703844670c5d776a9"
     },
     {
       "id": "2112324289060102389",
