@@ -13040,7 +13040,39 @@
       "note": "",
       "createdAt": 1792485360420,
       "score": 0,
-      "delHash": "07171d7d4466e2896b430e10e9de1886571b0b68f89b9ab97a53c92a9ba3f71a"
+      "delHash": "07171d7d4466e2896b430e10e9de1886571b0b68f89b9ab97a53c92a9ba3f71a",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112324875658682368/vid/avc1/720x982/igoh4mFy3X1EsgQO.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112324875658682368/img/JtUQF7fnQZBy1atI.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112324875658682368/img/JtUQF7fnQZBy1atI.jpg",
+      "tweetText": "가슴에 하트구름 얹어놨더니 말랑해서 자꾸 만지고 싶어지네 ☁️\n이거 보고 쿠퍼액 찔끔 흘릴 아저씨 어디 없나?",
+      "translations": {
+        "ko": "가슴에 하트구름 얹어놨더니 말랑해서 자꾸 만지고 싶어지네 ☁️\n이거 보고 쿠퍼액 찔끔 흘릴 아저씨 어디 없나?",
+        "en": "I put a heart cloud on my chest and it's so squishy I keep wanting to touch it ☁️\nIsn't there some old guy who's gonna drip a little precum looking at this?",
+        "ja": "胸にハートの雲を乗せたら、ぷにぷにしてて何度も触りたくなっちゃうな☁️\nこれを見てカウパーをちょっぴり漏らしちゃうおじさん、どこかにいない？",
+        "zh": "胸口放了一朵爱心云，软乎乎的让人总想去摸 ☁️\n有没有哪个大叔看到这个会吓得流出点前列腺液呢？",
+        "es": "Me puse una nube en forma de corazón en el pecho y es tan blandita que no paro de querer tocarla ☁️\n¿No hay por ahí algún viejito al que se le caiga un poquito de líquido preseminal al ver esto?",
+        "fr": "J'ai mis un nuage en cœur sur ma poitrine et il est si moelleux que je n'arrête pas de vouloir le toucher ☁️\nIl n'y a pas un vieux beau qui va baver un peu de liquide pré-séminal en voyant ça ?",
+        "de": "Ich habe eine Herzwolke auf meine Brust gelegt und sie ist so weich, dass ich sie immer wieder anfassen möchte ☁️\nGibt es hier keinen älteren Mann, dem bei diesem Anblick ein bisschen Lusttropfen entweicht?",
+        "pt": "Coloquei uma nuvem de coração no peito e está TÃO macia que fico com vontade de tocar o tempo todo ☁️\nSerá que não tem nenhum coroa que vai babar um pouquinho de lubrificação vendo isso?",
+        "ru": "Я положила облачко в форме сердечка на грудь, и оно такое мягкое, что так и хочется потрогать ☁️\nНет ли здесь какого-нибудь дяденьки, у которого от этого потечёт смазка?",
+        "ar": "وضعت غيمة على شكل قلب على صدري وهي طرية لدرجة أنني أريد لمسها طوال الوقت ☁️\nألا يوجد رجل كبير سيقطر القليل من المذي وهو ينظر إلى هذا؟",
+        "id": "Aku menaruh awan berbentuk hati di dadaku dan itu sangat empuk jadi aku ingin terus menyentuhnya ☁️\nAdakah om-om yang bakal ngiler sedikit melihat ini?",
+        "th": "เอาเมฆรูปหัวใจมาวางไว้บนอกแล้วมันนุ่มนิ่มจนอยากจะจับเรื่อยๆ เลย ☁️\nจะมีลุงคนไหนเห็นแล้วน้ำเงี่ยนเล็ดนิดหน่อยบ้างไหมนะ?",
+        "vi": "Đặt đám mây hình trái tim lên ngực mà nó mềm xèo khiến cứ muốn chạm vào mãi ☁️\nCó ông chú nào nhìn cái này mà rỉ chút nước nhờn không ta?",
+        "hi": "मैंने अपनी छाती पर दिल के आकार का बादल रखा है और यह इतना मुलायम है कि बार-बार छूने का मन कर रहा है ☁️\nक्या यहाँ कोई ऐसा अंकल नहीं है जो इसे देखकर थोड़ा सा प्री-कम टपकाए?",
+        "it": "Mi sono messa una nuvola a cuore sul petto ed è così soffice che continuo a volerla toccare ☁️\nNon c'è qualche vecchio bavoso che sta per gocciolare un po' di liquido preseminale guardando questo?",
+        "tr": "Göğsüme kalpli bir bulut koydum ve o kadar yumuşak ki sürekli dokunasım geliyor ☁️\nBunu görünce biraz zevk suyu akıtacak bir amca yok mu?",
+        "pl": "Położyłam chmurkę w kształcie serca na piersi i jest taka mięciutka, że ciągle chcę jej dotykać ☁️\nNie ma tu jakiegoś starszego pana, któremu na ten widok kropelka preejakulatu spłynie?",
+        "nl": "Ik heb een hartjeswolk op mijn borst gelegd en het is zo zacht dat ik het steeds wil aanraken ☁️\nIs er geen oude vent die hier een beetje voorvocht van laat druppelen?",
+        "uk": "Я поклала хмаринку у формі серця на груди, і вона така м'якенька, що так і хочеться торкатися ☁️\nЧи немає тут якогось дядька, у якого від цього потече мастило?",
+        "ms": "Aku letakkan awan bentuk hati di dadaku dan ia sangat lembut jadi aku asyik nak sentuh je ☁️\nAda tak pakcik yang nak lelehkan sedikit air mazi tengok ni?"
+      },
+      "mediaCheckedAt": 1792641311217
     },
     {
       "id": "2112205400410136772",
