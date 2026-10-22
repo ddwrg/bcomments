@@ -15185,7 +15185,39 @@
       "note": "",
       "createdAt": 1792485234583,
       "score": 0,
-      "delHash": "4b684d51c7ede225390fff9bfbd518b50ddddf112fb44d679528809118266612"
+      "delHash": "4b684d51c7ede225390fff9bfbd518b50ddddf112fb44d679528809118266612",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112220161046638592/vid/avc1/720x960/5_AV7vD1sWgOBFf3.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112220161046638592/img/PfcYNWHgpe5Gc3xU.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112220161046638592/img/PfcYNWHgpe5Gc3xU.jpg",
+      "tweetText": "자지 20cm이상만 맘해져 🔆",
+      "translations": {
+        "ko": "자지 20cm이상만 맘해져 🔆",
+        "en": "DM only if 20cm+ 🔆",
+        "ja": "20cm以上だけDMして 🔆",
+        "zh": "仅限20cm以上私信 🔆",
+        "es": "DM solo si 20cm+ 🔆",
+        "fr": "DM seulement si 20cm+ 🔆",
+        "de": "DM nur ab 20cm+ 🔆",
+        "pt": "DM apenas se 20cm+ 🔆",
+        "ru": "Только в ЛС если от 20см+ 🔆",
+        "ar": "راسلني فقط إذا كان طوله 20 سم أو أكثر 🔆",
+        "id": "DM hanya jika 20cm+ 🔆",
+        "th": "DM เฉพาะ 20cm ขึ้นไปเท่านั้น 🔆",
+        "vi": "Chỉ nhắn tin nếu từ 20cm trở lên 🔆",
+        "hi": "सिर्फ 20cm+ वाले DM करें 🔆",
+        "it": "DM solo se 20cm+ 🔆",
+        "tr": "Sadece 20cm ve üstü DM atın 🔆",
+        "pl": "DM tylko jeśli 20cm+ 🔆",
+        "nl": "Alleen DM als 20cm+ 🔆",
+        "uk": "Тільки в ЛС якщо від 20см+ 🔆",
+        "ms": "DM hanya jika 20cm+ 🔆"
+      },
+      "mediaCheckedAt": 1792642208648
     },
     {
       "id": "2112340949418557516",
