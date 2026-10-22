@@ -17210,7 +17210,38 @@
       "note": "",
       "createdAt": 1792485114669,
       "score": 0,
-      "delHash": "ce84e214375603449b0d85804c8ee605a9a4a26fa751ac0ba40d383b8a07eae4"
+      "delHash": "ce84e214375603449b0d85804c8ee605a9a4a26fa751ac0ba40d383b8a07eae4",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2111986295362994176/vid/avc1/576x1024/aNa5v7hW8x4c6dSt.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111986295362994176/img/rcuzerifg6mWxJ3D.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111986295362994176/img/rcuzerifg6mWxJ3D.jpg",
+      "tweetText": "나랑 재밋게 놀면서 따먹을 오빠 구함.",
+      "translations": {
+        "ko": "나랑 재밋게 놀면서 따먹을 오빠 구함.",
+        "en": "Looking for a guy to have fun and hook up with me.",
+        "ja": "私と楽しく遊んでヤッてくれるお兄さん募集中。",
+        "zh": "寻找一个能陪我玩得开心并发生关系的哥哥。",
+        "es": "Busco un chico para pasarlo bien y enrollarme.",
+        "fr": "Je cherche un mec pour s'amuser et coucher ensemble.",
+        "de": "Suche einen Typen, mit dem ich Spaß haben und Sex haben kann.",
+        "pt": "Procurando um cara para curtir e transar comigo.",
+        "ru": "Ищу парня, чтобы повеселиться и переспать.",
+        "ar": "أبحث عن شاب لأستمتع معه وأقيم علاقة.",
+        "id": "Mencari cowok buat senang-senang dan berhubungan.",
+        "th": "หาผู้ชายมาสนุกและมีอะไรกัน",
+        "vi": "Tìm một anh chàng để vui chơi và quan hệ.",
+        "it": "Cerco un ragazzo con cui divertirmi e fare sesso.",
+        "tr": "Eğlenmek ve sevişmek için birini arıyorum.",
+        "pl": "Szukam chłopaka do dobrej zabawy i łóżka.",
+        "nl": "Op zoek naar een gozer om plezier mee te hebben en te wippen.",
+        "uk": "Шукаю хлопця, щоб розважитися та переспати.",
+        "ms": "Mencari abang untuk berhibur dan bersama."
+      },
+      "mediaCheckedAt": 1792643231400
     },
     {
       "id": "2112349435397320874",
