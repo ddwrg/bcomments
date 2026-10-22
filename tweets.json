@@ -12922,7 +12922,38 @@
       "note": "",
       "createdAt": 1792485367037,
       "score": 0,
-      "delHash": "03ba5cecf510e1cc1cfbd778f4def3082dafca99282acb577b1425c093852f12"
+      "delHash": "03ba5cecf510e1cc1cfbd778f4def3082dafca99282acb577b1425c093852f12",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112203210467475456/vid/avc1/720x900/xeX0qblooKR2HaK5.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112203210467475456/img/ORXgU-zcaZQXd7lC.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112203210467475456/img/ORXgU-zcaZQXd7lC.jpg",
+      "tweetText": "지금 짬지 젖엇는데 보여줄가? 🔭",
+      "translations": {
+        "ko": "지금 짬지 젖엇는데 보여줄가? 🔭",
+        "en": "I'm wet right now, should I show you? 🔭",
+        "ja": "今濡れてるんだけど、見せようか？ 🔭",
+        "zh": "我现在湿了，要看吗？ 🔭",
+        "es": "Estoy mojada ahora mismo, ¿te lo muestro? 🔭",
+        "fr": "Je suis mouillée là, je te montre ? 🔭",
+        "pt": "Estou molhada agora, quer que eu te mostre? 🔭",
+        "ru": "Я тут промокла, показать? 🔭",
+        "ar": "أنا مبللة الآن، هل أريها لك؟ 🔭",
+        "id": "Aku lagi basah nih, mau lihat nggak? 🔭",
+        "th": "ตอนนี้แฉะแล้ว อยากดูไหม? 🔭",
+        "vi": "Đang bị ướt nè, có muốn xem không? 🔭",
+        "hi": "मैं अभी गीली हूँ, क्या तुम्हें दिखाऊँ? 🔭",
+        "it": "Sono bagnata adesso, te la faccio vedere? 🔭",
+        "tr": "Şu an ıslandım, göstereyim mi? 🔭",
+        "pl": "Jestem teraz mokra, pokazać ci? 🔭",
+        "nl": "Ik ben nu nat, zal ik het laten zien? 🔭",
+        "uk": "Я зараз мокра, показати? 🔭",
+        "ms": "Aku tengah basah ni, nak tengok tak? 🔭"
+      },
+      "mediaCheckedAt": 1792641281143
     },
     {
       "id": "2112204846212477367",
