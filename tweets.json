@@ -14160,7 +14160,39 @@
       "note": "",
       "createdAt": 1792485296091,
       "score": 0,
-      "delHash": "be26f479456c2bca33be1d1788af64a717ab94d298f734eafe4b0f261e8f7c37"
+      "delHash": "be26f479456c2bca33be1d1788af64a717ab94d298f734eafe4b0f261e8f7c37",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112212308445609984/vid/avc1/720x1080/pQiJA4qFjsnXj4pk.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112212308445609984/img/hXLBngOaMpPmxsjr.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112212308445609984/img/hXLBngOaMpPmxsjr.jpg",
+      "tweetText": "비계 올 사람 맘찍행 😑",
+      "translations": {
+        "ko": "비계 올 사람 맘찍행 😑",
+        "en": "Who's coming for pork belly, like this post 😑",
+        "ja": "サムギョプサル食べる人いいねして 😑",
+        "zh": "谁来吃烤五花肉的点个赞 😑",
+        "es": "Quien quiera venir a comer panceta de cerdo, dele like 😑",
+        "fr": "Qui vient manger de la poitrine de porc, mettez un j'aime 😑",
+        "de": "Wer kommt Schweinebauch essen, liken 😑",
+        "pt": "Quem vai vir comer barriga de porco, curte aí 😑",
+        "ru": "Кто придет есть свиную грудину, ставьте лайк 😑",
+        "ar": "من سيأتي لتناول لحم بطن الخنزير، ضع إعجاباً 😑",
+        "id": "Siapa yang mau ikut makan samgyeopsal, beri tanda suka 😑",
+        "th": "ใครจะมากกินหมูสามชั้น กดไลค์เลย 😑",
+        "vi": "Ai ăn thịt ba chỉ thì thả tim nhé 😑",
+        "hi": "जो पोर्क बेली खाने आना चाहता है, लाइक करे 😑",
+        "it": "Chi viene a mangiare pancetta di maiale, metta mi piace 😑",
+        "tr": "Domuz göbeği yemeye gelecek olanlar beğensin 😑",
+        "pl": "Kto przyjdzie na boczczek, niech zostawi serduszko 😑",
+        "nl": "Wie komt er buikspek eten, geef een like 😑",
+        "uk": "Хто прийде їсти свиняче черево, ставте лайк 😑",
+        "ms": "Siapa nak datang makan perut khinzir, tekan suka 😑"
+      },
+      "mediaCheckedAt": 1792641750890
     },
     {
       "id": "2112328476040806470",
