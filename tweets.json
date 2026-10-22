@@ -23056,8 +23056,29 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112243728182345728/img/cFaWDHGVf90Y59qP.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642610240,
-      "pruneCheckedAt": 1792643779657
+      "mediaCheckedAt": 1792646249045,
+      "pruneCheckedAt": 1792643779657,
+      "tweetText": "마음 찍어주면 풀버전 전부 뿌림.",
+      "translations": {
+        "ko": "마음 찍어주면 풀버전 전부 뿌림.",
+        "en": "Like this and I'll drop the full version. 💖",
+        "ja": "いいねしてくれたらフルバージョン全部ばらまくね。",
+        "zh": "点个赞就把完整版全发出来。",
+        "es": "Dale like y suelto la versión completa.",
+        "fr": "Mettez un j'aime et je balance la version complète.",
+        "de": "Lass ein Like da und ich droppe die Full Version.",
+        "pt": "Curte aí que eu solto a versão completa.",
+        "ar": "ضع إعجاباً وسأقوم بتنزيل النسخة الكاملة.",
+        "id": "Kasihlike nanti ku-share full version-nya.",
+        "th": "กดไลค์ให้หน่อย เดี๋ยวแจกเวอร์ชันเต็มทั้งหมดเลย",
+        "vi": "Thả tim đi mình phát hành bản full luôn.",
+        "hi": "लाइक करो, पूरा वर्ज़न लीक कर दूंगा।",
+        "it": "Metti like e rilascio la versione completa.",
+        "pl": "Zostaw serduszko, a wrzucę pełną wersję.",
+        "nl": "Geef een like en ik drop de volledige versie.",
+        "uk": "Поставте лайк, і я викладу повну версію.",
+        "ms": "Like nanti aku lepaskan versi penuh."
+      }
     },
     {
       "id": "2112363388148060657",
