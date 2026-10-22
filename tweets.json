@@ -21166,7 +21166,9 @@
       "note": "",
       "createdAt": 1792485097282,
       "score": 0,
-      "delHash": "8910dd8cd9953462b0f88e6f4fb4ae04831c0345b3e7644445530bab3d20d31b"
+      "delHash": "8910dd8cd9953462b0f88e6f4fb4ae04831c0345b3e7644445530bab3d20d31b",
+      "translateFail": "no_text",
+      "translateFailAt": 1792643368575
     },
     {
       "id": "2112111439498605015",
