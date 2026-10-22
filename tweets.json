@@ -13080,7 +13080,39 @@
       "note": "",
       "createdAt": 1792485357995,
       "score": 0,
-      "delHash": "ae6ca24e0f837f74e7235ff5b6303001cf33a812619b72bc8c941ea75f0c88c5"
+      "delHash": "ae6ca24e0f837f74e7235ff5b6303001cf33a812619b72bc8c941ea75f0c88c5",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112205150593183744/vid/avc1/720x1138/TQZRyGuyZOke2MNA.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112205150593183744/img/VhgMvXVcAHUqx9U8.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112205150593183744/img/VhgMvXVcAHUqx9U8.jpg",
+      "tweetText": "내가 다보여주면 보평가능?✨",
+      "translations": {
+        "ko": "내가 다보여주면 보평가능?✨",
+        "en": "If I show you everything, can you rate it?✨",
+        "ja": "全部見せたら評価できる？✨",
+        "zh": "如果我全部展示给你，你能评价吗？✨",
+        "es": "Si te lo enseño todo, ¿puedes calificarlo?✨",
+        "fr": "Si je te montre tout, tu peux évaluer ?✨",
+        "de": "Wenn ich dir alles zeige, kannst du es bewerten?✨",
+        "pt": "Se eu te mostrar tudo, consegue avaliar?✨",
+        "ru": "Если я покажу тебе всё, сможешь оценить?✨",
+        "ar": "إذا أريتك كل شيء، هل يمكنك تقييمه؟✨",
+        "id": "Kalau aku tunjukin semuanya, bisa nilai gak?✨",
+        "th": "ถ้าฉันให้ดูทั้งหมด จะประเมินได้ไหม?✨",
+        "vi": "Nếu tôi cho bạn xem hết, bạn có đánh giá được không?✨",
+        "hi": "अगर मैं तुम्हें सब कुछ दिखाऊँ, तो क्या तुम रेट कर सकते हो?✨",
+        "it": "Se ti mostro tutto, riesci a valutare?✨",
+        "tr": "Her şeyi göstersem puanlayabilir misin?✨",
+        "pl": "Jeśli pokażesz ci wszystko, ocenisz?✨",
+        "nl": "Als ik je alles laat zien, kun je het beoordelen?✨",
+        "uk": "Якщо я покажу тобі все, зможеш оцінити?✨",
+        "ms": "Kalau aku tunjuk semua, boleh nilai ke?✨"
+      },
+      "mediaCheckedAt": 1792641318489
     },
     {
       "id": "2112206290386862173",
