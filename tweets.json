@@ -15760,7 +15760,38 @@
       "note": "",
       "createdAt": 1792485202972,
       "score": 0,
-      "delHash": "c95e93a27fd607b8239407c861efc30400200778f7184766dcdec12e04049b44"
+      "delHash": "c95e93a27fd607b8239407c861efc30400200778f7184766dcdec12e04049b44",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112223648031674370/vid/avc1/720x1556/70yBfbKjOTieX5Nh.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112223648031674370/img/b0S9_mMZcCdtbCSS.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112223648031674370/img/b0S9_mMZcCdtbCSS.jpg",
+      "tweetText": "오빠들 흰셔츠만 입구 잇으면 다들 뒤에서 안아주구 싶다며 🤭",
+      "translations": {
+        "ko": "오빠들 흰셔츠만 입구 잇으면 다들 뒤에서 안아주구 싶다며 🤭",
+        "en": "They say whenever guys wear just a white shirt, everyone wants to hug them from behind 🤭",
+        "ja": "オッパたちが白いシャツだけ着ていると、みんな後ろから抱きしめたくなるんだって 🤭",
+        "zh": "听说哥哥们只要穿白衬衫，大家就都想从后面抱住他们 🤭",
+        "es": "Dicen que cuando los oppas se ponen solo una camisa blanca, todos quieren abrazarlos por la espalda 🤭",
+        "fr": "On dit que quand les oppas portent juste une chemise blanche, tout le monde a envie de les prendre dans les bras par derriÃ¨re 🤭",
+        "de": "Sie sagen, wenn Oppas nur ein weißes Hemd tragen, will sie jeder von hinten umarmen 🤭",
+        "pt": "Dizem que quando os oppas usam apenas uma camisa branca, todo mundo quer abraçá-los por trás 🤭",
+        "ru": "Говорят, когда оппы надевают только белую рубашку, все хотят обнять их сзади 🤭",
+        "ar": "يقولون عندما يرتدي الأوباس قميصاً أبيض فقط، يريد الجميع عناقهم من الخلف 🤭",
+        "id": "Katanya kalau para oppa pakai baju putih doang, jadi pada pengen meluk dari belakang 🤭",
+        "th": "เขาบอกว่าพอโอปпаใส่แค่เสื้อเชิ้ตสีขาวทีไร ใครๆ ก็อยากเข้าไปกอดจากข้างหลังทุกที 🤭",
+        "vi": "Người ta bảo cứ hễ các oppa mặc áo sơ mi trắng là ai cũng muốn ôm từ đằng sau 🤭",
+        "hi": "कहते हैं कि जब ओप्पा सिर्फ सफ़ेद शर्ट पहनते हैं, तो हर कोई पीछे से गले लगाना चाहता है 🤭",
+        "it": "Dicono che quando gli oppa indossano solo una camicia bianca, tutti vogliono abbracciarli da dietro 🤭",
+        "pl": "Mówią, że kiedy oppasi zakładają tylko białą koszulkę, każdy chce ich przytulić od tyłu 🤭",
+        "nl": "Ze zeggen dat wanneer oppa's alleen een wit shirt dragen, iedereen ze van achteren wil knuffelen 🤭",
+        "uk": "Кажуть, коли оппи вдягають лише білу сорочку, всі хочуть обійняти їх ззаду 🤭",
+        "ms": "Kata mereka kalau para oppa pakai baju putih sahaja, semua orang nak peluk dari belakang 🤭"
+      },
+      "mediaCheckedAt": 1792642614531
     },
     {
       "id": "2112340062214271142",
