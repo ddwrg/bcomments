@@ -12537,8 +12537,28 @@
       "score": 0,
       "delHash": "0fe31b9bb08a9f663a62895c283b9a29cc6b3ecfba33f69cb5c7b7636e2249a2",
       "tweetText": "오빠들 새 레이스 속옷 샀는대 가슴골 쪼이는거 넘 야해서 미치겟음ㅋㅋ",
-      "translateFail": "bad_json",
-      "translateFailAt": 1792637832384
+      "translations": {
+        "ko": "오빠들 새 레이스 속옷 샀는대 가슴골 쪼이는거 넘 야해서 미치겟음ㅋㅋ",
+        "en": "Guys, I bought new lace underwear and the cleavage squeeze is so sexy it's driving me crazy lol",
+        "ja": "オッパたち、新しいレースの下着を買ったんだけど、谷間が締め付けられててめっちゃエロくておかしくなりそうｗ",
+        "zh": "欧巴们，我买了新的蕾丝内衣，乳沟挤得太性感了快把我迷死了哈哈",
+        "es": "Chicos, compré nueva ropa interior de encaje y el escote apretado es tan sexy que me vuelve loca jaja",
+        "fr": "Les gars, j'ai acheté de nouveaux sous-vêtements en dentelle et le décolleté serré est tellement sexy que ça me rend folle mdr",
+        "de": "Leute, ich habe neue Spitzenunterwäsche gekauft und das zusammengepresste Dekolleté ist so sexy, dass es mich verrückt macht lol",
+        "pt": "Gente, comprei nova roupa íntima de renda e o decote apertado é tão sexy que está me deixando louca kkk",
+        "ru": "Ребята, я купила новое кружевное белье, и эта ложбинка так сжимается, что это безумно секси лол",
+        "ar": "يا شباب، اشتريت ملابس داخلية دانتيل جديدة وشق الصدر الضيق مثير لدرجة تجنني ههههه",
+        "id": "Guys, aku beli pakaian dalam renda baru dan belahan dadanya keliatan seksi banget sampe bikin gila wkwk",
+        "th": "Oppa ทุกคน ฉันซื้อชุดชั้นในลูกไม้ใหม่มา แล้วร่องอกที่ถูกดันคือน่าเย้ายวนมากจนจะบ้าตาย 555",
+        "vi": "Mấy anh ơi em mới mua đồ lót ren mới, khe ngực bị ép vào nhìn gợi cảm quá trời phát điên mất haha",
+        "hi": "ओप्पाहरू, मैंने नई लेसिंग अंडरवियर खरीदी है और क्लीवेज इतना सेक्सी लग रहा है कि मैं पागल हो रही हूँ हाहा",
+        "it": "Ragazzi, ho comprato della nuova lingerie in pizzo e la scollatura stretta è così sexy che mi fa impazzire lol",
+        "tr": "Beyler, yeni dantelli iç çamaşırı aldım ve göğüs dekoltesini sıkıştırması o kadar seksi ki beni deli ediyor ha ha",
+        "pl": "Chłopaki, kupiłam nową koronkową bieliznę, a ściśnięty dekolt jest taki seksowny, że aż mnie zatyka haha",
+        "nl": "Jongens, ik heb nieuw kant-ondergoed gekocht en het decolleté is zo sexy dat ik er gek van word haha",
+        "uk": "Хлопці, я купила нову мереживну білизну, і це стягнуте декольте таке сексуальке, що я з розуму сходжу лол",
+        "ms": "Korang, saya beli pakaian dalam renda baru dan belahan dada yang ketat tu seksi sangat sampai buat saya gila haha"
+      }
     },
     {
       "id": "2112323002595672217",
