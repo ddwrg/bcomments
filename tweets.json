@@ -13377,7 +13377,38 @@
       "note": "",
       "createdAt": 1792485339346,
       "score": 0,
-      "delHash": "fc096fe688c709777295c31762a07952cfe4ddbf7f8efaad924bcece0c780138"
+      "delHash": "fc096fe688c709777295c31762a07952cfe4ddbf7f8efaad924bcece0c780138",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112207324261834754/vid/avc1/720x960/kQkJGzzQmGOv9Ak2.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112207324261834754/img/HAMlQLGPxZI-go3h.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112207324261834754/img/HAMlQLGPxZI-go3h.jpg",
+      "tweetText": "내일 오전 11시까지 댓글 달아주는 오빠한테 몰래 셀카 더 선물해볼까? 💖",
+      "translations": {
+        "ko": "내일 오전 11시까지 댓글 달아주는 오빠한테 몰래 셀카 더 선물해볼까? 💖",
+        "en": "Should I secretly gift more selfies to the oppa who leaves a comment by 11 AM tomorrow? 💖",
+        "ja": "明日の午前11時までにコメントしてくれたオッパに、こっそり自撮りを追加でプレゼントしちゃおうかな？ 💖",
+        "zh": "要不要给明天上午11点前留言的哥哥偷偷多送几张自拍呢？💖",
+        "es": "¿Debería regalar en secreto más selfies al oppa que comente mañana antes de las 11 a. m.? 💖",
+        "fr": "Est-ce que je devrais offrir en secret plus de selfies à l'oppa qui commente demain avant 11h ? 💖",
+        "de": "Soll ich dem Oppa, der bis morgen 11 Uhr morgens kommentiert, heimlich noch mehr Selfies schenken? 💖",
+        "pt": "Devo dar de presente em segredo mais selfies para o oppa que comentar amanhã até as 11h? 💖",
+        "ru": "Стоит ли мне тайком подарить еще селфи оппе, который оставит комментарий завтра до 11 утра? 💖",
+        "ar": "هل يجب أن أهدي سرا المزيد من صور السيلفي للأوبا الذي يترك تعليقا بحلول الساعة 11 صباح غد؟ 💖",
+        "id": "Haruskah aku diam-diam memberikan lebih banyak selfie kepada oppa yang berkomentar besok sebelum jam 11 pagi? 💖",
+        "th": "พรุ่งนี้ก่อน 11 โมงเช้า จะลองแอบส่งเซลפי้เพิ่มให้โอปป้าที่มาคอมเมนต์ดีไหมนะ? 💖",
+        "vi": "Liệu mình có nên bí mật tặng thêm ảnh selfie cho oppa nào bình luận trước 11 giờ sáng mai không nhỉ? 💖",
+        "hi": "क्या मुझे कल सुबह 11 बजे तक कमेंट करने वाले oppa को चुपचाप और सेल्फी गिफ्ट करनी चाहिए? 💖",
+        "it": "Dovrei regalare segretamente altri selfie all'oppa che commenta domani entro le 11:00? 💖",
+        "pl": "Czy powinnam potajemnie podarować więcej selfie oppie, który skomentuje do 11:00 jutro? 💖",
+        "nl": "Zal ik stiekem wat meer selfies cadeau doen aan de oppa die morgen vóór 11:00 uur reageert? 💖",
+        "uk": "Чи варто мені таємно подарувати більше селфі оппі, який залишить коментар завтра до 11 ранку? 💖",
+        "ms": "Haruskah saya secara sembunyi-sembunyi memberi lebih banyak selfie kepada oppa yang meninggalkan komen sebelum pukul 11 pagi esok? 💖"
+      },
+      "mediaCheckedAt": 1792641475339
     },
     {
       "id": "2112207803909886182",
