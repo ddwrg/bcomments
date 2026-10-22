@@ -12535,7 +12535,10 @@
       "note": "",
       "createdAt": 1792485388540,
       "score": 0,
-      "delHash": "0fe31b9bb08a9f663a62895c283b9a29cc6b3ecfba33f69cb5c7b7636e2249a2"
+      "delHash": "0fe31b9bb08a9f663a62895c283b9a29cc6b3ecfba33f69cb5c7b7636e2249a2",
+      "tweetText": "오빠들 새 레이스 속옷 샀는대 가슴골 쪼이는거 넘 야해서 미치겟음ㅋㅋ",
+      "translateFail": "bad_json",
+      "translateFailAt": 1792637584402
     },
     {
       "id": "2112323002595672217",
