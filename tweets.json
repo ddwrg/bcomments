@@ -13571,7 +13571,39 @@
       "note": "",
       "createdAt": 1792485328990,
       "score": 0,
-      "delHash": "50aaea6abf1f20403fc82ecaaa66ee74f3a19523a67f5ebd870adb9cbf5ca547"
+      "delHash": "50aaea6abf1f20403fc82ecaaa66ee74f3a19523a67f5ebd870adb9cbf5ca547",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2111833165870551041/vid/avc1/720x958/x-IZ2qxrHCqW32mZ.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111833165870551041/img/ZGJVjkKtsT4m2jkE.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111833165870551041/img/ZGJVjkKtsT4m2jkE.jpg",
+      "tweetText": "또 말하지만 비계 돈안받구 이계정 팔로우 하고있음 삭제안하고 다 넣어드려욤... 🦮",
+      "translations": {
+        "ko": "또 말하지만 비계 돈안받구 이계정 팔로우 하고있음 삭제안하고 다 넣어드려욤... 🦮",
+        "en": "I'll say it again, I don't charge money for private accounts. If you're following this account, I won't delete you and I'll add you all in... 🦮",
+        "ja": "もう一度言いますが、鍵垢(裏垢)はお金をもらっていません。このアカウントをフォローしていれば、削除せずに全員追加してあげます… 🦮",
+        "zh": "再说一次，小号不收钱，只要关注了这个账号，就不会删除，全部都会加进去的…… 🦮",
+        "es": "Lo digo de nuevo, no cobro por cuentas privadas. Si siguen esta cuenta, no los borraré y los agregaré a todos... 🦮",
+        "fr": "Je le répète, je ne fais pas payer pour les comptes privés. Si vous suivez ce compte, je ne vous supprime pas et je vous ajoute tous... 🦮",
+        "de": "Ich sage es noch einmal, ich nehme kein Geld für private Accounts. Wenn ihr diesem Account folgt, lösche ich euch nicht und nehme euch alle rein... 🦮",
+        "pt": "Vou dizer de novo, não cobro dinheiro por contas privadas. Se estiverem seguindo esta conta, não vou apagar e vou colocar todo mundo... 🦮",
+        "ru": "Говорю еще раз: за закрытые аккаунты я денег не беру. Если вы подписаны на этот аккаунт, я вас не удалю и всех добавлю... 🦮",
+        "ar": "أكرر مرة أخرى، لا أتقاضى أموالاً مقابل الحسابات الخاصة. إذا كنتم تتابعون هذا الحساب، فلن أذفكم وسأضيفكم جميعاً... 🦮",
+        "id": "Kubilang lagi, akun privat tidak dipungut biaya. Kalau follow akun ini, tidak akan aku hapus dan bakal aku masukkan semua... 🦮",
+        "th": "บอกอีกครั้งนะว่าแอพ/แอคหลุมไม่เก็บเงิน ถ้าฟอลโลว์บัญชีนี้อยู่จะไม่ลบและจะรับเข้าหมดเลย... 🦮",
+        "vi": "Nói lại lần nữa là tài khoản phụ không lấy tiền đâu, ai đang follow tài khoản này thì tôi không xoá đâu và sẽ cho vào hết nhé... 🦮",
+        "hi": "मैं फिर से कह रहा हूँ, प्राइवेट अकाउंट के लिए कोई पैसे नहीं लेता। अगर आप इस अकाउंट को फॉलो कर रहे हैं, तो मैं डिलीट नहीं करूंगा और सभी को जोड़ लूँगा... 🦮",
+        "it": "Lo dico di nuovo, non chiedo soldi per gli account privati. Se seguite questo account, non vi elimino e vi aggiungo tutti... 🦮",
+        "tr": "Tekrar söylüyorum, gizli hesap için para almıyorum. Bu hesabı takip ediyorsanız silmeyeceğim, hepinizi ekleyeceğim... 🦮",
+        "pl": "Mówię to jeszcze raz, nie biorę pieniędzy za konta prywatne. Jeśli obserwujecie to konto, nie usuwam was i dodaję wszystkich... 🦮",
+        "nl": "Ik zeg het nog eens, ik vraag geen geld voor privéaccounts. Als je dit account volgt, verwijder ik je niet en voeg ik jullie allemaal toe... 🦮",
+        "uk": "Кажу ще раз: за закриті акаунти грошей не беру. Якщо ви підписані на цей акаунт, я вас не видалю і всіх додам... 🦮",
+        "ms": "Saya cakap sekali lagi, akaun peribadi tidak ambil duit. Kalau follow akaun ni, takkan buang dan akan masukkan semua... 🦮"
+      },
+      "mediaCheckedAt": 1792641566637
     },
     {
       "id": "2111962163082580331",
