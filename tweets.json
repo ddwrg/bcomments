@@ -16854,7 +16854,38 @@
       "note": "",
       "createdAt": 1792485133609,
       "score": 0,
-      "delHash": "51ca9375cefae5249aed5df8469dc3628cdcf45fdd98d01fefd10881df916348"
+      "delHash": "51ca9375cefae5249aed5df8469dc3628cdcf45fdd98d01fefd10881df916348",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112105444282179584/vid/avc1/828x612/VCo8GffOmfzBcV6y.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112105444282179584/img/us1p1W8bOhT_21_4.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112105444282179584/img/us1p1W8bOhT_21_4.jpg",
+      "tweetText": "지퍼 더 내리면 터질꺼 같은데 오빠들 텐트 친거 구경좀 시켜줘바",
+      "translations": {
+        "ko": "지퍼 더 내리면 터질꺼 같은데 오빠들 텐트 친거 구경좀 시켜줘바",
+        "en": "If I pull the zipper down any further, it looks like it's gonna burst. Hey guys, show me your pitched tents 👀",
+        "ja": "ジッパーもっと下げたら弾けそうなんだけど、お兄様たちのテント張ったところちょっと見せてよ",
+        "zh": "再把拉链往下拉一点感觉就要炸开了，哥哥们快让我看看你们搭的帐篷",
+        "es": "Si bajo más la cremallera parece que va a estallar, chicos, muéstrenme sus tiendas de campaña montadas",
+        "fr": "Si je baisse encore la fermeture éclair, on dirait que ça va exploser, les gars, montrez-moi vos tentes plantées",
+        "pt": "Se eu abaixar mais o zíper, parece que vai explodir. Meninos, me deixem dar uma olhada nas barracas de vocês",
+        "ru": "Если я опущу молнию еще ниже, кажется, она лопнет. Парни, покажите свои поставленные палатки",
+        "ar": "إذا أنزلت السحاب أكثر من ذلك، يبدو أنه سينفجار. يا شباب، أروني خيامكم المنصوبة",
+        "id": "Kalau resletingnya aku turunkan lagi kayaknya bakal meledak, para cowok, tunjukin dong tenda kalian yang udah didirikan",
+        "th": "ถ้าดึงซิปลงมากกว่านี้มันน่าจะระเบิดนะ หนุ่มๆ ช่วยโชว์เต็นท์ที่กางไว้ให้ดูหน่อยสิ",
+        "vi": "Kéo khóa xuống nữa chắc là bung ra mất, mấy anh ơi cho em xem lều các anh dựng với",
+        "hi": "अगर मैं ज़िप को और नीचे करूँ तो लगता है यह फट जाएगा, भाइयो, अपने लगे हुए टेंट मुझे भी दिखाओ",
+        "it": "Se abbasso ancora la zip sembra che stia per scoppiare, ragazzi, fatemi vedere le vostre tende montate",
+        "tr": "Fermuarı biraz daha indirsem patlayacak gibi duruyor, beyler kurduğunuz çadırları biraz gösterin",
+        "pl": "Jeśli ściągnę suwak jeszcze niżej, chyba pęknie. Chłopaki, pokażcie mi swoje rozbite namioty",
+        "nl": "Als ik de rits nog verder naar beneden doe, barst het volgens mij uit elkaar. Jongens, laat me jullie opgezette tenten eens zien",
+        "uk": "Якщо я опущу блискавку ще нижче, здається, вона лусне. Хлопці, покажіть свої встановлені намети",
+        "ms": "Kalau zip diturunkan lagi macam nak meletup je, abang-abang, tunjukkanlah khemah yang dah dipasang tu"
+      },
+      "mediaCheckedAt": 1792643105705
     },
     {
       "id": "2112351449732759601",
