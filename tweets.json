@@ -15621,7 +15621,39 @@
       "note": "",
       "createdAt": 1792485211449,
       "score": 0,
-      "delHash": "68a7ddec4d8a5d924642f3ca7875b02588f0d1be08df2304180e2bbe20f00029"
+      "delHash": "68a7ddec4d8a5d924642f3ca7875b02588f0d1be08df2304180e2bbe20f00029",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112326292540637184/vid/avc1/720x1036/h3lJ440Jc7_IbtyS.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112326292540637184/img/dGFiuGbi5lmjzHLX.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112326292540637184/img/dGFiuGbi5lmjzHLX.jpg",
+      "tweetText": "이 멜빵은 옷을 고정하는 걸가 오빠들 마음을 고정하는 걸가 ㅋ 너무 야하다고 뭐라하지마",
+      "translations": {
+        "ko": "이 멜빵은 옷을 고정하는 걸가 오빠들 마음을 고정하는 걸가 ㅋ 너무 야하다고 뭐라하지마",
+        "en": "Is this suspender meant to hold up clothes or oppas' hearts lol Don't scold me for it being too revealing",
+        "ja": "このサスペンダーは服をとめてるのかな、オッパたちの心ををとめてるのかなwセクシーすぎるとか怒らないでね",
+        "zh": "这根背带到底是用来固定衣服的，还是固定哥哥们的心呢哈哈 别说太露骨哦",
+        "es": "Estos tirantes son para sostener la ropa o los corazones de los oppas jajaja No me regañen por ser muy provocativos",
+        "fr": "Ces bretelles sont faites pour tenir les vêtements ou le cœur des oppas mdr Ne me grondez pas si c'est trop suggestif",
+        "de": "Sind diese Hosenträger dazu da, die Kleidung zu halten oder das Herz der Oppas lol Schimpf nicht, dass es zu freizügig ist",
+        "pt": "Estes suspensórios são para segurar a roupa ou o coração dos oppas kkk Não me digam nada por ser muito ousado",
+        "ru": "Эти подтяжки держат одежду или сердца оппа кек Не ругайте меня за то, что это слишком откровенно",
+        "ar": "هل هذه الحمالات لتثبيت الملابس أم تثبيت قلوب الأوباز ههه لا تقم بتأنيبي لكونها جريئة جداً",
+        "id": "Tali selempang ini untuk menahan pakaian atau menahan hati para oppa wkwk Jangan omeli aku karena terlalu seksi ya",
+        "th": "สายเอี๊ยมนี้เอาไว้รัดเสื้อผ้าหรือรัดหัวใจโอปป้ากันแน่นะ ㅋ อย่าว่ากันนะว่ามันเซ็กซี่เกินไป",
+        "vi": "Cái dây yếm này là để giữ quần áo hay là giữ trái tim mấy anh oppa vậy ta ㅋ Đừng mắng vì hở quá nha",
+        "hi": "क्या ये सस्पेंडर कपड़े थामने के लिए हैं या ओप्पा के दिल को lol इसे बहुत ज़्यादा बोल्ड होने के लिए मत डाँटना",
+        "it": "Queste bretelle servono a tenere i vestiti o il cuore degli oppa lol Non sgridatemi se è troppo provocante",
+        "tr": "Bu askılar kıyafetleri mi tutuyor yoksa oppaların kalplerini mi lol Çok açık diye bana kızmayın",
+        "pl": "Te szelki służą do trzymania ubrań czy serc oppów lol Nie krzyczcie na mnie, że są zbyt wyzywające",
+        "nl": "Zijn deze bretels om kleding op zijn plek te houden of de harten van oppa's lol Niet boos worden omdat het te onthullend is",
+        "uk": "Ці підтяжки тримають одяг чи серця оппа кек Не сваріть мене за те, що це занадто відверто",
+        "ms": "Tali suspender ni untuk pegang baju ke atau pegang hati para oppa lol Jangan marahlah kalau terlalu seksi"
+      },
+      "mediaCheckedAt": 1792642412385
     },
     {
       "id": "2112223870593991032",
