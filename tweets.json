@@ -15661,7 +15661,18 @@
       "note": "",
       "createdAt": 1792485209181,
       "score": 0,
-      "delHash": "fbdf35f46f31d68fecba421b70c6609e97a96170347f6b4adb9456d41e4aad2d"
+      "delHash": "fbdf35f46f31d68fecba421b70c6609e97a96170347f6b4adb9456d41e4aad2d",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112223545732599813/vid/avc1/720x900/yNkzHlEXALzCTTFD.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112223545732599813/img/4o2nrx-3iOGarHYt.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112223545732599813/img/4o2nrx-3iOGarHYt.jpg",
+      "tweetText": "ㅈㄴ 꼴리는 ㅇㄷ계 추천좀 🛁",
+      "translateFail": "bad_json",
+      "translateFailAt": 1792642587472
     },
     {
       "id": "2112099011381600604",
