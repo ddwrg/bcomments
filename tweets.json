@@ -12114,28 +12114,8 @@
       "score": 0,
       "delHash": "f62f543d12b81dec9a02f22c4bc57bd5366339077a6773d109f2ab37b67291ae",
       "tweetText": "환자오빠들 주사 맞기는 무서우니까 내가 독설 진료부터 먼저 시작해줄깨ㅋㅋ",
-      "translations": {
-        "ko": "환자오빠들 주사 맞기는 무서우니까 내가 독설 진료부터 먼저 시작해줄깨ㅋㅋ",
-        "en": "Patient oppas, since you're scared of getting injections, I'll start with a harsh consultation first haha",
-        "ja": "患者のお兄さんたち、注射は怖いだろうから私が毒舌診察から先に始めてあげるねw",
-        "zh": "患者哥哥们因为害怕打针，那我先从毒舌诊疗开始哦哈哈",
-        "es": "Pacientes oppas, como les da miedo ponerse inyecciones, empezaré con una consulta de lengua afilada primero jaja",
-        "fr": "Patients oppas, comme vous avez peur des piqûres, je vais d'abord commencer par une consultation piquante haha",
-        "de": "Patienten-Oppas, da ihr Angst vor Spritzen habt, fange ich erst mal mit einer bissigen Beratung an haha",
-        "pt": "Pacientes oppas, como vocês têm medo de tomar injeção, vou começar com uma consulta afiada primeiro haha",
-        "ru": "Пациенты-оппа, так как вы боитесь уколов, я сначала проведу суровую консультацию ха-ха",
-        "ar": "المرضى أوباس، بما أنكم خائفون من الحقن، سأبدأ باستشارة لاذعة أولاً هاها",
-        "id": "Pasien oppas, karena kalian takut disuntik, aku mulai dengan konsultasi pedas dulu ya haha",
-        "th": "คนไข้โอปป้าทั้งหลาย เพราะกลัวการฉีดยา เดี๋ยวฉันขอเริ่มตรวจด้วยการบ่นแซ่บๆ ก่อนนะ 555",
-        "vi": "Các bệnh nhân oppa, vì sợ tiêm nên tôi sẽ bắt đầu bằng buổi khám bệnh cay đắng trước nhé haha",
-        "hi": "रोगी ओप्पा, चूंकि आप इंजेक्शन लगवाने से डरते हैं, इसलिए मैं पहले तीखी सलाह से शुरुआत करूंगी हाहा",
-        "it": "Pazienti oppas, siccome avete paura delle punture, comincerò prima con una consultazione tagliente ahah",
-        "tr": "Hasta oppalar, iğne vurulmaktan korktuğunuz için önce sert bir muayeneyle başlayacağım haha",
-        "pl": "Pacjenci oppa, skoro bojrzycie się zastrzyków, najpierw zacznę od ostrej konsultacji haha",
-        "nl": "Patiënt oppa's, aangezien jullie bang zijn voor injecties, zal ik eerst beginnen met een bijtende consultatie haha",
-        "uk": "Пацієнти-оппа, оскільки ви боїтеся угодів, я спочатку почну з різкої консультації ха-ха",
-        "ms": "Pesakit oppas, memandangkan awak takut disuntik, saya akan mulakan dengan konsultasi pedas dulu haha"
-      }
+      "translateFail": "bad_json",
+      "translateFailAt": 1792635703377
     },
     {
       "id": "2112199047889264909",
