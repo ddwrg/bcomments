@@ -16351,7 +16351,39 @@
       "note": "",
       "createdAt": 1792485166295,
       "score": 0,
-      "delHash": "6027864c1360f9180e0664bc95599f945e906be4a3eb0796143c8ce65f0afc12"
+      "delHash": "6027864c1360f9180e0664bc95599f945e906be4a3eb0796143c8ce65f0afc12",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112103411609133056/vid/avc1/720x1278/ZDHL9X3I3gEWUi__.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112103411609133056/img/13bKmW2fGjk6vooy.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112103411609133056/img/13bKmW2fGjk6vooy.jpg",
+      "tweetText": "ㅈㅏ영 보고싶으면 디엠으로 만져보러 올래?",
+      "translations": {
+        "ko": "ㅈㅏ영 보고싶으면 디엠으로 만져보러 올래?",
+        "en": "If you want to see Jayeong, do you want to come touch her via DM?",
+        "ja": "ジャヨンに会いたいなら、DMで触りに来る？",
+        "zh": "如果想见梓英，要不要私信来摸摸看？",
+        "es": "¿Si quieres ver a Jayeong, quieres venir a tocarla por DM?",
+        "fr": "Si tu veux voir Jayeong, tu veux venir la toucher en DM ?",
+        "de": "Wenn du Jayeong sehen willst, willst du kommen und sie per DM anfassen?",
+        "pt": "Se quiser ver a Jayeong, quer vir tocar nela por DM?",
+        "ru": "Если хочешь увидеть Джаянг, хочешь прийти потрогать ее в ЛС?",
+        "ar": "إذا كنت تريد رؤية جايونغ، هل تريد أن تأتي وتلمسها عبر الرسائل المباشرة؟",
+        "id": "Jika ingin melihat Jayeong, maukah kamu datang menyentuhnya lewat DM?",
+        "th": "ถ้าอยากเจอจายอง อยากมาลองจับดูทาง DM ไหม?",
+        "vi": "Nếu muốn gặp Jayeong, bạn có muốn đến chạm vào cô ấy qua DM không?",
+        "hi": "अगर आप जयॉन्ग को देखना चाहते हैं, तो क्या आप डीएम के ज़रिए उसे छूने आना चाहते हैं?",
+        "it": "Se vuoi vedere Jayeong, vuoi venire a toccarla in DM?",
+        "tr": "Jayeong'u görmek istiyorsan, DM'den dokunmaya gelmek ister misin?",
+        "pl": "Jeśli chcesz zobaczyć Jayeong, chcesz przyjść jej dotknąć w DM?",
+        "nl": "Als je Jayeong wilt zien, wil je dan via DM komen aanraken?",
+        "uk": "Якщо хочеш побачити Джаянг, хочеш прийти помацати її в ЛС?",
+        "ms": "Jika mahu melihat Jayeong, adakah anda mahu datang menyentuhnya melalui DM?"
+      },
+      "mediaCheckedAt": 1792642878501
     },
     {
       "id": "2112228815540007217",
