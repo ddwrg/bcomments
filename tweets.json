@@ -13804,7 +13804,39 @@
       "note": "",
       "createdAt": 1792485316658,
       "score": 0,
-      "delHash": "bcf35b1179ae20d07b7f0e39ff78f4c8c1b5a45b6002d669ac20577f5708bdcc"
+      "delHash": "bcf35b1179ae20d07b7f0e39ff78f4c8c1b5a45b6002d669ac20577f5708bdcc",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112210716010889217/vid/avc1/720x958/z30bTPGtM1hUgn80.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112210716010889217/img/KbJSCWB9ixkjcXMe.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112210716010889217/img/KbJSCWB9ixkjcXMe.jpg",
+      "tweetText": "맘눌섹 🛗",
+      "translations": {
+        "ko": "맘눌섹 🛗",
+        "en": "맘눌섹 🛗",
+        "ja": "맘눌섹 🛗",
+        "zh": "맘눌섹 🛗",
+        "es": "맘눌섹 🛗",
+        "fr": "맘눌섹 🛗",
+        "de": "맘눌섹 🛗",
+        "pt": "맘눌섹 🛗",
+        "ru": "맘눌섹 🛗",
+        "ar": "맘눌섹 🛗",
+        "id": "맘눌섹 🛗",
+        "th": "맘눌섹 🛗",
+        "vi": "맘눌섹 🛗",
+        "hi": "맘눌섹 🛗",
+        "it": "맘눌섹 🛗",
+        "tr": "맘눌섹 🛗",
+        "pl": "맘눌섹 🛗",
+        "nl": "맘눌섹 🛗",
+        "uk": "맘눌섹 🛗",
+        "ms": "맘눌섹 🛗"
+      },
+      "mediaCheckedAt": 1792641622666
     },
     {
       "id": "2112211290760646795",
