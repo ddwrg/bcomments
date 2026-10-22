@@ -17170,7 +17170,39 @@
       "note": "",
       "createdAt": 1792485116612,
       "score": 0,
-      "delHash": "25f194660414aa6e0f3e60bd30cd01f66561a2d6838712b2599275ba419f4b55"
+      "delHash": "25f194660414aa6e0f3e60bd30cd01f66561a2d6838712b2599275ba419f4b55",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112234199566745600/vid/avc1/720x1280/LHXXi03P75WZBdY2.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112234199566745600/img/sGQ8-kFpH3uWjMbU.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112234199566745600/img/sGQ8-kFpH3uWjMbU.jpg",
+      "tweetText": "님들 내가 몸팔면 사먹을거임? 🧜‍♂️",
+      "translations": {
+        "ko": "님들 내가 몸팔면 사먹을거임? 🧜‍♂️",
+        "en": "Hey guys, if I sell my body, would you buy? 🧜‍♂️",
+        "ja": "お前ら、俺が体売ったら買ってくれる？ 🧜‍♂️",
+        "zh": "家人们，如果我卖身你们会买吗？ 🧜‍♂️",
+        "es": "Amigos, si vendo mi cuerpo, ¿lo comprarían? 🧜‍♂️",
+        "fr": "Les gars, si je vends mon corps, vous l'achèteriez ? 🧜‍♂️",
+        "de": "Leute, wenn ich meinen Körper verkaufe, würdet ihr ihn kaufen? 🧜‍♂️",
+        "pt": "Gente, se eu vender meu corpo, vocês comprariam?  نوم",
+        "ru": "Ребят, если я буду продавать свое тело, купите? 🧜‍♂️",
+        "ar": "يا جماعة، لو بعت جسمي، هتشتفوه؟ 🧜‍♂️",
+        "id": "Guys, kalau aku jual badan, kalian bakal beli? 🧜‍♂️",
+        "th": "พวกแก ถ้าฉันขายตัวจะมาซื้อไหม? 🧜‍♂️",
+        "vi": "Mọi người ơi, nếu tôi bán thân thì có ai mua không? 🧜‍♂️",
+        "hi": "दोस्तों, अगर मैं अपना जिस्म बेचूं, तो क्या आप खरीदेंगे? 🧜‍♂️",
+        "it": "Ragazzi, se vendessi il mio corpo, lo comprereste? 🧜‍♂️",
+        "tr": "Millet, vücudumu satsam alır mısınız? 🧜‍♂️",
+        "pl": "Słuchajcie, gdybym sprzedawał ciało, kupilibyście? 🧜‍♂️",
+        "nl": "Jongens, als ik mijn lichaam verkoop, zouden jullie dat kopen? 🧜‍♂️",
+        "uk": "Люди, якщо я продаватиму своє тіло, купите? 🧜‍♂️",
+        "ms": "Kawan-kawan, kalau aku jual badan, korang beli ke? 🧜‍♂️"
+      },
+      "mediaCheckedAt": 1792643222977
     },
     {
       "id": "2111988025614086321",
