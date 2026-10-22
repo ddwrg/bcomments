@@ -24636,8 +24636,31 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112376813418876929/img/42T80hrm6kFEFylS.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642634776,
-      "pruneCheckedAt": 1792643796298
+      "mediaCheckedAt": 1792647174773,
+      "pruneCheckedAt": 1792643796298,
+      "tweetText": "육변기 사용료 = ❤️ 선착순이얌❕❕",
+      "translations": {
+        "ko": "육변기 사용료 = ❤️ 선착순이얌❕❕",
+        "en": "Meat toilet usage fee = ❤️ First come, first served❕❕",
+        "ja": "肉便器使用料 = ❤️ 先着順だよ❕❕",
+        "zh": "肉便器使用费 = ❤️ 先到先得❕❕",
+        "es": "Tarifa de uso de inodoro de carne = ❤️ ¡Por orden de llegada❕❕",
+        "fr": "Frais d'utilisation des toilettes de viande = ❤️ Premier arrivé, premier servi❕❕",
+        "de": "Fleischtoilette-Nutzungsgebühr = ❤️ Wer zuerst kommt, mahlt zuerst❕❕",
+        "pt": "Taxa de uso de vaso sanitário de carne = ❤️ Por ordem de chegada❕❕",
+        "ru": "Плата за использование мясного туалета = ❤️ Кто первый пришел, того и тапки❕❕",
+        "ar": "رسوم استخدام مرحاض اللحم = ❤️ بأسبقية الحضور❕❕",
+        "id": "Biaya penggunaan toilet daging = ❤️ Siapa cepat dia dapat❕❕",
+        "th": "ค่าใช้จ่ายห้องน้ำเนื้อ = ❤️ มาก่อนได้ก่อน❕❕",
+        "vi": "Phí sử dụng bồn cầu thịt = ❤️ Ai đến trước phục vụ trước❕❕",
+        "hi": "मांस शौचालय उपयोग शुल्क = ❤️ पहले आओ, पहले पाओ❕❕",
+        "it": "Tariffa d'uso della toilette di carne = ❤️ Primo arrivato, primo servito❕❕",
+        "tr": "Et tuvaleti kullanım ücreti = ❤️ İlk gelen alır❕❕",
+        "pl": "Opłata za korzystanie z mięsnej toalety = ❤️ Kto pierwszy, ten lepszy❕❕",
+        "nl": "Gebruikerskosten vleestoilet = ❤️ Wie het eerst komt, het eerst maalt❕❕",
+        "uk": "Плата за користування м'ясним туалетом = ❤️ Хто перший прийшов, того й тапки❕❕",
+        "ms": "Yuran penggunaan tandas daging = ❤️ Siapa cepat dia dapat❕❕"
+      }
     },
     {
       "id": "2112378743855669357",
