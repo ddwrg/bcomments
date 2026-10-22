@@ -16606,7 +16606,39 @@
       "note": "",
       "createdAt": 1792485150760,
       "score": 0,
-      "delHash": "7df6549cf942427c2088c3bb072de851da7079b6e2a33c20d6ebb87a60130502"
+      "delHash": "7df6549cf942427c2088c3bb072de851da7079b6e2a33c20d6ebb87a60130502",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112230305885294592/vid/avc1/720x1078/jGdQob2W_el6r606.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112230305885294592/img/iFi7pf580bWV9Ggx.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112230305885294592/img/iFi7pf580bWV9Ggx.jpg",
+      "tweetText": "꽃밭에 파묻혀 있으니까 벌 대신 오빠들만 꼬일꺼 같은데 어떡해",
+      "translations": {
+        "ko": "꽃밭에 파묻혀 있으니까 벌 대신 오빠들만 꼬일꺼 같은데 어떡해",
+        "en": "I'm buried in a flower garden, so I feel like guys instead of bees are gonna swarm to me, what should I do? 🌸",
+        "ja": "お花畑に埋もれているから、蜂の代わりにイケメンたちが寄ってきそうなんだけど、どうしよう",
+        "zh": "埋在花海里感觉来的不是蜜蜂而是帅哥怎么办呀",
+        "es": "Estoy enterrada en un jardín de flores, así que siento que en vez de abejas se van a acercar chicos, ¿qué hago? 🌸",
+        "fr": "Je suis enterrée dans un champ de fleurs, j'ai l'impression que des beaux gosses vont me coller au lieu des abeilles, qu'est-ce que je fais ?",
+        "de": "Ich stehe mitten im Blumenbeet, ich habe das Gefühl, statt Bienen kommen nur Typen an, was soll ich tun?",
+        "pt": "Estou enterrada num jardim de flores, sinto que vão aparecer rapazes em vez de abelhas, o que faço?",
+        "ru": "Я зарылась в цветник, и мне кажется, что вместо пчел ко мне будут клеиться парни, что делать?",
+        "ar": "أنا غارقة في حديقة زهور لدرجة أنني أشعر أن الشبان هم من سيقتربون مني بدلاً من النحل، ماذا أفعل؟",
+        "id": "Tenggelam di kebun bunga, rasanya bukan lebah tapi cowok-cowok yang bakal nempel, gimana nih",
+        "th": "จมอยู่ในสวนดอกไม้ รู้สึกว่าแทนที่จะมีผึ้ง มีแต่ผู้ชายเข้ามาจีบทำไงดีเนี่ย",
+        "vi": "Chìm đắm trong vườn hoa thế này chắc toàn mấy anh thính rớt thay vì ong bướm mất, phải làm sao đây",
+        "hi": "मैं फूलों के बगीचे में दबी हुई हूँ, ऐसा लगता है कि मधुमक्खियों की जगह लड़के मेरी तरफ आकर्षित होंगे, मैं क्या करूं?",
+        "it": "Sono sommersa in un giardino di fiorito, ho l'impressione che invece delle api mi ronzeranno intorno dei ragazzi, che faccio?",
+        "tr": "Çiçek bahçesine gömülmüş gibiyim, arılar yerine erkekler musallat olacak gibi hissediyorum ne yapacağım",
+        "pl": "Utknęłam w ogródku pełnym kwiatów, mam wrażenie, że zamiast pszczół zaczną do mnie lgnąć faceci, co robić?",
+        "nl": "Ik lig begraven in een bloemenzee, ik heb het gevoel dat er geen bijen maar mannen op me af komen, wat moet ik doen?",
+        "uk": "Я закопалася в квітник, здається, замість бджіл до мене липнуть тільки хлопці, що ж робити?",
+        "ms": "Terbenam dalam kebun bunga, rasa macam bukan lebah tapi abang-abang handsome pulak yang menyibuk, macam mana ni"
+      },
+      "mediaCheckedAt": 1792642993863
     },
     {
       "id": "2112105155504267491",
