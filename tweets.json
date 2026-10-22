@@ -260,7 +260,15 @@
         "nl": "Oppa, ga je met mij mee naar een offline event en strik je braaf de touwtjes aan de achterkant? Als je ze niet stevig vasthoudt, haal ik misschien kattenkwik🖤",
         "uk": "Оппа, підеш зі мною на офлайн-подію і чемно зав'яжеш шнурівки ззаду? Якщо не триматимеш міцно, я можу натворити лиха🖤",
         "ms": "Oppa, nak ikut saya ke acara offline dan dengan sopan ikat tali di belakang? Kalau tak pegang kuat-kuat, saya mungkin buat masalah🖤"
-      }
+      },
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112628670863163392/vid/avc1/720x960/9q-K2B9ZhZENAeqT.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112628670863163392/img/y7pXhmrF99bKspdo.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112628670863163392/img/y7pXhmrF99bKspdo.jpg"
     },
     {
       "id": "2112581320060936206",
