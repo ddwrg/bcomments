@@ -11656,27 +11656,8 @@
       "score": 0,
       "delHash": "33dc5dd38882cf60ac0f77432505121fc4152f4059ba67e56a9ef329cc36f9bb",
       "tweetText": "보송보송 가운 입구 둘이 살 비비고 잇으니까 괜히 심장 뛰구 몸이 후끈거려 오빠들ㅋ",
-      "translations": {
-        "ko": "보송보송 가운 입구 둘이 살 비비고 잇으니까 괜히 심장 뛰구 몸이 후끈거려 오빠들ㅋ",
-        "en": "Wearing fluffy robes and rubbing skin together makes my heart flutter and body warm for no reason, oppas lol",
-        "ja": "ふわふわのガウンを着て二人で肌を寄せ合っていると、なんとなく胸が高鳴って体が熱くなるよ、オッパたちw",
-        "zh": "穿着毛茸茸的浴袍两个人肌肤相亲，不知怎么的心跳加速身体也热乎乎的呢，哥哥们哈哈",
-        "es": "Llevando batas suaves y rozando nuestra piel, mi corazón late sin motivo y mi cuerpo se calienta, oppas jeje",
-        "fr": "Portant des peignoirs moelleux et frottant nos peaux ensemble, mon cœur bat la chamade et mon corps se réchauffe sans raison, les oppas haha",
-        "de": "In flauschigen Bademänteln und Haut an Haut schlägt mein Herz ohne Grund schneller und mein Körper wird warm, Oppas lol",
-        "pt": "Vestindo roupões fofinhos e esfregando a pele um no outro, meu coração dispara e meu corpo esquenta do nada, oppas kkk",
-        "ru": "В пушистых халатах и прижимаясь друг к другу кожа к коже, у меня без причины бьется сердце и тело становится горячим, оппачки хэ-хэ",
-        "id": "Memakai jubah mandi berbulu lembut dan saling bersentuhan kulit membuat jantungku berdebar dan tubuhku memanas tanpa alasan, para oppa wkwk",
-        "th": "ใส่ชุดคลุมอาบน้ำนุ่มๆ แล้วแนบเนื้อกันสองต่อสอง จู่ๆ หัวใจก็เต้นแรงแล้วตัวก็ร้อนวูบวาบเลย โอปป้า 555",
-        "vi": "Mặc áo choàng lông mềm mại và cọ sát da thịt vào nhau tự dưng tim đập rộn ràng với người nóng bừng lên các oppa ạ haha",
-        "hi": "فلففی چوغہ پہن کر اور ایک دوسرے سے جلد رگڑنے سے میرا دل دھڑک رہا ہے اور جسم بلا وجہ گرم ہو رہا ہے، اوپا ہاہا",
-        "it": "Indossando soffici accappatoi e strofinando la pelle insieme, il mio cuore batte all'impazzata e il mio corpo si scalda senza motivo, oppa ahah",
-        "tr": "Yumuşacık bornozlar giyip birbirimize sürünürken nedensizce kalbim çarpıyor ve vücudum ısınıyor oppalar ha ha",
-        "pl": "W puszystych szlafrokach, ocierając się o siebie skórą, moje serce bije szybciej i robi mi się gorąco bez powodu, oppowie haha",
-        "nl": "In pluizige badjassen en huid tegen huid kloppen mijn hart en wordt mijn lichaam warm zonder reden, oppa's haha",
-        "uk": "У пухнастих халатах і притискаючись шкірою одне до одного, моє серце чомусь калатає, а тіло гарячіє, оппачки ге-ге",
-        "ms": "Memakai jubah mandi gebu dan bersentuhan kulit antara satu sama lain membuatkan jantung saya berdegup dan badan terasa hangat tanpa sebab, oppa haha"
-      }
+      "translateFail": "bad_json",
+      "translateFailAt": 1792631212408
     },
     {
       "id": "2112654981153366103",
