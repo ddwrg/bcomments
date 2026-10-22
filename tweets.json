@@ -14888,7 +14888,38 @@
       "note": "",
       "createdAt": 1792485252527,
       "score": 0,
-      "delHash": "6c449103715a3cd18cceef1ba6e4d172c15eaf2591f1f6e0f4c4c4ccdff8b8f9"
+      "delHash": "6c449103715a3cd18cceef1ba6e4d172c15eaf2591f1f6e0f4c4c4ccdff8b8f9",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112216758157553664/vid/avc1/720x960/VOu0Dma1CMe0oMiy.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112216758157553664/img/mibmOyS3TonMJh_2.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112216758157553664/img/mibmOyS3TonMJh_2.jpg",
+      "tweetText": "뉴나 ㅂㅈ 보고시픈싸람~? 😮‍💨",
+      "translations": {
+        "ko": "뉴나 ㅂㅈ 보고시픈싸람~? 😮‍💨",
+        "en": "Who wants to see Nuna's vlv?~? 😮‍💨",
+        "ja": "ヌナのvlv見たい人～？ 😮‍💨",
+        "zh": "想看Nuna的vlv的人~？ 😮‍💨",
+        "es": "¿Quién quiere ver el vlv de Nuna~? 😮‍💨",
+        "fr": "Qui veut voir le vlv de Nuna~? 😮‍💨",
+        "pt": "Quem quer ver o vlv da Nuna~? 😮‍💨",
+        "ru": "Кто хочет увидеть vlv Нуны~? 😮‍💨",
+        "ar": "من يريد أن يرى vlv نونا~؟ 😮‍💨",
+        "id": "Siapa yang mau lihat vlv Nuna~? 😮‍💨",
+        "th": "ใครอยากดู vlv ของนูน่าบ้าง~? 😮‍💨",
+        "vi": "Ai muốn xem vlv của Nuna nào~? 😮‍💨",
+        "hi": "नूना का vlv कौन देखना चाहता है~? 😮‍💨",
+        "it": "Chi vuole vedere il vlv di Nuna~? 😮‍💨",
+        "tr": "Nuna's vlv'sini görmek isteyen var mı~? 😮‍💨",
+        "pl": "Kto chce zobaczyć vlv Nuny~? 😮‍💨",
+        "nl": "Wie wil Nuna's vlv zien~? 😮‍💨",
+        "uk": "Хто хоче побачити vlv Нуни~? 😮‍💨",
+        "ms": "Siapa nak tengok vlv Nuna~? 😮‍💨"
+      },
+      "mediaCheckedAt": 1792642071546
     },
     {
       "id": "2111970025364152649",
