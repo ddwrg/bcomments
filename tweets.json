@@ -13725,7 +13725,38 @@
       "note": "",
       "createdAt": 1792485320737,
       "score": 0,
-      "delHash": "faf97d1fc40dd23d4365d6a574601cc723e4621f76c563fb52c5ef705a7fc5ee"
+      "delHash": "faf97d1fc40dd23d4365d6a574601cc723e4621f76c563fb52c5ef705a7fc5ee",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112086056518721536/vid/avc1/700x890/f_c4m5hSX6aEut27.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112086056518721536/img/jfyZK6b8oPxVkchg.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112086056518721536/img/jfyZK6b8oPxVkchg.jpg",
+      "tweetText": "오빠가 디엠으로 보평해주면 여기 살짝 만져볼래?",
+      "translations": {
+        "ko": "오빠가 디엠으로 보평해주면 여기 살짝 만져볼래?",
+        "en": "If oppa voice-rates it in DM, wanna touch here a little bit?",
+        "ja": "オッパがDMで音声評価してくれたら、ここちょっと触ってみる？",
+        "zh": "如果哥哥私信发语音评价，要不要在这里轻轻摸一下？",
+        "es": "Si oppa lo califica por voz en DM, ¿quieres tocar aquí un poquito?",
+        "fr": "Si oppa le note vocalement en DM, tu veux toucher ici un tout petit peu ?",
+        "de": "Wenn Oppa es per Sprachnachricht in DM bewertet, willst du hier ein bisschen anfassen?",
+        "pt": "Se o oppa avaliar por áudio na DM, quer tocar aqui um pouquinho?",
+        "ru": "Если оппа оценит это голосом в личке, хочешь немного потрогать здесь?",
+        "ar": "إذا قام أوبا بتقييمه صوتياً عبر الرسائل الخاصة، هل تريد لمس هنا قليلاً؟",
+        "id": "Kalau oppa menilai suaranya lewat DM, mau sentuh sini sedikit?",
+        "th": "ถ้าโอปป้าส่งเสียงประเมินมาทาง DM อยากลองสัมผัสตรงนี้หน่อยไหม?",
+        "hi": "अगर ओप्पा डीएम में आवाज़ से रेट करे, तो क्या यहाँ थोड़ा छूना चाहोगी?",
+        "it": "Se oppa lo valuta con un vocale in DM, vuoi toccare qui un pochino?",
+        "tr": "Oppa DM'den sesli değerlendirirse buraya biraz dokunmak ister misin?",
+        "pl": "Jeśli oppa oceni to głosowo w DM, chcesz tutaj lekko dotknąć?",
+        "nl": "Als oppa het via DM stembeoordeelt, wil je hier een beetje aanraken?",
+        "uk": "Якщо оппа оцінить це голосом у дірект, хочеш тут трохи торкнутися?",
+        "ms": "Jika oppa nilaikan suara di DM, nak sentuh sini sikit?"
+      },
+      "mediaCheckedAt": 1792641602662
     },
     {
       "id": "2112332373870457056",
