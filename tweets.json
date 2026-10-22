@@ -16391,7 +16391,18 @@
       "note": "",
       "createdAt": 1792485164017,
       "score": 0,
-      "delHash": "82324a6fa0969aa626b8a17c0ac7b8f41a084563571870b74bf2b661e7bac6b9"
+      "delHash": "82324a6fa0969aa626b8a17c0ac7b8f41a084563571870b74bf2b661e7bac6b9",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112228643212804096/vid/avc1/720x1280/END1hPiESp-ilgiG.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112228643212804096/img/2P23lFYw18Jdk82S.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112228643212804096/img/2P23lFYw18Jdk82S.jpg",
+      "tweetText": "오빠들 내 모습보고 쿠퍼액 질질 흘리면 어뜩해 ㅋㅋㅋ\n나 만지러 오면 내품에 꽉 안아줄께요 💋",
+      "translateFail": "bad_json",
+      "translateFailAt": 1792642888761
     },
     {
       "id": "2112229311520579749",
