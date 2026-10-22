@@ -13200,7 +13200,18 @@
       "note": "",
       "createdAt": 1792485351115,
       "score": 0,
-      "delHash": "0d3eee0eef95efb88680409a71c850d0876ad786c79fdd79369e23591d31e795"
+      "delHash": "0d3eee0eef95efb88680409a71c850d0876ad786c79fdd79369e23591d31e795",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112206369516597248/vid/avc1/720x958/BfK_TA31uQzZYIEt.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112206369516597248/img/xt1DnPrNfpZfqepA.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112206369516597248/img/xt1DnPrNfpZfqepA.jpg",
+      "tweetText": "오빠들 로우앵글로 찍었더니 귀여운 뱃살 포동해서 똥꼬까지 보일뻔했짜나 ㅋ\n다른 각도 추가컷 디엠으로 다 보내줄테니 디엠 보내볼래?",
+      "translateFail": "bad_json",
+      "translateFailAt": 1792641429431
     },
     {
       "id": "2112324991505383712",
