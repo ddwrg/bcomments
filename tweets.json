@@ -15799,7 +15799,18 @@
       "note": "",
       "createdAt": 1792485201030,
       "score": 0,
-      "delHash": "a047eec080eb9e0e0d740a49a313461d8ed439c5f3868414b49926707775c5ac"
+      "delHash": "a047eec080eb9e0e0d740a49a313461d8ed439c5f3868414b49926707775c5ac",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112339879665487872/vid/avc1/720x956/p4uzrrTKYr5YZJ_4.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112339879665487872/img/qAOgCMrjCz2zwK9x.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112339879665487872/img/qAOgCMrjCz2zwK9x.jpg",
+      "tweetText": "나 넘 말라서 부러질꺼 가타구 놀리지마 오빠들 뱃살보단 낳잖아 ㅋㅋㅋ 🖤\n이쁘다구 해주면 아까 찍은 ㅈㅇ영상 보내줄 수 있는데... 🙈",
+      "translateFail": "bad_json",
+      "translateFailAt": 1792642625301
     },
     {
       "id": "2112338933694816736",
