@@ -14531,7 +14531,39 @@
       "note": "",
       "createdAt": 1792485271892,
       "score": 0,
-      "delHash": "66ee10c2be1bd23e04b1eb13c8853fa7d05e5f4273045a69a3bc42343a7c797e"
+      "delHash": "66ee10c2be1bd23e04b1eb13c8853fa7d05e5f4273045a69a3bc42343a7c797e",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112330621536362496/vid/avc1/720x988/mg9xgd5pA6qFxkGj.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112330621536362496/img/tSF1Ej8nphlOyTOs.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112330621536362496/img/tSF1Ej8nphlOyTOs.jpg",
+      "tweetText": "셔츠 단추 잠구는법 까먹어서 이러구있는데 이것두 소소한 일탈 맞지 오빠들\n이쁘다구 댓글 달아주면 내 비밀 셀카 마구 뿌림?",
+      "translations": {
+        "ko": "셔츠 단추 잠구는법 까먹어서 이러구있는데 이것두 소소한 일탈 맞지 오빠들\n이쁘다구 댓글 달아주면 내 비밀 셀카 마구 뿌림?",
+        "en": "I forgot how to button my shirt so I'm doing this, but this counts as a little rebellion right, guys?\nIf you leave nice comments saying I'm pretty, will I spam you with my secret selfies?",
+        "ja": "シャツのボタンの留め方忘れちゃってこんなことになってるんだけど、これもささやかな脱衣…じゃなくて脱走（反逆）ってことで合ってるよね、みんな？\n可愛いってコメントしてくれたら、秘密のセルカを大放出するかも？",
+        "zh": "我忘了衬衫纽扣怎么系才变成这样的，这也算是一次小小叛逆吧，哥哥们？\n如果在评论区夸我漂亮，我就狂发秘密自拍哦？",
+        "es": "Olvidé cómo abotonar mi camisa así que estoy así, pero esto cuenta como una pequeña travesura, ¿verdad chicos?\nSi dejan comentarios bonitos diciendo que soy linda, ¿reparto mis selfies secretas a lo loco?",
+        "fr": "J'ai oublié comment boutonner ma chemise alors je fais ça, mais ça compte comme une petite rébellion, non les gars ?\nSi vous commentez en disant que je suis jolie, je balance mes selfies secrets en masse ?",
+        "de": "Ich habe vergessen, wie man Hemdknöpfe schließt, und mache jetzt das hier, aber das zählt als kleine Rebellion, oder Jungs?\nWenn ihr nette Kommentare schreibt, dass ich hübsch bin, streue ich meine geheimen Selfies massenhaft?",
+        "pt": "Esqueci como abotoar minha blusa e tô assim, mas isso conta como uma pequena rebeldia, né gente?\nSe comentarem que estou bonita, eu espalho minhas selfies secretas?",
+        "ru": "Забыла, как застегивать пуговицы на рубашке, поэтому сижу так, но это ведь считается маленьким баловством, ребят?\nЕсли оставите комментарии о том, что я красивая, мне раскидать мои секретные селфи?",
+        "ar": "نسيت كيف أزرر قميصي لذا أنا هكذا، لكن هذا يعتبر تمردًا صغيرًا أليس كذلك يا شباب؟\nإذا كنتم ستعلقون بأنني جميلة، هل أنشر صور السيلفي السرية الخاصة بي بكثرة؟",
+        "id": "Aku lupa cara mengancingkan baju jadi begini, tapi ini dihitung sebagai pemberontakan kecil kan, para cowok?\nKalau kalian komen bilang aku cantik, aku sebarin selfie rahasiaku ya?",
+        "th": "ลืมวิธีติดกระดุมเสื้อเลยเป็นแบบนี้ นี่ก็นับเป็นการขบถเล็กๆ น้อยๆ เหมือนกันใช่ไหมคะทุกคน\nถ้าคอมเมนต์ชมว่าสวย จะแจกรูปเซลฟี่ลับรัวๆ เลยดีไหมนะ?",
+        "vi": "Quên cách cài khuyết áo nên mới thành ra thế này, nhưng đây cũng được coi là một sự nổi loạn nhỏ đúng không mấy anh?\nNếu bình luận khen tôi đẹp thì tôi xả kho ảnh tự sướng bí mật nha?",
+        "hi": "मैं शर्ट के बटन लगाना भूल गई इसलिए ऐसे बैठी हूँ, पर यह एक छोटी सी बगावत तो है ही ना भाइयों?\nअगर आप लोग सुंदर बोलकर कमेंट करोगे, तो क्या मैं अपनी गुप्त सेल्फ़ी की बाढ़ ला दूँ?",
+        "it": "Ho dimenticato come si bottonano le camicie e sono così, ma anche questa è una piccola trasgressione, vero ragazzi?\nSe commentate dicendo che sono carina, spargo i miei selfie segreti?",
+        "tr": "Gömlek düğmelerini nasıl ilikleyeceğimi unuttum o yüzden böyleyim ama bu da küçük bir kaçamak sayılır değil mi beyler?\nGüzel olduğuma dair yorumlar yaparsanız gizli özçekimlerimi bolca saçar mıyım?",
+        "pl": "Zapomniałam, jak się zapina koszulę, więc tak siedzę, ale to chyba liczy się jako mały bunt, prawda chłopaki?\nJak napiszecie w komentarzach, że jestem ładna, to rozdam masę moich sekretnych selfie?",
+        "nl": "Ik ben vergeten hoe ik mijn overhemd moet dichtbuttonen dus ik doe dit, maar dit telt als een kleine rebelse actie toch jongens?\nAls jullie leuke reacties achterlaten dat ik mooi ben, strooi ik dan met mijn geheime selfies?",
+        "uk": "Забула, як застібати ґудзики на сорочці, тому сиджу так, але це ж вважається маленьким бунтом, хлопці?\nЯкщо залишите коментарі про те, яка я гарна, накидати вам моїх секретних селфі?",
+        "ms": "Lupa cara nak butang baju jadi macam ni, tapi ni dikira pemberontakan kecil kan korang?\nKalau komen puji saya cantik, saya sebar selfie rahsia saya banyak-banyak ke?"
+      },
+      "mediaCheckedAt": 1792641893341
     },
     {
       "id": "2112214997715882115",
