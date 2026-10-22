@@ -16153,7 +16153,39 @@
       "note": "",
       "createdAt": 1792485178210,
       "score": 0,
-      "delHash": "5eda7a13ccbd6ac53b8d0d7d0e268705730be020bb8919aa308ac12b28876db4"
+      "delHash": "5eda7a13ccbd6ac53b8d0d7d0e268705730be020bb8919aa308ac12b28876db4",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112340398429679616/vid/avc1/700x1278/kSet-k-RjQm2k2n4.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112340398429679616/img/d5ysXqm6Y6IDPh4j.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112340398429679616/img/d5ysXqm6Y6IDPh4j.jpg",
+      "tweetText": "혼자 체육복 입구 유산소 해봤자 살도 안 빠지구 재미두 업자나 ㅋ",
+      "translations": {
+        "ko": "혼자 체육복 입구 유산소 해봤자 살도 안 빠지구 재미두 업자나 ㅋ",
+        "en": "Working out alone in gym clothes just doing cardio won't make you lose weight and it's not even fun lol",
+        "ja": "一人で体操服着て有酸素運動したって、痩せないし面白くもないじゃんw",
+        "zh": "一个人穿着运动服做有氧运动既瘦不下来又没意思哈",
+        "es": "Hacer cardio solo con la ropa de gimnasio ni te hace adelgazar ni es divertido jajaja",
+        "fr": "Faire du cardio tout seul en tenue de sport, ça ne fait même pas maigrir et c'est nul en plus lol",
+        "de": "Allein in Sportsachen Cardio zu machen bringt eh kein Gewicht runter und macht nicht mal Spaß lol",
+        "pt": "Fazer cardio sozinho com roupa de ginástica nem emagrece e nem é divertido kkk",
+        "ru": "Заниматься кардио в одиночку в спортивной форме — толку ноль, даже не худеешь и не весело лол",
+        "ar": "ممارسة الكارديو وحدك بملابس رياضية لن تنقص وزنك حتى ولن تكون ممتعة حتى ههههه",
+        "id": "Sendirian pakai baju olahraga terus cardio, nggak bakal turun berat badan juga dan nggak seru wkwk",
+        "th": "ใส่ชุดพละไปคาร์ดิโอคนเดียวก็ไม่ได้ช่วยให้ผอมลงแถมไม่สนุกด้วย 555",
+        "vi": "Một mình mặc đồ thể thao tập cardio vừa không giảm được cân lại vừa chán chết haha",
+        "hi": "अकेले जिम के कपड़ों में कार्डियो करने से वजन भी कम नहीं होगा और मजा भी नहीं आएगा हाहा",
+        "it": "Fare cardio da soli con la tuta da ginnastica non ti fa manco dimagrire ed è pure noioso lol",
+        "tr": "Tek başına eşofmanları giyip kardiyo yapsan ne olacak, kilo da vermezsin hem hiç eğlenceli değil hah",
+        "pl": "Robienie cardio samemu w stroju gimnastycznym i tak nie pomoże schudnąć, a do tego w ogóle nie jest fajne heh",
+        "nl": "In je eentje in je gymkleren cardio doen helpt toch niet om af te vallen en is niet eens leuk lol",
+        "uk": "Робити кардіо наодинці у спортивному костюмі все одно не допоможе схуднути, та й не весело зовсім лол",
+        "ms": "Seorang diri pakai baju sukan buat cardio pun takkan susut berat badan juga lepas tu tak seronok langsung haha"
+      },
+      "mediaCheckedAt": 1792642785271
     },
     {
       "id": "2112102329445220472",
