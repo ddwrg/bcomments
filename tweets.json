@@ -13687,7 +13687,37 @@
       "note": "",
       "createdAt": 1792485322804,
       "score": 0,
-      "delHash": "8af9370031040ef56d73d3e8a27251250613e97a54bb5ee18241301aaa8769d9"
+      "delHash": "8af9370031040ef56d73d3e8a27251250613e97a54bb5ee18241301aaa8769d9",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112209511096422400/vid/avc1/720x900/tvM411JE0jRJW4VH.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112209511096422400/img/nclLkpdhTsPm4biC.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112209511096422400/img/nclLkpdhTsPm4biC.jpg",
+      "tweetText": "오빠들 운동 끝내구 시원하게 마사지 해주기 가능?",
+      "translations": {
+        "ko": "오빠들 운동 끝내구 시원하게 마사지 해주기 가능?",
+        "en": "Can you guys give me a nice refreshing massage after working out?",
+        "ja": "お兄さんたち、運動終わった後に気持ちよくマッサージしてくれるのあり？",
+        "zh": "哥哥们 运动完后能给我按个摩放松一下吗？",
+        "es": "¿Pueden darme un buen masaje relajante después de hacer ejercicio?",
+        "de": "Könnt ihr Jungs mir nach dem Training eine schöne, entspannende Massage geben?",
+        "pt": "Meninos, dá para rolar uma massagem bem relaxante depois do treino?",
+        "ru": "Парни, можете сделать классный освежающий массаж после тренировки?",
+        "ar": "يا شباب، هل يمكنكم عمل مساج منعش بعد التمرين؟",
+        "id": "Cowok-cowok, bisa tolongin pijat yang seger abis olahraga?",
+        "th": "โอปป้าจ๋า ออกกำลังกายเสร็จแล้วนวดให้หาย A แบบฟินๆ หน่อยได้ป่ะ?",
+        "vi": "Mấy anh ơi, tập xong massage cho em một trận sảng khoái được không?",
+        "it": "Ragazzi, mi fate un bel massaggio rilassante dopo l'allenamento?",
+        "tr": "Çocuklar, spordan sonra şöyle ferahlatıcı bir masaj yapmak var mı?",
+        "pl": "Chłopaki, zrobicie mi fajny, odprężający masaż po treningu?",
+        "nl": "Jongens, kunnen jullie mij een lekker verfrissende massage geven na het sporten?",
+        "uk": "Хлопці, можете зробити класний розслаблюючий масаж після тренування?",
+        "ms": "Abang-abang, boleh tolong urut kasi segar lepas senaman tak?"
+      },
+      "mediaCheckedAt": 1792641594108
     },
     {
       "id": "2112086447155224690",
