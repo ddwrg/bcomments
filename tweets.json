@@ -11684,7 +11684,29 @@
       "note": "",
       "createdAt": 1792552861403,
       "score": 0,
-      "delHash": "cdcaa7ec92601ea13d130569287c45e5422bd08e232b02a21e66b7fd675d01b9"
+      "delHash": "cdcaa7ec92601ea13d130569287c45e5422bd08e232b02a21e66b7fd675d01b9",
+      "tweetText": "아침부터 세워두면 넘 힘드니까 예쁘게 빨아 줄 수 있어?",
+      "translations": {
+        "ko": "아침부터 세워두면 넘 힘드니까 예쁘게 빨아 줄 수 있어?",
+        "en": "It's super exhausting if you leave it standing from the morning, so can you wash it nicely?",
+        "ja": "朝から立てておくとすごく大変だから、きれいに洗ってもらえる？",
+        "zh": "从早上就立着会很累，能帮我好好洗一下吗？",
+        "es": "Es súper agotador si lo dejas de pie desde la mañana, ¿puedes lavarlo bien?",
+        "fr": "C'est super fatigant si tu le laisses debout depuis le matin, tu peux le laver gentiment ?",
+        "de": "Es ist super anstrengend, wenn du es seit dem Morgen hinstellst, kannst du es schön waschen?",
+        "pt": "É super cansativo se você deixar em pé desde de manhã, pode lavar direitinho?",
+        "ru": "Это очень утомительно, если оставлять стоять с самого утра, сможешь хорошо постирать?",
+        "ar": "إنه أمر مرهق للغاية إذا تركته واقفاً منذ الصباح، فهل يمكنك غسله بشكل جيد؟",
+        "id": "Capek banget kalau dibiarkan berdiri dari pagi, bisa tolong cuciin yang bersih?",
+        "th": "ปล่อยให้ตั้งไว้ตั้งแต่เช้ามันเหนื่อยมากเลย ช่วยซักให้สะอาดหน่อยได้ไหม?",
+        "vi": "Để dựng đứng từ sáng thì mệt lắm, bạn giặt sạch giúp mình nhé?",
+        "it": "Èsuper faticoso se lo lasci in piedi dalla mattina, riesci a lavarlo bene?",
+        "tr": "Sabahtan beri ayakta durmasına izin verirsen çok yorucu olur, güzelce yıkayabilir misin?",
+        "pl": "To bardzo męczące, jeśli zostawisz to stojące od rana, możesz to ładnie wyprać?",
+        "nl": "Het is super vermoeiend als je het vanaf 's ochtends laat staan, kun je het even mooi wassen?",
+        "uk": "Це дуже втомлює, якщо залишати стояти з самого ранку, можеш гарно попрати?",
+        "ms": "Letih sangat kalau biarkan berdiri dari pagi, boleh tolong basuh elok-elok tak?"
+      }
     },
     {
       "id": "2112644203692036321",
