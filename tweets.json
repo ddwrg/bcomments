@@ -13924,7 +13924,39 @@
       "note": "",
       "createdAt": 1792485309717,
       "score": 0,
-      "delHash": "c9abb0c337b801308512fee3063d41b0a191fd9c9bf7b893f8b16f0eefb23231"
+      "delHash": "c9abb0c337b801308512fee3063d41b0a191fd9c9bf7b893f8b16f0eefb23231",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112210844738347008/vid/avc1/720x960/xYJeiBZEtEAD5X8G.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112210844738347008/img/zkamAAFn8LwlPfRV.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112210844738347008/img/zkamAAFn8LwlPfRV.jpg",
+      "tweetText": "교복 입구 앉아잇으니까 오빠들 눈빛이 무서워서 시선으로 임신시킬 기세냉ㅋ",
+      "translations": {
+        "ko": "교복 입구 앉아잇으니까 오빠들 눈빛이 무서워서 시선으로 임신시킬 기세냉ㅋ",
+        "en": "Sitting here in my school uniform, the guys' gazes are so intense it feels like they could get me pregnant just by looking at me lol",
+        "ja": "制服を着て座ってたら、お兄ちゃんたちの視線が怖すぎて、目で妊娠させられそうな勢いなんだけどw",
+        "zh": "穿着制服坐在那儿，小哥哥们的眼神太可怕了，感觉光用视线就能把我搞怀孕哈哈",
+        "es": "Sentada aquí con mi uniforme escolar, las miradas de los chicos son tan intensas que parece que podrían embarazarme con solo verme jajaj",
+        "fr": "Assise ici en uniforme scolaire, le regard des gars est si intense qu'on dirait qu'ils pourraient me mettre enceinte juste avec leurs yeux mdr",
+        "de": "Wenn ich hier in meiner Schuluniform sitze, sind die Blicke der Jungs so intensiv, als könnten sie mich allein durch Anstarren schwängern lol",
+        "pt": "Sentada aqui com meu uniforme escolar, o olhar dos caras é TÃO intenso que parece que vão me engravidar só com os olhos kkk",
+        "ru": "Сижу тут в школьной форме, взгляды парней настолько жуткие, что кажется, будто они могут меня оплодотворить одним взглядом лол",
+        "ar": "وأنا جالسة هنا بالزي المدرسي، نظرات الشباب مرعبة لدرجة أنها قد تحبلني لمجرد النظر ههههه",
+        "id": "Duduk pake seragam sekolah, tatapan para cowok serem banget kayaknya bisa bikin hamil cuma pakai pandangan doang wkwk",
+        "th": "นั่งใส่ชุดนักเรียนอยู่ สายตาพวกพี่ๆ น่ากลัวมาก มองทีเดียวจะท้องได้อยู่แล้วเนี่ย 555",
+        "vi": "Ngồi mặc đồng phục ở đây mà ánh mắt mấy anh đáng sợ kiểu muốn làm mình có bầu bằng ánh nhìn luôn á haha",
+        "hi": "स्कूल की यूनिफॉर्म पहनकर बैठी हूँ, लड़कों की नज़रें इतनी भयानक हैं कि ऐसा लगता है सिर्फ देखने से ही गर्भवती कर देंगे हाहा",
+        "it": "Seduta qui con la mia scolastica, lo sguardo dei ragazzi è così intenso che sembra possano-incinta solo con gli occhi lol",
+        "tr": "Okul üniformamla otururken erkeklerin bakışları o kadar korkunç ki, sadece bakışlarıyla hamile bırakacaklar sanki loll",
+        "pl": "Siedzę tu w mundurku szkolnym, spojrzenia chłopaków są tak przerażające, że chyba mogliby mnie zapłodnić samym wzrokiem haha",
+        "nl": "Als ik hier in mijn schooluniform zit, zijn de blikken van de jongens zo intense dat ze me bijna zwanger kunnen maken met alleen hun ogen lol",
+        "uk": "Сиджу тут у шкільній формі, погляди хлопців такі страшні, ніби можуть завагітнити мене одним поглядом лол",
+        "ms": "Duduk pakai pakaian seragam sekolah, pandangan abang-abang ni seram sangat macam nak pregnantkan aku guna pandangan je hahaha"
+      },
+      "mediaCheckedAt": 1792641650003
     },
     {
       "id": "2112211976516706476",
