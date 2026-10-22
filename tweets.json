@@ -12145,28 +12145,8 @@
       "score": 0,
       "delHash": "1fbb9374f6b76f76c0e9d7f60a5b7ff726dd8b4987081f1f2fc673e3d937f6ae",
       "tweetText": "환자오빠들 어디 아픈지 말해바 내 가슴 소리 들으면 싹 낫는 특효약인데 💉\n나한테 전담 밀착 간호 받아볼 오빠 가능?",
-      "translations": {
-        "ko": "환자오빠들 어디 아픈지 말해바 내 가슴 소리 들으면 싹 낫는 특효약인데 💉\n나한테 전담 밀착 간호 받아볼 오빠 가능?",
-        "en": "Hey patient oppas, tell me where it hurts. Listening to my heartbeat is a magical cure that'll make it all go away 💉\nAny oppa want to get dedicated, close-up nursing care from me?",
-        "ja": "患者のオッパたち、どこが痛いか言ってよ。私の胸の音を聞けばすっかり治る特効薬だから 💉\n私から専任の密着看護を受けてみたいオッパ、いる？",
-        "zh": "患者哥哥们快告诉我哪里不舒服，听听我的心跳声可是能全治好的特效药哦 💉\n哪个哥哥想接受我的专属紧密护理？",
-        "es": "Oppa pacientes, díganme dónde les duele. Escuchar los latidos de mi pecho es una cura milagrosa que lo curará todo 💉\n¿Algún oppa quiere recibir atención de enfermería cercana y dedicada de mi parte?",
-        "fr": "Hé les oppas patients, dites-moi où ça fait mal. Écouter les battements de mon cœur est un remède miracle qui guérit tout 💉\nQuel oppa veut recevoir des soins infirmiers personnalisés et rapprochés de ma part ?",
-        "de": "Hey Patienten-Oppas, sagt mir, wo es wehtut. Meinen Herzschlag zu hören ist ein Wundermittel, das alles heilt 💉\nWelcher Oppa möchte eine engagierte, hautnahe Pflege von mir?",
-        "pt": "Oppa pacientes, me digam onde dói. Ouvir as batidas do meu coração é um remédio milagroso que cura tudo 💉\nAlgum oppa quer receber cuidados de enfermagem dedicados e bem de perto de mim?",
-        "ru": "Эй, оппа-пациенты, скажите, где болит. Послушать стук моего сердца — это чудодейственное лекарство, которое всё исцелит 💉\nКакой оппа хочет получить от меня персональный уход?»",
-        "ar": "أيها المرضى الأوبا، أخبروني أين يؤلمكم. الاستماع إلى صوت دقات قلبي هو علاج سحري سيشفى كل شيء 💉\nهل هناك أوبا يرغب في تلقي رعاية تمريضية مخصصة وقريبة مني؟",
-        "id": "Hei oppa-oppa pasien, beri tahu aku di mana yang sakit. Mendengarkan detak jantungku adalah obat mujarab yang bisa menyembuhkan segalanya 💉\nAda oppa yang mau dirawat secara khusus dan dekat olehku?",
-        "th": "เหล่าอป파คนไข้ บอกมาซิว่าเจ็บตรงไหน ฟังเสียงหัวใจฉันสิ ยา 💉 วิเศษที่จะรักษาให้หายเกลี้ยงเลยนะ\nมีอป파คนไหนอยากให้ฉันพยาบาลแบบประกบตัวใกล้ชิดบ้างไหม?",
-        "vi": "Này các oppa bệnh nhân, nói cho em biết chỗ nào đau đi nào. Nghe tiếng nhịp đập ngực em là liều thuốc đặc trị khỏi ngay lập tức đấy 💉\nOppa nào muốn nhận sự chăm sóc đặc biệt cận kề từ em không?",
-        "hi": "हे रोगी oppa, मुझे बताओ कहाँ दर्द है। मेरे दिल की धड़कन सुनना एक जादुई इलाज है जो सब ठीक कर देगा 💉\nक्या कोई oppa मुझसे समर्पित और नज़दीकी नर्सिंग देखभाल पाना चाहता है?",
-        "it": "Ehi oppa pazienti, ditemi dove vi fa male. Ascoltare il battito del mio cuore è una cura miracolosa che farà sparire tutto 💉\nC'è qualche oppa che vuole ricevere cure infermieristiche dedicate e ravvicinate da me?",
-        "tr": "Hasta oppalar, nereniz ağrıyor söyleyin. Kalbimin sesini duymak her şeyi iyileştiren mucizevi bir ilaç 💉\nBenden özel ve yakından hemşirelik bakımı almak isteyen bir oppa var mı?",
-        "pl": "Hej oppa pacjenci, powiedzcie, co was boli. Słuchanie bicia mojego serca to magiczne lekarstwo, które wszystko uleczy 💉\nKtóry oppa chce ode mnie dedykowanej, bliskiej opieki pielęgniarskiej?",
-        "nl": "Hé patiënt oppa's, vertel me waar het pijn doet. Naar mijn hartslag luisteren is een wondermiddel dat alles geneest 💉\nWelke oppa wil toegewijde, close-up verpleging van mij?",
-        "uk": "Гей, пацієнти-оппа, скажіть, де болить. Послухати стукіт мого серця — це чудодійні ліки, які все вилікують 💉\nХто з оппа хоче отримати від мене персональний догляд?",
-        "ms": "Hei oppa pesakit, beritahu saya mana yang sakit. Mendengarkan degupan jantung saya adalah ubat mujarab yang menyembuhkan segalanya 💉\nAda oppa yang mahu menerima penjagaan kejururawatan dekat dan khusus daripada saya?"
-      }
+      "translateFail": "bad_json",
+      "translateFailAt": 1792636013450
     },
     {
       "id": "2112199980530430100",
