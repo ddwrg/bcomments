@@ -17051,7 +17051,39 @@
       "note": "",
       "createdAt": 1792485122588,
       "score": 0,
-      "delHash": "de9af27f206d61791f6f8b2a2bd4d770a25b055de4c83f73c5997368ae362c0e"
+      "delHash": "de9af27f206d61791f6f8b2a2bd4d770a25b055de4c83f73c5997368ae362c0e",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112233678311174144/vid/avc1/720x960/q7viLuS2kB4fipd5.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112233678311174144/img/Fx207GLTkQe5yhUN.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112233678311174144/img/Fx207GLTkQe5yhUN.jpg",
+      "tweetText": "오늘 노팬T로 나가서 이따가 인증할게 볼사람 팔로하고 댓글 적어놔 🛳️",
+      "translations": {
+        "ko": "오늘 노팬T로 나가서 이따가 인증할게 볼사람 팔로하고 댓글 적어놔 🛳️",
+        "en": "Going out commando today and I'll prove it later. If you want to see, follow me and leave a comment 🛳️",
+        "ja": "今日ノーパンで出かけるから、あとで証明するね。見たい人はフォローしてコメント残してね 🛳️",
+        "zh": "今天真空出门，待会儿证明给你们看。想看的点个关注并留个言 🛳️",
+        "es": "Hoy salgo sin bragas/calzoncillos y lo demostraré luego. Los que quieran ver, síganme y dejen un comentario 🛳️",
+        "fr": "Je sors sans sous-vêtement aujourd'hui et je le prouverai plus tard. Ceux qui veulent voir, suivez-moi et laissez un commentaire 🛳️",
+        "de": "Gehe heute ohne Unterwäsche raus und werde es später beweisen. Wer es sehen will, folgt mir und lässt einen Kommentar da 🛳️",
+        "pt": "Hoje vou sair sem calcinha/cueca e vou provar mais tarde. Quem quiser ver, siga-me e deixe um comentário 🛳️",
+        "ru": "Сегодня иду без белья, позже докажу. Кто хочет посмотреть, подписывайтесь и оставляйте комментарий 🛳️",
+        "ar": "سأخرج اليوم بدون ملابس داخلية وسأثبت ذلك لاحقاً. من يريد أن يرى، تابعني واقترح تعليقاً 🛳️",
+        "id": "Hari nanti aku keluar tanpa celana dalam dan akan buktikan nanti. Yang mau lihat, follow dan tinggalkan komentar ya 🛳️",
+        "th": "วันนี้ออกไปแบบไม่ใส่กางเกงใน เดี๋ยวจะพิสูจน์ให้ดูทีหลัง ใครอยากดูฟอลโล่แล้วคอมเมนต์ไว้เลย 🛳️",
+        "vi": "Hôm nay ra đường không mặc đồ lót và lát nữa sẽ chứng minh. Ai muốn xem thì theo dõi và để lại bình luận nhé 🛳️",
+        "hi": "आज बिना अंडरवियर के बाहर जा रहा हूँ और बाद में साबित करूँगा। जो देखना चाहते हैं, फॉलो करें और कमेंट करें 🛳️",
+        "it": "Oggi esco senza mutande e lo dimostrerò più tardi. Chi vuole vedere, mi segua e lasci un commento 🛳️",
+        "tr": "Bugün iç çamaşırsız çıkıyorum ve birazdan kanıtlayacağım. Görmek isteyenler takip etsin ve yorum bıraksın 🛳️",
+        "pl": "Dzisiaj wychodzę bez majtek i potem to udowodnię. Kto chce zobaczyć, niech zaobserwuje i zostawi komentarz 🛳️",
+        "nl": "Vandaag zonder ondergoed de deur uit en ik bewijs het straks wel. Wie wil zien, volg me और laat een reactie achter 🛳️",
+        "uk": "Сьогодні йду без білизни, пізніше доведу. Хто хоче подивитися, підписуйтесь і залишайте коментар 🛳️",
+        "ms": "Hari ni keluar tak pakai seluar dalam dan nanti aku buktikan. Siapa nak tengok, follow dan tinggalkan komen 🛳️"
+      },
+      "mediaCheckedAt": 1792643198359
     },
     {
       "id": "2112234010411933845",
