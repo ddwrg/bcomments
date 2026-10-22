@@ -28496,7 +28496,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112009263090720768/img/PgFvpY43RQHOvLvW.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642824019
+      "mediaCheckedAt": 1792642824019,
+      "pruneCheckedAt": 1792643885052
     },
     {
       "id": "2112015990913683626",
@@ -28513,7 +28514,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112015514172334080/img/W_B8ZKjyI0lVsq67.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642824632
+      "mediaCheckedAt": 1792642824632,
+      "pruneCheckedAt": 1792643885159
     },
     {
       "id": "2112018457772605817",
@@ -28530,7 +28532,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112017913553342464/img/8Ro43woDXNauU0wy.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642825230
+      "mediaCheckedAt": 1792642825230,
+      "pruneCheckedAt": 1792643885265
     },
     {
       "id": "2112007650183676157",
@@ -28547,7 +28550,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112007029917356032/img/Gfqj3Seu0xFeiKBs.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642825854
+      "mediaCheckedAt": 1792642825854,
+      "pruneCheckedAt": 1792643885369
     },
     {
       "id": "2111893626376851494",
@@ -28564,7 +28568,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111893500786774016/img/WnvNa8S_WyHM1s36.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642826446
+      "mediaCheckedAt": 1792642826446,
+      "pruneCheckedAt": 1792643885532
     },
     {
       "id": "2112019624988692735",
@@ -28581,7 +28586,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112019485213515776/img/58-mZBMk9b292rLd.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642827065
+      "mediaCheckedAt": 1792642827065,
+      "pruneCheckedAt": 1792643885675
     },
     {
       "id": "2111893930589737105",
@@ -28598,7 +28604,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111893844782686208/img/YgU5EVyAlJIxxSJl.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642827741
+      "mediaCheckedAt": 1792642827741,
+      "pruneCheckedAt": 1792643885794
     },
     {
       "id": "2111894319422726338",
@@ -28615,15 +28622,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111894191353782272/img/VDOhJoMHORvEEfS1.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642828365
-    },
-    {
-      "id": "2111581533744349599",
-      "url": "https://twitter.com/Leandro51175188/status/2111581533744349599",
-      "note": "",
-      "createdAt": 1792385854160,
-      "score": 0,
-      "delHash": "c8db6c5444e4d0b144917594e94b5b851399a33f4339aed85ef10cf5a7887f24"
+      "mediaCheckedAt": 1792642828365,
+      "pruneCheckedAt": 1792643885905
     },
     {
       "id": "2112010393187193203",
@@ -28640,7 +28640,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112008887578886144/img/8EUGf1tM8BOwNIwN.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642829562
+      "mediaCheckedAt": 1792642829562,
+      "pruneCheckedAt": 1792643886087
     },
     {
       "id": "2112018764690809003",
@@ -28657,7 +28658,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112018401304662016/img/Apyux4WCRZI1hPvy.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642830195
+      "mediaCheckedAt": 1792642830195,
+      "pruneCheckedAt": 1792643886193
     },
     {
       "id": "2112021715136208944",
@@ -28674,7 +28676,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112021156635222016/img/7EzjyQAEgSXjSX6H.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642830831
+      "mediaCheckedAt": 1792642830831,
+      "pruneCheckedAt": 1792643886600
     },
     {
       "id": "2111896321028493795",
@@ -28691,7 +28694,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111896236030935040/img/JjXuFnzI6R_gbNEB.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642831459
+      "mediaCheckedAt": 1792642831459,
+      "pruneCheckedAt": 1792643886700
     },
     {
       "id": "2111832032028622959",
@@ -28708,7 +28712,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111831905293459457/img/n7TIkuFTRl2RjlEN.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642832080
+      "mediaCheckedAt": 1792642832080,
+      "pruneCheckedAt": 1792643886808
     },
     {
       "id": "2111896520224350422",
@@ -28725,7 +28730,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111896411336003584/img/Z836JVnCpx5T_0a-.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642832716
+      "mediaCheckedAt": 1792642832716,
+      "pruneCheckedAt": 1792643886914
     },
     {
       "id": "2111896209745203216",
@@ -28742,7 +28748,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111896102152839168/img/OTozgI_ll5QJtXbz.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642833325
+      "mediaCheckedAt": 1792642833325,
+      "pruneCheckedAt": 1792643887019
     },
     {
       "id": "2111928801710244212",
@@ -28759,7 +28766,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111928685125369856/img/Nsitoz6yKq4eL3RJ.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642833925
+      "mediaCheckedAt": 1792642833925,
+      "pruneCheckedAt": 1792643887122
     },
     {
       "id": "2111896773199626651",
@@ -28776,7 +28784,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111896671659704320/img/bPD1yg6PJNOaKIRy.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642834530
+      "mediaCheckedAt": 1792642834530,
+      "pruneCheckedAt": 1792643887228
     },
     {
       "id": "2111892817656385749",
@@ -28793,7 +28802,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111892700362649601/img/iC1DoqPAeF5E98GA.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642835165
+      "mediaCheckedAt": 1792642835165,
+      "pruneCheckedAt": 1792643887332
     },
     {
       "id": "2111996436485472549",
@@ -28810,7 +28820,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111996142234030080/img/M1JRHlo6fAPMThzx.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642835769
+      "mediaCheckedAt": 1792642835769,
+      "pruneCheckedAt": 1792643887438
     },
     {
       "id": "2112018529000325199",
@@ -28827,7 +28838,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112017736536850432/img/YUOQ66Gv2nrJUVXG.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642836385
+      "mediaCheckedAt": 1792642836385,
+      "pruneCheckedAt": 1792643887555
     },
     {
       "id": "2111897960447725828",
@@ -28844,7 +28856,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111897857532084224/img/PRM2mU-K244Q8uxB.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642836997
+      "mediaCheckedAt": 1792642836997,
+      "pruneCheckedAt": 1792643887654
     },
     {
       "id": "2111897675897643280",
@@ -28861,7 +28874,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111897554959101952/img/9LyTgo9bZK96xBhn.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642837637
+      "mediaCheckedAt": 1792642837637,
+      "pruneCheckedAt": 1792643887755
     },
     {
       "id": "2111978589805847030",
@@ -28878,7 +28892,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111978116931559425/img/LkGnl2B9twIi1vJd.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642838245
+      "mediaCheckedAt": 1792642838245,
+      "pruneCheckedAt": 1792643887855
     },
     {
       "id": "2111898246201381331",
@@ -28895,7 +28910,8 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111898164592783360/img/oIjbIpenp6Iajb3x.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642838874
+      "mediaCheckedAt": 1792642838874,
+      "pruneCheckedAt": 1792643887958
     },
     {
       "id": "2111899689293636085",
