@@ -16410,7 +16410,39 @@
       "note": "",
       "createdAt": 1792485161968,
       "score": 0,
-      "delHash": "4b2cfe5dbd9d0e3191b3f38275f048ffbd573ae70f273d29b3be64ac893b6980"
+      "delHash": "4b2cfe5dbd9d0e3191b3f38275f048ffbd573ae70f273d29b3be64ac893b6980",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112229101822169088/vid/avc1/584x1004/bq_j24HGFefPIwe2.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112229101822169088/img/7igKNASRliTFGZu_.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112229101822169088/img/7igKNASRliTFGZu_.jpg",
+      "tweetText": "나 오늘 천사 코스프레 인대 가슴이 너무 무거워서 하늘 못올라가는중이야 🤍",
+      "translations": {
+        "ko": "나 오늘 천사 코스프레 인대 가슴이 너무 무거워서 하늘 못올라가는중이야 🤍",
+        "en": "I'm cosplaying as an angel today, but my chest is so heavy I can't fly up to heaven 🤍",
+        "ja": "私今日天使のコスプレなんだけど、胸が重すぎて天国に上がれないところ 🤍",
+        "zh": "我今天在cos天使，但是胸部太重了，飞不上天堂 🤍",
+        "es": "Hoy estoy haciendo cosplay de ángel, pero mi pecho está tan pesado que no puedo subir al cielo 🤍",
+        "fr": "Je fais du cosplay d'ange aujourd'hui, mais ma poitrine est si lourde que je ne peux pas monter au ciel 🤍",
+        "de": "Ich cosplaye heute einen Engel, aber meine Brust ist so schwer, dass ich nicht in den Himmel fliegen kann 🤍",
+        "pt": "Hoje estou fazendo cosplay de anjo, mas meu peito está tão pesado que não consigo subir para o céu 🤍",
+        "ru": "Я сегодня в косплее ангела, но у меня такая тяжелая грудь, что я не могу взлететь на небеса 🤍",
+        "ar": "أنا أتقمص شخصية ملاك اليوم، لكن صدري ثقيل جدا لدرجة أنني لا نستطيع الصعود إلى السماء 🤍",
+        "id": "Hari ini aku cosplay jadi malaikat, tapi dadaku sangat berat jadi aku tidak bisa naik ke surga 🤍",
+        "th": "วันนี้ฉันคอส플레이เป็นนางฟ้าแหละ แต่หน้าอกหนักมากจนบินขึ้นสวรรค์ไม่ได้เลย 🤍",
+        "vi": "Hôm nay mìnhcosplay thiên thần nhưng ngực nặng quá không bay lên trời được 🤍",
+        "hi": "मैं आज परी की cosplay कर रही हूँ, लेकिन मेरी छाती इतनी भारी है कि मैं स्वर्ग नहीं उड़ पा रही हूँ 🤍",
+        "it": "Oggi faccio il cosplay di un angelo, ma ho il petto così pesante che non riesco a salire in cielo 🤍",
+        "tr": "Bugün melek cosplay'i yapıyorum ama göğsüm o kadar ağır ki gökyüzüne uçamıyorum 🤍",
+        "pl": "Robię dzisiaj cosplay anioła, ale moja klatka piersiowa jest tak ciężka, że nie mogę wzbić się do nieba 🤍",
+        "nl": "Ik doe vandaag aan engelcosplay, maar mijn borst is zo zwaar dat ik niet naar de hemel kan vliegen 🤍",
+        "uk": "Я сьогодні в косплеї ангела, але в мене такі важкі груди, що я не можу злетіти на небеса 🤍",
+        "ms": "Hari ni saya cosplay jadi malaikat, tapi dada saya terlalu berat jadi saya tak boleh naik ke langit 🤍"
+      },
+      "mediaCheckedAt": 1792642896540
     },
     {
       "id": "2112341385194156371",
