@@ -15086,7 +15086,18 @@
       "note": "",
       "createdAt": 1792485241327,
       "score": 0,
-      "delHash": "215c639bb8484e657dffd392b6b8b043656c652b2f8b9f673385ba8dd800cd18"
+      "delHash": "215c639bb8484e657dffd392b6b8b043656c652b2f8b9f673385ba8dd800cd18",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112341701536968705/vid/avc1/1168x660/Xry9jqLhl3grvhEj.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112341701536968705/img/yR_fFysxKW5Xo_9d.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112341701536968705/img/yR_fFysxKW5Xo_9d.jpg",
+      "tweetText": "잘생긴 오빠들 나랑 제대로 일탈하고 기분좋게 몸 대줄사람? 😈",
+      "translateFail": "bad_json",
+      "translateFailAt": 1792642183810
     },
     {
       "id": "2112220298993177009",
