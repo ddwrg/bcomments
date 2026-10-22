@@ -15046,7 +15046,39 @@
       "note": "",
       "createdAt": 1792485244448,
       "score": 0,
-      "delHash": "dde7bf0b31aac4b376a10173490b4e86f99151581b4a41e600a08776c54445d1"
+      "delHash": "dde7bf0b31aac4b376a10173490b4e86f99151581b4a41e600a08776c54445d1",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112338275352588288/vid/avc1/720x720/junetDKAFyhOWkJV.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112338275352588288/img/B1s_h3OiMLCZf7eZ.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112338275352588288/img/B1s_h3OiMLCZf7eZ.jpg",
+      "tweetText": "내 우산 밑으로 슬쩍 들어와서 같이 놀아줄 오빠 구함",
+      "translations": {
+        "ko": "내 우산 밑으로 슬쩍 들어와서 같이 놀아줄 오빠 구함",
+        "en": "Looking for a guy to secretly slip under my umbrella and hang out with me",
+        "ja": "私の傘の中にこっそり入ってきて一緒に遊んでくれるお兄さん募集",
+        "zh": "寻找一个悄悄钻进我的伞下一起玩耍的小哥哥",
+        "es": "Busco a un chico que se cuele bajo mi paraguas para pasar el rato juntos",
+        "fr": "Je cherche un mec pour se glisser discrètement sous mon parapluie et passer du temps ensemble",
+        "de": "Suche einen Typen, der sich heimlich unter meinen Regenschirm schleicht und Zeit mit mir verbringt",
+        "pt": "Procurando um cara para entrar de fininho debaixo do meu guarda-chuva e curtir comigo",
+        "ru": "Ищу парня, который тайком заберется под мой зонтик и погуляет со мной",
+        "ar": "أبحث عن شاب يتسلل تحت مظلتي لنقضي وقتاً ممتعاً معاً",
+        "id": "Mencari cowok yang mau diem-diem ngumpet di bawah payungku buat main bareng",
+        "th": "หาหนุ่มๆ ที่จะแอบเข้ามาใต้ร่มของฉันแล้วมาเที่ยวเล่นด้วยกันหน่อย",
+        "vi": "Tìm một anh trai lẻn vào dưới ô của mình để đi chơi cùng nhau",
+        "hi": "एक ऐसे लड़के की तलाश है जो चुपके से मेरी छाती (छत्र) के नीचे आए और मेरे साथ घूमे",
+        "it": "Cerco un ragazzo che si infili di nascosto sotto il mio ombrello per uscire insieme",
+        "tr": "Şemsiyrimin altına gizlice girip benimle takılacak birini arıyorum",
+        "pl": "Szukam chłopaka, który ukradkiem wejdzie pod mój parasol i pobawi się ze mną",
+        "nl": "Op zoek naar een gast die stiekem onder mijn paraplu kruipt om samen wat leuks te doen",
+        "uk": "Шукаю хлопця, який тихенько залізе під мій парасольку і погуляє зі мною",
+        "ms": "Mencari abang yang boleh menyelinap masuk di bawah payung saya dan teman saya bermain"
+      },
+      "mediaCheckedAt": 1792642174619
     },
     {
       "id": "2112341840867541067",
