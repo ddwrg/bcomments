@@ -12691,8 +12691,28 @@
       "score": 0,
       "delHash": "127cdcd9a3a338d6abf9328856d31b06c6aa011e5bd6081c0b912fbea5c98b71",
       "tweetText": "운동복 입었는데 핏 좀 야한거같아서 거울보다가 슬쩍 찍어봄ㅋ",
-      "translateFail": "bad_json",
-      "translateFailAt": 1792638624210
+      "translations": {
+        "ko": "운동복 입었는데 핏 좀 야한거같아서 거울보다가 슬쩍 찍어봄ㅋ",
+        "en": "Wearing workout clothes and the fit looks a bit suggestive, so I caught a quick mirror selfie lol",
+        "ja": "運動着を着たらフィット感がちょっとエロい気がして、鏡を見ながらこっそり撮ってみたｗ",
+        "zh": "穿着运动服感觉版型有点性感，照镜子时偷偷拍了一张哈哈",
+        "es": "Llegan ropa de entrenamiento y el ajuste se ve un poco sugerente, así que me tomé una selfie rápida frente al espejo jaja",
+        "fr": "Je porte des vêtements de sport et la coupe a l'air un peu suggestive, du coup j'ai pris un petit selfie dans le miroir haha",
+        "de": "Ich trage Sportkleidung und der Schnitt sieht ein bisschen freizügig aus, also habe ich schnell ein Spiegel-Selfie gemacht lol",
+        "pt": "Vestindo roupa de ginástica e o caimento parece um pouco ousado, então tirei uma selfie rápida no espelho kkk",
+        "ru": "Надела спортивную одежду, а сидит как-то провокационно, так что я быстренько сфоткалась перед зеркалом лол",
+        "ar": "كنت أرتدي ملابس التمرين وبدت المقاسات مثيرة بعض الشيء، لذلك التقطت صورة سريعة أمام المرآة ههههه",
+        "id": "Lagi pakai baju olahraga dan pasnya agak seksi gitu, jadi pas ngaca diam-diam foto deh wkwk",
+        "th": "ใส่ชุดออกกำลังกายแล้วทรงมันดูเซ็กซี่นิดหน่อย ตอนส่องกระจกเลยแอบถ่ายรูปไว้นิดนึง 555",
+        "vi": "Mặc đồ tập mà thấy dáng hơi gợi cảm nên lúc soi gương tranh thủ chụp lén kiểu kkk",
+        "hi": "वर्कआउट के कपड़े पहने हैं और फिट थोड़ा बोल्ड लग रहा है, इसलिए आईने में देखते हुए चुपके से एक तस्वीर ले ली हाहा",
+        "it": "Indosso vestiti da allenamento e la vestibilità sembra un po' provocante, quindi ho fatto un selfie allo specchio di sottecchi lol",
+        "tr": "Antrenman kıyafeti giydim ve duruşu biraz iddialı/açık geldi, aynaya bakarken öylece bi çekiverdim kiki",
+        "pl": "Mam na sobie ciuchy treningowe i krój wygląda trochę wyzywająco, więc ukradkiem strzeliłam fotkę w lustrze haha",
+        "nl": "Ik heb sportkleren aan en de pasvorm ziet er een beetje uitdagend uit, dus ik heb even snel een spiegelfoto gemaakt lol",
+        "uk": "Одягла спортивний одяг, а сидить якось пікантно, тож я тихенько сфоткалась перед дзеркалом лол",
+        "ms": "Pakai baju senaman rasa macam muatannya agak seksi sikit, jadi masa tengok cermin tadi terus ambil gambar curi-curi haha"
+      }
     },
     {
       "id": "2112203372094980563",
