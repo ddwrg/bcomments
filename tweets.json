@@ -23257,8 +23257,30 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112244092428275712/img/WWERKJIptfQOncyS.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642613341,
-      "pruneCheckedAt": 1792643780628
+      "mediaCheckedAt": 1792646298752,
+      "pruneCheckedAt": 1792643780628,
+      "tweetText": "제대로 즐기고 칭찬 듬뿍 받을사람?",
+      "translations": {
+        "ko": "제대로 즐기고 칭찬 듬뿍 받을사람?",
+        "en": "Who wants to enjoy it to the fullest and get tons of compliments?",
+        "ja": "思いっきり楽しんで、褒め言葉をたくさんもらう人？",
+        "zh": "谁想好好享受并获得满满的赞美？",
+        "es": "¿Quién quiere disfrutarlo al máximo y recibir un montón de cumplidos?",
+        "fr": "Qui veut en profiter àfond et recevoir plein de compliments ?",
+        "de": "Wer möchte es in vollen Zügen genießen und jede Menge Lob abstauben?",
+        "pt": "Quem quer curtir ao máximo e ganhar muitos elogios?",
+        "ru": "Кто хочет насладиться по полной и получить кучу комплиментов?",
+        "ar": "من يريد الاستمتاع بها على أكمل وجه والحصول على الكثير من الثناء؟",
+        "id": "Siapa nih yang mau menikmati sepuasnya dan dapat banyak pujian?",
+        "th": "ใครอยากสนุกให้เต็มที่และรับคำชมแบบจุกๆ บ้าง?",
+        "vi": "Ai muốn tận hưởng trọn vẹn và nhận thật nhiều lời khen nào?",
+        "it": "Chi vuole godersela fino in fondo e ricevere marea di complimenti?",
+        "tr": "Doyasıya eğlenip bolca övgü almak isteyen kim?",
+        "pl": "Kto chce się tym dobrze bawić i zgarnąć mnóstwo komplementów?",
+        "nl": "Wie wil er volop van genieten and een bak lof krijgen?",
+        "uk": "Хто хоче насолодитися по повній і отримати купу компліментів?",
+        "ms": "Siapa nak nikmati sepuas-puasnya dan dapat banyak pujian?"
+      }
     },
     {
       "id": "2112244513003692067",
