@@ -20482,7 +20482,8 @@
       "tweetText": "오빠들 내 모습보고 쿠퍼액 질질 흘리면 어뜩해 ㅋㅋㅋ\n나 만지러 오면 내품에 꽉 안아줄께요 💋",
       "translateFail": "bad_json",
       "translateFailAt": 1792642888761,
-      "mediaCheckedAt": 1792642570434
+      "mediaCheckedAt": 1792642570434,
+      "pruneCheckedAt": 1792643763107
     },
     {
       "id": "2112229311520579749",
@@ -20522,7 +20523,8 @@
         "uk": "Я сьогодні в косплеї ангела, але в мене такі важкі груди, що я не можу злетіти на небеса 🤍",
         "ms": "Hari ni saya cosplay jadi malaikat, tapi dada saya terlalu berat jadi saya tak boleh naik ke langit 🤍"
       },
-      "mediaCheckedAt": 1792642571052
+      "mediaCheckedAt": 1792642571052,
+      "pruneCheckedAt": 1792643763299
     },
     {
       "id": "2112341385194156371",
@@ -20562,7 +20564,8 @@
         "uk": "Хлопці, здається, мої груди яскравіші та сліпучіші, ніж стрази на бретельках бюстгальтера, що скажете ха-ха",
         "ms": "Abang-abang, saya rasa dada saya lebih menyilaukan dan berkilau berbanding batu permata pada tali bra, macam mana wkwk"
       },
-      "mediaCheckedAt": 1792642571690
+      "mediaCheckedAt": 1792642571690,
+      "pruneCheckedAt": 1792643763510
     },
     {
       "id": "2112229712143822937",
@@ -20601,7 +20604,8 @@
         "uk": "Можу я непомітно помацати, чи залишилися сліди від того, як я дрючив? 🫣",
         "ms": "Boleh tak aku sentuh sikit nak tengok kalau ada lagi kesan aku 'mancut'? 🫣"
       },
-      "mediaCheckedAt": 1792642572310
+      "mediaCheckedAt": 1792642572310,
+      "pruneCheckedAt": 1792643763669
     },
     {
       "id": "2112339684479344966",
@@ -20639,7 +20643,8 @@
         "uk": "Одягла біле мереживо! Якщо піду так на зустріч, Оппа втратить розум, правда? 🤍\nНадіслати більше селфі тільки тому Оппі, хто першим напише в директ? 🙈",
         "ms": "Pakai renda putih yang sedondon! Kalau pergi jumpa offline pakai macam ni, Oppa mesti terpukau kan? 🤍\nPatut ke hantar lebih banyak selfie hanya kepada Oppa yang DM saya dulu? 🙈"
       },
-      "mediaCheckedAt": 1792642572931
+      "mediaCheckedAt": 1792642572931,
+      "pruneCheckedAt": 1792643763873
     },
     {
       "id": "2112104780550353113",
@@ -20678,7 +20683,8 @@
         "uk": "Коли я в одному чорному мереживному бюстгальтері, руки так і норовлять опуститися вниз",
         "ms": "Memakai bra renda hitam sahaja, tangan ini asyik turun ke bawah je"
       },
-      "mediaCheckedAt": 1792642573560
+      "mediaCheckedAt": 1792642573560,
+      "pruneCheckedAt": 1792643764028
     },
     {
       "id": "2112230426559578202",
@@ -20718,7 +20724,8 @@
         "uk": "Я закопалася в квітник, здається, замість бджіл до мене липнуть тільки хлопці, що ж робити?",
         "ms": "Terbenam dalam kebun bunga, rasa macam bukan lebah tapi abang-abang handsome pulak yang menyibuk, macam mana ni"
       },
-      "mediaCheckedAt": 1792642574167
+      "mediaCheckedAt": 1792642574167,
+      "pruneCheckedAt": 1792643764147
     },
     {
       "id": "2112105155504267491",
@@ -20758,7 +20765,8 @@
         "uk": "Скільки хвилин ти протримаєшся, якщо я буду трахатися прямо поруч із тобою і дивитися?",
         "ms": "Berapa minit awak boleh tahan kalau saya main dekat sebelah awak sambil tengok?"
       },
-      "mediaCheckedAt": 1792642574768
+      "mediaCheckedAt": 1792642574768,
+      "pruneCheckedAt": 1792643764304
     },
     {
       "id": "2112347869835653461",
@@ -20797,17 +20805,8 @@
         "uk": "Коли я трішки підіймаю спідницю і показую, ти не знаєш, куди й подивитися, еге ж? ㅋㅋㅋ\nХто хоче стати моїм рабом, міцно прив'язаним моєю мотузкою, і дивитися лише на мене до кінця життя?",
         "ms": "Tunjuk sikit skirt terangkat je dah tak tahu nak pandang mana kan? ㅋㅋㅋ\nSiapa nak jadi hamba aku, terikat ketat dengan tali aku dan seumur hidup pandang aku sorang je?"
       },
-      "mediaCheckedAt": 1792642575452
-    },
-    {
-      "id": "2112340360177582574",
-      "url": "https://twitter.com/justforup/status/2112340360177582574",
-      "note": "",
-      "createdAt": 1792485143075,
-      "score": 0,
-      "delHash": "249cf19037c4341ef91326486c082cc45b7a441d94a77292f9ac3ecccd3e35e7",
-      "translateFail": "no_text",
-      "translateFailAt": 1792643019500
+      "mediaCheckedAt": 1792642575452,
+      "pruneCheckedAt": 1792643764421
     },
     {
       "id": "2112232302285885903",
@@ -20847,7 +20846,8 @@
         "uk": "Ставте лайк лише якщо ваш хуй від 17 см і більше 🤞",
         "ms": "Like hanya jika zakar anda 17cm atau lebih 🤞"
       },
-      "mediaCheckedAt": 1792642577397
+      "mediaCheckedAt": 1792642577397,
+      "pruneCheckedAt": 1792643765386
     },
     {
       "id": "2112231987515990425",
@@ -20886,7 +20886,8 @@
         "uk": "Чи немає десь доброго хлопця, який міг би задовольнити смаки збоченої дівчини, якій подобається таке?",
         "ms": "Tiada abang baik ke kat luar sana yang boleh melayan citarasa gadis gatal yang suka benda macam ni?"
       },
-      "mediaCheckedAt": 1792642577994
+      "mediaCheckedAt": 1792642577994,
+      "pruneCheckedAt": 1792643765597
     },
     {
       "id": "2112232304047509839",
@@ -20926,7 +20927,8 @@
         "uk": "Я вибрала правильний ракурс і навіть стала на коліна, щоб ви подивилися, чесно, хіба це не гаряче?\nХто напише гарний відгук на мої цицьки? Якщо відгук буде хорошим, покажу і дещо інше теж🖤",
         "ms": "Aku dah adjust sudut dan siap melutut lagi untuk korang tengok, jujur cakap takkan tak tergoda sikit?\nSape nak tulis review ikhlas untuk tetek aku? Kalau review bagus, aku tunjuk benda lain jugak🖤"
       },
-      "mediaCheckedAt": 1792642578607
+      "mediaCheckedAt": 1792642578607,
+      "pruneCheckedAt": 1792643765725
     },
     {
       "id": "2112105538083516722",
@@ -20965,7 +20967,8 @@
         "uk": "Якщо я опущу блискавку ще нижче, здається, вона лусне. Хлопці, покажіть свої встановлені намети",
         "ms": "Kalau zip diturunkan lagi macam nak meletup je, abang-abang, tunjukkanlah khemah yang dah dipasang tu"
       },
-      "mediaCheckedAt": 1792642579242
+      "mediaCheckedAt": 1792642579242,
+      "pruneCheckedAt": 1792643765875
     },
     {
       "id": "2112351449732759601",
@@ -21004,7 +21007,8 @@
         "uk": "Я дам тобі своє відео з кінчанням, чи зможеш ти тримати його стійким і трохи помацати себе там?",
         "ms": "Saya akan beri video pancutan saya, bolehkah anda pastikan ia tegang dan sentuh di situ sedikit juga?"
       },
-      "mediaCheckedAt": 1792642579860
+      "mediaCheckedAt": 1792642579860,
+      "pruneCheckedAt": 1792643765991
     },
     {
       "id": "2112231532731773082",
@@ -21044,7 +21048,8 @@
         "uk": "Так чортовськи заводить, коли хлопці в ліжку непомітно знімають кардигани і граються самі",
         "ms": "Memang hot gila bila abang-abang ni senyap-senyap tanggalkan kardigan atas katil sambil main sorang-sorang"
       },
-      "mediaCheckedAt": 1792642580463
+      "mediaCheckedAt": 1792642580463,
+      "pruneCheckedAt": 1792643766106
     },
     {
       "id": "2112348321306272216",
@@ -21083,7 +21088,8 @@
         "uk": "Більше ретвітів — більше красивих селфі. 😉",
         "ms": "Lebih banyak RT bermaksud lebih banyak selfie yang cantik. 😉"
       },
-      "mediaCheckedAt": 1792642581079
+      "mediaCheckedAt": 1792642581079,
+      "pruneCheckedAt": 1792643766219
     },
     {
       "id": "2112233916467982750",
@@ -21123,7 +21129,8 @@
         "uk": "Тільки хлопці з членом понад 16 см підписуйтесь і ставте лайк 🚵‍♂️",
         "ms": "Hanya lelaki dengan kote lebih 16 cm follow dan like 🚵‍♂️"
       },
-      "mediaCheckedAt": 1792642581695
+      "mediaCheckedAt": 1792642581695,
+      "pruneCheckedAt": 1792643766337
     },
     {
       "id": "2112233818480652555",
@@ -21163,7 +21170,8 @@
         "uk": "Сьогодні йду без білизни, пізніше доведу. Хто хоче подивитися, підписуйтесь і залишайте коментар 🛳️",
         "ms": "Hari ni keluar tak pakai seluar dalam dan nanti aku buktikan. Siapa nak tengok, follow dan tinggalkan komen 🛳️"
       },
-      "mediaCheckedAt": 1792642582297
+      "mediaCheckedAt": 1792642582297,
+      "pruneCheckedAt": 1792643766758
     },
     {
       "id": "2112234010411933845",
@@ -21202,7 +21210,8 @@
         "uk": "Привіт, тут вузько, хочеш перевірити рукою? 🚍",
         "ms": "Kakak sempit ni, nak semak guna tangan ke? 🚍"
       },
-      "mediaCheckedAt": 1792642582910
+      "mediaCheckedAt": 1792642582910,
+      "pruneCheckedAt": 1792643766869
     },
     {
       "id": "2112233479950008409",
@@ -21242,7 +21251,8 @@
         "uk": "Я чекаю вдома ось так, оппа, можеш поссмоктати моє миле желе?🐱",
         "ms": "Saya tunggu di rumah macam ni, boleh ke oppa sedut jeli comel saya?🐱"
       },
-      "mediaCheckedAt": 1792642583542
+      "mediaCheckedAt": 1792642583542,
+      "pruneCheckedAt": 1792643766978
     },
     {
       "id": "2112234385298874484",
@@ -21282,7 +21292,8 @@
         "uk": "Люди, якщо я продаватиму своє тіло, купите? 🧜‍♂️",
         "ms": "Kawan-kawan, kalau aku jual badan, korang beli ke? 🧜‍♂️"
       },
-      "mediaCheckedAt": 1792642584149
+      "mediaCheckedAt": 1792642584149,
+      "pruneCheckedAt": 1792643767101
     },
     {
       "id": "2111988025614086321",
@@ -21321,7 +21332,8 @@
         "uk": "Шукаю хлопця, щоб розважитися та переспати.",
         "ms": "Mencari abang untuk berhibur dan bersama."
       },
-      "mediaCheckedAt": 1792642584852
+      "mediaCheckedAt": 1792642584852,
+      "pruneCheckedAt": 1792643767212
     },
     {
       "id": "2112349435397320874",
@@ -21360,7 +21372,8 @@
         "uk": "Сьогоднішній стиль такий відвертий, і те, що хлопці кажуть, ніби це нагадує їм про кончання всередину, — це просто абсурд 🖤",
         "ms": "Gaya hari ini sangat seksi, dan abang-abang yang cakap ia membuatkan mereka teringat untuk pancut di dalam memang betul-betul tidak masuk akal 🖤"
       },
-      "mediaCheckedAt": 1792642585471
+      "mediaCheckedAt": 1792642585471,
+      "pruneCheckedAt": 1792643767326
     },
     {
       "id": "2112234426000441641",
@@ -21400,7 +21413,8 @@
         "uk": "Оппа, моя спідниця така коротка, що все видно. Шукаю оппу з неймовірною технікою кунілінгуса 🫣\nМожеш зробити мені приємно, дати добре відпочити і забрати моє секретне відео?",
         "ms": "Oppa, skirt saya terlampau pendek sampai nampak semua. Sedang mencari oppa dengan kemahiran cunni yang power gila 🫣\nBoleh buat saya rasa sedap, rehat secukupnya, lepas tu ambil video rahsia saya?"
       },
-      "mediaCheckedAt": 1792642586095
+      "mediaCheckedAt": 1792642586095,
+      "pruneCheckedAt": 1792643767450
     },
     {
       "id": "2112346709984755778",
