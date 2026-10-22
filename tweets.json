@@ -13298,7 +13298,38 @@
       "note": "",
       "createdAt": 1792485343704,
       "score": 0,
-      "delHash": "5cab5c394bc78db69dcf368947ce9d57b5b44ddd3fd753c49f9c00bf0320cc31"
+      "delHash": "5cab5c394bc78db69dcf368947ce9d57b5b44ddd3fd753c49f9c00bf0320cc31",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112207091154976768/vid/avc1/720x960/080DXn1JWZ4M7hPI.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112207091154976768/img/93UZSFtZzA2daUQZ.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112207091154976768/img/93UZSFtZzA2daUQZ.jpg",
+      "tweetText": "나랑 같이 몰래 야노 도전해볼 사람?",
+      "translations": {
+        "ko": "나랑 같이 몰래 야노 도전해볼 사람?",
+        "en": "Anyone want to secretly try yano with me?",
+        "ja": "私と一緒にこっそり野外露出挑戦してみる人？",
+        "zh": "有人想和我一起偷偷挑战野外露出吗？",
+        "es": "¿Alguien quiere intentar yano en secreto conmigo?",
+        "fr": "Quelqu'un veut essayer le yano en cachette avec moi ?",
+        "de": "Will das jemand heimlich mit mir ausprobieren?",
+        "pt": "Alguém quer tentar yano comigo escondido?",
+        "ar": "هل يريد أحد تجربتي يانو سرا معي؟",
+        "id": "Ada yang mau coba yano diam-diam sama aku?",
+        "th": "ใครอยากลองแอบทำ yano กับฉันบ้าง?",
+        "vi": "Có ai muốn thử yano lén lút với tôi không?",
+        "hi": "क्या कोई मेरे साथ चुपचाप यानो आज़माना चाहता है?",
+        "it": "Qualcuno vuole provare yano di nascosto con me?",
+        "tr": "Benimle gizlice yano denemek isteyen var mı?",
+        "pl": "Kto chce spróbować yano potajemnie ze mną?",
+        "nl": "Wil iemand stiekem yano met mij proberen?",
+        "uk": "Хто хоче зі мною потай спробувати яно?",
+        "ms": "Sesiapa nak cuba yano diam-diam dengan saya?"
+      },
+      "mediaCheckedAt": 1792641457448
     },
     {
       "id": "2112207915008610457",
