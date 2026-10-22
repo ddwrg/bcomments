@@ -12114,8 +12114,28 @@
       "score": 0,
       "delHash": "f62f543d12b81dec9a02f22c4bc57bd5366339077a6773d109f2ab37b67291ae",
       "tweetText": "환자오빠들 주사 맞기는 무서우니까 내가 독설 진료부터 먼저 시작해줄깨ㅋㅋ",
-      "translateFail": "bad_json",
-      "translateFailAt": 1792635703377
+      "translations": {
+        "ko": "환자오빠들 주사 맞기는 무서우니까 내가 독설 진료부터 먼저 시작해줄깨ㅋㅋ",
+        "en": "Hey patient oppas, since you're scared of getting injections, I'll start with some harsh diagnosis first lol",
+        "ja": "患者のオッパたち、注射打つのは怖いだろうから、私が毒舌診察から先にしてあげるねw",
+        "zh": "患者哥哥们，因为打针太可怕了，所以我先从毒舌诊疗开始哦哈哈",
+        "es": "Chicos pacientes, como les da miedo ponerse inyecciones, empezaré con un diagnóstico cínico primero jajaja",
+        "fr": "Hé les patients oppas, comme vous avez peur des piqûres, je vais d'abord commencer par un diagnostic piquant mdr",
+        "de": "Hey Patienten-Oppas, da ihr Angst vor Spritzen habt, fange ich erst mal mit einer bissigen Diagnose an haha",
+        "pt": "Ei pacientes oppas, já que vocês têm medo de tomar injeção, vou começar com um diagnóstico afiado primeiro kkk",
+        "ru": "Эй, пациенты-оппа, раз вы боитесь уколов, я сначала начну с едкого диагноза ха-ха",
+        "ar": "أيها المرضى الأوبّاس، بما أنكم خائفون من الحقن، سأبدأ بتشخيص قاسي أولاً حِهِ",
+        "id": "Hei pasien oppa, karena kalian takut disuntik, aku mulai dengan diagnosis pedas dulu ya wkwk",
+        "th": "เหล่าคนไข้โอปป้าทั้งหลาย เพราะกลัวการฉีดยา เดี๋ยวฉันจะเริ่มจากการวินิจฉัยแบบปากร้ายใส่ก่อนนะ 555",
+        "vi": "Các anh bệnh nhân ơi, vì sợ tiêm nên em sẽ bắt đầu bằng màn chẩn đoán sắc mỏ trước nhé haha",
+        "hi": "मरीज़ ओप्पाओं, चूंकि आपको इंजेक्शन लगवाने से डर लगता है, इसलिए मैं पहले कुछ कड़वी डियाग्नॉसिस से शुरुआत करूंगी हाहा",
+        "it": "Ehi pazienti oppas, dato che avete paura delle punture, comincerò prima con una diagnosi tagliente ahah",
+        "tr": "Hey hasta oppalar, iğne olmaktan korktuğunuz için önce zehir zemberek bir muayeneyle başlayacağım haha",
+        "pl": "Hej pacjenci oppa, skoro boicie się zastrzyków, najpierw zacznę od ostrej diagnozy haha",
+        "nl": "Hé patiënt-oppa's, aangezien jullie bang zijn voor injecties, zal ik eerst beginnen met een bijtende diagnose haha",
+        "uk": "Гей, пацієнти-оппа, оскільки ви боїтеся ульотів, я спочатку почну з їдкого діагнозу ха-ха",
+        "ms": "Hai pesakit oppa, memandangkan anda takut disuntik, saya mulakan dengan diagnosis pedas dulu ya haha"
+      }
     },
     {
       "id": "2112199047889264909",
