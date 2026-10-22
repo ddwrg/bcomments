@@ -16271,7 +16271,39 @@
       "note": "",
       "createdAt": 1792485171437,
       "score": 0,
-      "delHash": "c8808927633b563a674ad448c622ccb9294e335dd6797473476838bf80ea161d"
+      "delHash": "c8808927633b563a674ad448c622ccb9294e335dd6797473476838bf80ea161d",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112346079425650688/vid/avc1/720x720/yjxMaxnJPPkn7CQ5.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112346079425650688/img/_sfwNgEfQO8vA7x3.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112346079425650688/img/_sfwNgEfQO8vA7x3.jpg",
+      "tweetText": "머리는 얌전하게 땋앗는데 옷핏은 왜 안얌전하대 🖤",
+      "translations": {
+        "ko": "머리는 얌전하게 땋앗는데 옷핏은 왜 안얌전하대 🖤",
+        "en": "My hair is braided so neatly, but why is my outfit fit not so innocent at all 🖤",
+        "ja": "髪は大人しく三つ編みにしたのに、服のフィット感はどうして大人しくないんだろ 🖤",
+        "zh": "头发明明乖巧地编好了，为什么穿搭一点也不乖呢 🖤",
+        "es": "Tengo el pelo trenzado muy formal, pero ¿por qué el ajuste de la ropa no lo es para nada? 🖤",
+        "fr": "Mes cheveux sont sagement tressés, mais pourquoi la coupe de ma tenue ne l'est pas du tout 🖤",
+        "de": "Meine Haare sind brav geflochten, aber warum ist das Outfit überhaupt nicht brav 🖤",
+        "pt": "Meu cabelo está trançado tão certinho, mas por que o caimento da roupa não é nada inocente 🖤",
+        "ru": "Волосы заплетены так аккуратно, но почему наряд совсем не скромный 🖤",
+        "ar": "شري الشعر مضفوراً بشكل هادئ، فلماذا يبدو المظهر غير هادئ أبداً 🖤",
+        "id": "Rambutnya kepang rapi begini, tapi pasang pakaiannya kok nggak kalem ya 🖤",
+        "th": "ผมถักเรียบร้อยดีนะ แต่ทำไมทรงชุดถึงไม่เรียบร้อยเอาซะเลย 🖤",
+        "vi": "Tóc thì tết ngoan ngoãn thế mà dáng đồ mặc lại chẳng ngoan chút nào 🖤",
+        "hi": "बाल तो बहुत सीधे-साधे तरीके से गूंथे हैं, लेकिन आउटफिट की फिटिंग इतनी बोल्ड क्यों है 🖤",
+        "it": "I capelli sono intrecciati così per bene, ma perché la vestibilità dell'outfit non è per niente tranquilla 🖤",
+        "tr": "Saçımı usulca ördüm ama kıyafetin duruşu neden hiç uslu değil 🖤",
+        "pl": "Włosy mam grzecznie zaplecione, ale czemu krój ubrań w ogóle nie jest grzeczny 🖤",
+        "nl": "Mijn haar is braaf gevlochten, maar waarom is de pasvorm van mijn outfit helemaal niet braaf 🖤",
+        "uk": "Волосся заплетене так акуратно, але чому образ зовсім не скромний 🖤",
+        "ms": "Rambut kepang elok molek, tapi gaya baju kenapa tak senonoh langsung ni 🖤"
+      },
+      "mediaCheckedAt": 1792642861684
     },
     {
       "id": "2112342658790408418",
