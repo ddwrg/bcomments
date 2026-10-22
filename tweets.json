@@ -11582,7 +11582,30 @@
       "note": "",
       "createdAt": 1792552870027,
       "score": 0,
-      "delHash": "fd4f9915da391b17f3dabfe8f72da757c5f08ad3c7ec7d89d328c71efa2f326d"
+      "delHash": "fd4f9915da391b17f3dabfe8f72da757c5f08ad3c7ec7d89d328c71efa2f326d",
+      "tweetText": "맘누르면디엠 🥄",
+      "translations": {
+        "ko": "맘누르면디엠 🥄",
+        "en": "Like for DM 🥄",
+        "ja": "いいねでDM 🥄",
+        "zh": "点赞私信 🥄",
+        "es": "Dale like para DM 🥄",
+        "fr": "Like pour DM 🥄",
+        "de": "Like für DM 🥄",
+        "pt": "Curte para DM 🥄",
+        "ru": "Лайк в Директ 🥄",
+        "ar": "اضغط إعجاب للرسائل الخاصة 🥄",
+        "id": "Like untuk DM 🥄",
+        "th": "กดใจ=DM 🥄",
+        "vi": "Thả tim để nhận DM 🥄",
+        "hi": "DM के लिए लाइक करें 🥄",
+        "it": "Metti like per DM 🥄",
+        "tr": "Beğen, DM atayım 🥄",
+        "pl": "Polub po DM 🥄",
+        "nl": "Like voor DM 🥄",
+        "uk": "Лайк у Дірект 🥄",
+        "ms": "Like untuk DM 🥄"
+      }
     },
     {
       "id": "2112740699313717274",
