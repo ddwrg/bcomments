@@ -15581,7 +15581,39 @@
       "note": "",
       "createdAt": 1792485213636,
       "score": 0,
-      "delHash": "fd99b9334b229c5ea4de682b1cd9eb28ec0eef40273f467630b82d448dfb5c61"
+      "delHash": "fd99b9334b229c5ea4de682b1cd9eb28ec0eef40273f467630b82d448dfb5c61",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112222455993700352/vid/avc1/1312x720/YcXkF66y9LEJBYV9.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112222455993700352/img/d4ccSQwFZixMl4fU.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112222455993700352/img/d4ccSQwFZixMl4fU.jpg",
+      "tweetText": "핑크 키티 옷입어서 얌전할줄 알았는대 배 살짝 까버렸징 ㅋㅋㅋ 💕\n키티 대신 내 배꼽 보고 ㅈㅇ 갈길 아저씨 어디 없나?",
+      "translations": {
+        "ko": "핑크 키티 옷입어서 얌전할줄 알았는대 배 살짝 까버렸징 ㅋㅋㅋ 💕\n키티 대신 내 배꼽 보고 ㅈㅇ 갈길 아저씨 어디 없나?",
+        "en": "Thought I'd be quiet wearing pink Kitty clothes, but I flashed my belly a little bit lol 💕\nIs there any uncle out there who wants to look at my belly button instead of Kitty and go ㅈㅇ?",
+        "ja": "ピンクのキティちゃんの服を着ているからおとなしいと思ったでしょ？お腹をちょっと見せちゃったんだ〜w 💕\nキティちゃんじゃなくて私のへそを見てしこりに行くおじさん、どこかにいないかな？",
+        "zh": "还以为穿了粉色凯蒂猫衣服会很乖呢，结果稍微露了点肚子 哈哈哈 💕\n有没有大叔不看凯蒂猫看我的肚脐去打飞机呢？",
+        "es": "Pensé que sería obediente por usar ropa de Kitty rosa, ¡pero mostré un poco mi pancita jajaja 💕\n¿Habrá por ahí algún tío que quiera mirar mi ombligo en lugar de Kitty y hacerse una paja?",
+        "fr": "Je pensais être sage en portant des vêtements Hello Kitty rose, mais j'ai un peu montré mon ventre mdr 💕\nY a-t-il un tonton par ici qui veut regarder mon nombril au lieu de Kitty et se branler ?",
+        "de": "Dachte, ich wäre brav in rosa Kitty-Sachen, aber habe ein bisschen meinen Bauch gezeigt lol 💕\nGibt es Irgendwo einen Onkel, der sich an meinem Bauchnabel statt an Kitty einen wixen will?",
+        "pt": "Pensei que seria boazinha por usar roupinha da Hello Kitty rosa, mas mostrei a barriguinha sem querer kkk 💕\nSerá que tem algum tiozinho por aí que queira olhar pro meu umbigo em vez da Kitty e bater uma?",
+        "ru": "Думала, буду скромной в розовой одежде Китти, а сама взяла и приоткрыла животик ха-ха 💕\nНет ли где-нибудь дяденьки, который вместо Китти посмотрит на мой пупок и покончит с собой? (сделает джо)",
+        "ar": "ظننت أنني سأكون هادئة بملابس كيتي الوردي، لكنني أظهرت بطني قليلاً حه حه 💕\nألا يوجد أي عم هنا يريد أن ينظر إلى سرتي بدل كيتي ويقوم بالعادة؟",
+        "id": "Kira bakal kalem pakai baju Kitty pink, eh malah sedikit pamer perut wkwk 💕\nAda enggak om-om yang mau lihat pusar aku bukannya Kitty terus coli?",
+        "th": "นึกว่าจะเรียบร้อยเพราะใส่ชุดคิตตี้สีชมพูซะอีก แต่ดันโชว์พุงนิดนึงซะแล้ว ㅋㅋㅋ 💕\nจะมีลุงคนไหนแถวนี้อยากดูสะดือฉันแทนคิตตี้แล้วไปชักว่าวไหมนะ?",
+        "vi": "Cứ tưởng mặc đồ Kitty hồng thì sẽ ngoan hiền, ai dè lại lướt nhẹ cái bụng ra mất tiêu haha 💕\nCó ông chú nào ở đây muốn nhìn rốn tôi thay vì Kitty rồi tự sướng không nhỉ?",
+        "hi": "सोचा था गुलाबी किटी के कपड़े पहनकर सीधी-साधी लगूँगी, पर पेट थोड़ा सा दिखा ही दिया हाहा 💕\nक्या कोई ऐसा अंकल है जो किटी की बजाय मेरी नाभि देखकर हिलाना चाहता है?",
+        "it": "Pensavo di fare la brava vestita da Kitty rosa, ma ho mostrato un po' la pancia ahahah 💕\nC'è qualche zio là fuori che vuole guardare il mio ombelico invece di Kitty e farsi una sega?",
+        "tr": "Pembe Kitty kıyafetleri giydiğim için uslu duracağımı sanmıştım ama karnımı biraz açtım kas kas 💕\nKitty yerine göbeğime bakıp 31 çekmek isteyecek bi amca yok mu?",
+        "pl": "Myślałam, że będę grzeczna w różowym ubranku Kitty, ale jednak trochę pokazałam brzuszek hihi 💕\nCzy jest tu jakiś wujek, który zamiast na Kitty popatrzy na mój papek i walnie konia?",
+        "nl": "Dacht dat ik braaf zou zijn in roze Kitty-kleren, maar liet stiekem toch een stukje buik zien haha 💕\nIs er ergens een oom die naar mijn navel wil kijken in plaats van Kitty en wil rukken?",
+        "uk": "Думала, буду чемненькою в рожевому одязі Кітті, а сама трішки засвітила животик ха-ха 💕\nЧи немає десь дядечка, який замість Кітті подивиться на мій пупок і поддрочить?",
+        "ms": "Sangka akan jadi pengkid pakai baju Kitty pink, eh terdedah pula perut sikit wkwk 💕\nAda ke pakcik kat luar sana nak tengok pusat aku daripada Kitty pastinya nak tolong tolak?"
+      },
+      "mediaCheckedAt": 1792642403242
     },
     {
       "id": "2112326428834546005",
