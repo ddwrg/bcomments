@@ -11685,7 +11685,30 @@
       "note": "",
       "createdAt": 1792552861403,
       "score": 0,
-      "delHash": "cdcaa7ec92601ea13d130569287c45e5422bd08e232b02a21e66b7fd675d01b9"
+      "delHash": "cdcaa7ec92601ea13d130569287c45e5422bd08e232b02a21e66b7fd675d01b9",
+      "tweetText": "아침부터 세워두면 넘 힘드니까 예쁘게 빨아 줄 수 있어?",
+      "translations": {
+        "ko": "아침부터 세워두면 넘 힘드니까 예쁘게 빨아 줄 수 있어?",
+        "en": "It's super exhausting if I have to set it up since morning, so can you wash it nicely for me?",
+        "ja": "朝から立てておくのはすごく大変だから、きれいに洗ってもらえる？",
+        "zh": "从早上就立起来会超累的，所以能帮我好好洗一下吗？",
+        "es": "Es súper agotador tenerlo levantado desde la mañana, ¿así que podrías lavarlo bien por mí?",
+        "fr": "C'est super épuisant de le laisser dressé depuis le matin, tu peux le laver gentiment pour moi ?",
+        "de": "Es ist super anstrengend, das seit dem Morgen aufzustellen, kannst du es also bitte schön für mich waschen?",
+        "pt": "É super cansativo deixar armado desde de manhã, então você pode lavar direitinho pra mim?",
+        "ru": "Устаешь держать его поднятым с самого утра, так что можешь постирать его как следует?",
+        "ar": "إنه أمر مرهق للغاية أن أقوم بتجهيزه منذ الصباح، فهل يمكنك غسله لي بشكل جيد؟",
+        "id": "Capek banget kalau harus disiapin dari pagi, jadi bisa tolong cuciin yang bersih ya?",
+        "th": "ตั้งไว้ตั้งแต่เช้ามันเหนื่อยมากเลย ช่วยซักให้สะอาดหน่อยได้ไหม?",
+        "vi": "Từ sáng mà cứ phải dựng lên thì mệt lắm, bạn giặt sạch giúp mình được không?",
+        "hi": "सुबह से इसे खड़ा करके रखना बहुत थका देने वाला है, तो क्या तुम इसे मेरे लिए अच्छे से धो सकते हो?",
+        "it": "È stancancissimo doverlo tenere su fin dalla mattina, quindi potresti lavarlo bene per favore?",
+        "tr": "Sabahtan beri dik tutmak çok yorucu, o yüzden benim için güzelce yıkar mısın?",
+        "pl": "To mega wyczerpujące stawiać to od rana, więc umyjesz/wyprzesz mi to ładnie?",
+        "nl": "Het is super vermoeiend om dat al vanaf 's ochtends klaar te zetten, kun je het even mooi voor me wassen?",
+        "uk": "Дуже втомлює тримати його встановленим з самого ранку, можеш гарненько його випрати?",
+        "ms": "Penat sangat kalau nak pasang dari pagi, boleh tolong basuh elok-elok tak?"
+      }
     },
     {
       "id": "2112644203692036321",
