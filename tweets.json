@@ -25634,8 +25634,31 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112280360503664641/img/Owvi41wsIlHrB_W6.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642651106,
-      "pruneCheckedAt": 1792643803425
+      "mediaCheckedAt": 1792647789758,
+      "pruneCheckedAt": 1792643803425,
+      "tweetText": "단속영상아직못받은사람?",
+      "translations": {
+        "ko": "단속영상아직못받은사람?",
+        "en": "Anyone who hasn't received the crackdown video yet?",
+        "ja": "取り締まりの映像をまだ受け取っていない人？",
+        "zh": "还没收到执法视频的人吗？",
+        "es": "¿Alguien que aún no haya recibido el video de la redada?",
+        "fr": "Quelqu'un n'a pas encore reçu la vidéo de la descente ?",
+        "de": "Hat noch jemand das Überwachungsvideo nicht erhalten?",
+        "pt": "Alguém que ainda não recebeu o vídeo da fiscalização?",
+        "ru": "Кто еще не получил видео рейдов?",
+        "ar": "هل هناك من لم يحصل على فيديو الحملة بعد؟",
+        "id": "Ada yang belum terima video razianya?",
+        "th": "ใครยังไม่ได้รับวิดีโอกวดขันบ้าง?",
+        "vi": "Ai chưa nhận được video quay phạt à?",
+        "hi": "किसको अभी तक कार्रवाई का वीडियो नहीं मिला है?",
+        "it": "C'è qualcuno che non ha ancora ricevuto il video dei controlli?",
+        "tr": "Denetim videosunu henüz almayan var mı?",
+        "pl": "Kto jeszcze nie dostał nagrania z kontroli?",
+        "nl": "Nog iemand die de handhavingsvideo niet heeft ontvangen?",
+        "uk": "Хто ще не отримав відео з рейдів?",
+        "ms": "Siapa yang belum terima video operasi tu?"
+      }
     },
     {
       "id": "2112282145763037193",
