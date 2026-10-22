@@ -336,7 +336,15 @@
         "nl": "Als je nog vettere extra foto's wilt zien, stuur me dan een DM. Ik stuur alle foto's sowieso via DM 💕",
         "uk": "Якщо хочете побачити ще крутіші додаткові кадри, пишіть в ДС. Усі фото скіну тільки в ДС 💕",
         "ms": "Jika anda ingin melihat foto tambahan yang lebih hebat, hantar DM kepada saya. Saya akan hantar semua gambar melalui DM sahaja 💕"
-      }
+      },
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112596364702158848/vid/avc1/720x1308/--i40MbA8H6Qm6de.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112596364702158848/img/7brVH6e7VwGDS_3B.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112596364702158848/img/7brVH6e7VwGDS_3B.jpg"
     },
     {
       "id": "2112630872981807260",
