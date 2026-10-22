@@ -16193,7 +16193,38 @@
       "note": "",
       "createdAt": 1792485176265,
       "score": 0,
-      "delHash": "89acc75da6aa28ec0de7e08e63e17d63f734a0d0b7b5a82483ea9048a9a7b998"
+      "delHash": "89acc75da6aa28ec0de7e08e63e17d63f734a0d0b7b5a82483ea9048a9a7b998",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112102243264876544/vid/avc1/720x526/VGFJM4j10wT5b3yJ.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112102243264876544/img/eTEthdR89TBHLfRB.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112102243264876544/img/eTEthdR89TBHLfRB.jpg",
+      "tweetText": "이거 벗겨주고 샤워 같이 할 사람?",
+      "translations": {
+        "ko": "이거 벗겨주고 샤워 같이 할 사람?",
+        "en": "Who wants to help me take this off and take a shower together?",
+        "ja": "これ脱がせて一緒にお風呂に入ってくれる人？",
+        "zh": "谁想帮我脱掉这个然后一起洗澡？",
+        "es": "¿Quién quiere ayudarme a quitarme esto y tomar una ducha juntos?",
+        "fr": "Qui veut m'aider à l'enlever et prendre une douche ensemble ?",
+        "de": "Wer will mir das ausziehen und zusammen duschen?",
+        "pt": "Quem quer me ajudar a tirar isso e tomar banho junto?",
+        "ru": "Кто хочет помочь мне снять это и принять душ вместе?",
+        "ar": "من يريد مساعدتي في خلع هذا والاستحمام معاً؟",
+        "id": "Siapa yang mau bantuin lepasin ini dan mandi bareng?",
+        "th": "ใครอยากช่วยถอดชุดนี้แล้วอาบน้ำด้วยกันบ้าง?",
+        "hi": "कौन इसे उतारने में मेरी मदद करना चाहता है और साथ में नहाना चाहता है?",
+        "it": "Chi vuole aiutarmi a toglierlo e fare la doccia insieme?",
+        "tr": "Bunu çıkarmama yardım edip birlikte duş almak isteyen var mı?",
+        "pl": "Kto chce mi pomóc to zdjąć i wziąć razem prysznic?",
+        "nl": "Wie wil me helpen dit uit te trekken en samen te douchen?",
+        "uk": "Хто хоче допомогти мені зняти це і прийняти душ разом?",
+        "ms": "Siapa nak bantu aku tanggalkan ni dan mandi bersama?"
+      },
+      "mediaCheckedAt": 1792642792886
     },
     {
       "id": "2112228301456724098",
