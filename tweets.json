@@ -11613,7 +11613,9 @@
       "note": "",
       "createdAt": 1792552867990,
       "score": 0,
-      "delHash": "6bb1ed9f220d16b9012c1ea99eda46966be438b2216b90db2c4e2690789b2c27"
+      "delHash": "6bb1ed9f220d16b9012c1ea99eda46966be438b2216b90db2c4e2690789b2c27",
+      "translateFail": "no_text",
+      "translateFailAt": 1792630283864
     },
     {
       "id": "2112692409461297504",
