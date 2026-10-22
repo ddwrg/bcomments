@@ -16775,7 +16775,38 @@
       "note": "",
       "createdAt": 1792485138130,
       "score": 0,
-      "delHash": "f826c03fba239daa6acda5ba21c252963e4cee93542d49c0b36f46c5c486877c"
+      "delHash": "f826c03fba239daa6acda5ba21c252963e4cee93542d49c0b36f46c5c486877c",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112231830414065664/vid/avc1/720x960/uYxlHP_dMSOs_ewz.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112231830414065664/img/A0iVueQNaq_l1mSp.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112231830414065664/img/A0iVueQNaq_l1mSp.jpg",
+      "tweetText": "이런거 조아하는 변녀 취향 맞춰줄 착한 오빠 어디 없나?",
+      "translations": {
+        "ko": "이런거 조아하는 변녀 취향 맞춰줄 착한 오빠 어디 없나?",
+        "en": "Is there a nice guy out there who can match the tastes of a perverted girl who likes this kind of stuff?",
+        "ja": "こういうのが好きな変態女子の好みに合わせてくれる優しいお兄さん、どこかにいないかな？",
+        "zh": "有没有哪个好哥哥能迎合一下喜欢这种调调的变态女生的口味呢？",
+        "es": "¿No hay por ahí un chico bueno que pueda complacer los gustos de una chica pervertida a la que le gusta este tipo de cosas?",
+        "fr": "N'y a-t-il pas un gentils garçon par ici qui pourrait satisfaire les goûts d'une fille un peu perverse qui aime ce genre de choses ?",
+        "de": "Gibt es keinen netten Typen da draußen, der den Geschmack eines perversen Mädels treffen kann, das auf sowas steht?",
+        "pt": "Não tem nenhum cara legal por aí que saiba satisfazer o gosto de uma garota pervertida que curte esse tipo de coisa?",
+        "ru": "Нет ли где-нибудь хорошего парня, который смог бы угодить вкусам извращенки, которой нравится такое?",
+        "ar": "ألا يوجد شاب لطيف هنا يمكنه تلبية ذوق فتاة منحرفة تحب هذا النوع من الأشياء؟",
+        "id": "Mana nih cowok baik yang bisa mengimbangi selera cewek mesum yang suka hal-hal kayak gini?",
+        "th": "ไม่มีพี่ชายใจดีคนไหนที่สามารถตามใจรสนิยมของสาวโรคจิตที่ชอบอะไรแบบนี้บ้างเลยเหรอ?",
+        "vi": "Có anh chàng tốt bụng nào ở đây có thể chiều theo sở thích của một cô nàng biến thái thích kiểu này không?",
+        "it": "Non c'è un bravo ragazzo in giro che possa soddisfare i gusti di una ragazza perversa a cui piacciono queste cose?",
+        "tr": "Böyle şeylerden hoşlanan sapık bir kızın zevkine ayak uydurabilecek iyi bir abimiz yok mu?",
+        "pl": "Czy nie ma tu jakiegoś miłego faceta, który dopasowałby się do gustu zboczonej dziewczyny, która lubi takie rzeczy?",
+        "nl": "Is er geen leuke gast te vinden die past bij de smaak van een pervers meisje dat van dit soort dingen houdt?",
+        "uk": "Чи немає десь доброго хлопця, який міг би задовольнити смаки збоченої дівчини, якій подобається таке?",
+        "ms": "Tiada abang baik ke kat luar sana yang boleh melayan citarasa gadis gatal yang suka benda macam ni?"
+      },
+      "mediaCheckedAt": 1792643085314
     },
     {
       "id": "2112232304047509839",
