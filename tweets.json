@@ -22462,8 +22462,31 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111994255975895040/img/nQiQMliffkOBJyCB.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642603858,
-      "pruneCheckedAt": 1792643778581
+      "mediaCheckedAt": 1792644599008,
+      "pruneCheckedAt": 1792643778581,
+      "tweetText": "이거 입고 벗기기 쉽게 대줄사람?",
+      "translations": {
+        "ko": "이거 입고 벗기기 쉽게 대줄사람?",
+        "en": "Who's gonna help me put this on and take it off easily?",
+        "ja": "これ着脱しやすいように手伝ってくれる人？",
+        "zh": "谁来帮我轻松穿脱这个？",
+        "es": "¿Quién me va a ayudar a ponérmelo y quitármelo fácilmente?",
+        "fr": "Qui va m'aider à enfiler et enlever ça facilement ?",
+        "de": "Wer hilft mir, das ganz einfach an- und auszuziehen?",
+        "pt": "Quem vai me ajudar a vestir e tirar isso facilmente?",
+        "ru": "Кто поможет мне легко надеть и снять это?",
+        "ar": "من سيساعدني في ارتداء هذا وخلعه بسهولة؟",
+        "id": "Siapa yang mau bantuin pasang dan lepas ini biar gampang?",
+        "th": "ใครจะช่วยฉันใส่และถอดอันนี้ให้ง่ายขึ้นบ้าง?",
+        "vi": "Ai giúp tôi mặc và cởi cái này cho dễ nào?",
+        "hi": "इसे आसानी से पहनने और उतारने में कौन मदद करेगा?",
+        "it": "Chi mi aiuta a mettere e togliere questo facilmente?",
+        "tr": "Bunu kolayca giyip çıkarmama kim yardım edecek?",
+        "pl": "Kto mi pomoże to łatwo założyć i zdjąć?",
+        "nl": "Wie helpt me dit makkelijk aan en uit te trekken?",
+        "uk": "Хто допоможе мені це легко одягнути та зняти?",
+        "ms": "Sesiapa nak tolong pakai dan tanggalkan ni dengan mudah?"
+      }
     },
     {
       "id": "2112241944290357410",
