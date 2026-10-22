@@ -15976,7 +15976,18 @@
       "note": "",
       "createdAt": 1792485189486,
       "score": 0,
-      "delHash": "405596e1c4a8d6bfd78c47edfb42201af4b9fb97fd6b376244ad6f1c5e444ecd"
+      "delHash": "405596e1c4a8d6bfd78c47edfb42201af4b9fb97fd6b376244ad6f1c5e444ecd",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112334806814191616/vid/avc1/720x1280/O3CHsYKw4Y0l6FUu.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112334806814191616/img/fvtQ4Vsl7RX11zSY.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112334806814191616/img/fvtQ4Vsl7RX11zSY.jpg",
+      "tweetText": "지퍼 살짝 내렷더니 옷사이로 바람솔솔 들어와서 짬지까지 시원해진것가타 ㅋ\n지퍼 밑으로 더 내리고 꽉 안아줄 오빠할 사람?",
+      "translateFail": "bad_json",
+      "translateFailAt": 1792642738929
     },
     {
       "id": "2111851298178150636",
