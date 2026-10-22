@@ -14358,7 +14358,18 @@
       "note": "",
       "createdAt": 1792485283747,
       "score": 0,
-      "delHash": "a7fcdae5f76ffae5aad7d67f057f5191d2464fb11fe6fabcef37c4c76cb153a0"
+      "delHash": "a7fcdae5f76ffae5aad7d67f057f5191d2464fb11fe6fabcef37c4c76cb153a0",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112213866923036672/vid/avc1/720x1036/_p-UPeALiyHTCdUe.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112213866923036672/img/rWWp5NcKo8dhbIYw.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112213866923036672/img/rWWp5NcKo8dhbIYw.jpg",
+      "tweetText": "선장님 치마 밑만 뚫어져라 보구있는 내 충실한 노예들 다 티나거든ㅋ",
+      "translateFail": "bad_json",
+      "translateFailAt": 1792641796445
     },
     {
       "id": "2112213855338414550",
