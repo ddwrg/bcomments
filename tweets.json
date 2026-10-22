@@ -4462,7 +4462,9 @@
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112661316548919297/img/8KH1vv19INXw3M-A.jpg",
       "hasVideo": true,
       "mediaCheckedAt": 1792642339529,
-      "pruneCheckedAt": 1792643649514
+      "pruneCheckedAt": 1792643649514,
+      "translateFail": "incomplete_langs:hi,it",
+      "translateFailAt": 1792649285327
     },
     {
       "id": "2112665120757453198",
@@ -4583,7 +4585,9 @@
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112665390174425088/img/COq9mxxHzx07RAQq.jpg",
       "hasVideo": true,
       "mediaCheckedAt": 1792642341320,
-      "pruneCheckedAt": 1792643649514
+      "pruneCheckedAt": 1792643649514,
+      "translateFail": "incomplete_langs:tr",
+      "translateFailAt": 1792649285327
     },
     {
       "id": "2112665707809009766",
@@ -4705,7 +4709,9 @@
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112661969337815040/img/LSmrW4B8OHtjO68k.jpg",
       "hasVideo": true,
       "mediaCheckedAt": 1792642343146,
-      "pruneCheckedAt": 1792643649514
+      "pruneCheckedAt": 1792643649514,
+      "translateFail": "incomplete_langs:zh",
+      "translateFailAt": 1792649285327
     },
     {
       "id": "2112509367648215335",
@@ -4745,7 +4751,9 @@
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112509152631427072/img/abzxPCMXKJ5FM77b.jpg",
       "hasVideo": true,
       "mediaCheckedAt": 1792642343742,
-      "pruneCheckedAt": 1792643653385
+      "pruneCheckedAt": 1792643653385,
+      "translateFail": "incomplete_langs:hi",
+      "translateFailAt": 1792649285327
     },
     {
       "id": "2112666418311549381",
@@ -4785,7 +4793,9 @@
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112666250535182336/img/JLSCWhc4Y1GOzUWq.jpg",
       "hasVideo": true,
       "mediaCheckedAt": 1792642344352,
-      "pruneCheckedAt": 1792643653520
+      "pruneCheckedAt": 1792643653520,
+      "translateFail": "incomplete_langs:hi",
+      "translateFailAt": 1792649285327
     },
     {
       "id": "2112659590110421443",
@@ -4838,23 +4848,25 @@
       "tweetText": "내 손맛 제대로 볼 사람 디엠으로 구함.",
       "translations": {
         "ko": "내 손맛 제대로 볼 사람 디엠으로 구함.",
-        "en": "Looking for someone to properly taste my cooking in my DMs. 📩",
-        "ja": "私の手料理を存分に味わいたい人はDM求む。",
-        "zh": "想好好尝尝我的手艺的人请私信我。",
-        "es": "Busco a alguien que quiera probar mi sazón por DM.",
-        "fr": "Je cherche quelqu'un pour goûter ma cuisine en DM.",
-        "de": "Suche jemanden per DM, der meine Kochkünste probieren möchte.",
-        "pt": "Procurando alguém para provar minha comida de verdade via DM.",
-        "ru": "Ищу того, кто хочет оценить мою стряпню, жду в директ.",
-        "ar": "أبحث عن شخص ليذوق طهيي حقاً، راسلني على الخاص.",
-        "id": "Cari orang yang mau nyobain masakan tanganku lewat DM.",
-        "th": "ใครอยากลองฝีมือฉันจริงๆ DM มา",
-        "vi": "Tìm người muốn thưởng thức món ăn do chính tay tôi nấu qua DM.",
-        "tr": "Elimin lezzetini tatmak isteyenler DM atın.",
-        "pl": "Szukam kogoś, kto chce spróbować mojego gotowania na DM.",
-        "nl": "Zoek iemand via DM om mijn kookkunsten echt te proberen.",
-        "uk": "Шукаю того, хто хоче спробувати мої приготування, пишіть в ДМ.",
-        "ms": "Cari orang yang nak rasa masakan air tangan saya, sila DM."
+        "en": "Looking for someone to properly taste my cooking in my DMs. 👩‍🍳",
+        "ja": "私の手料理を味わいたい人はDMしてね。",
+        "zh": "想好好尝尝我的手艺的人快私信我。",
+        "es": "Busco a alguien que quiera probar mi sazón por DM. 👩‍🍳",
+        "fr": "Je cherche quelqu'un pour goûter ma cuisine en message privé.",
+        "de": "Suche jemanden per DM, der meine Kochkünste richtig probieren will.",
+        "pt": "Procurando alguém para provar minha comida de verdade na DM.",
+        "ru": "Ищу того, кто хочет как следует оценить мою стряпню, пишите в ЛС.",
+        "ar": "أبحث عن شخص ليتذوق طبقي بشكل صحيح عبر الرسائل الخاصة.",
+        "id": "Mencari seseorang yang ingin mencicipi masakan saya di DM.",
+        "th": "ใครอยากลองฝีมือฉันจริงๆ DM มาได้เลย",
+        "vi": "Tìm người muốn thưởng thức món ăn do chính tay tôi làm qua tin nhắn (DM).",
+        "hi": "मेरे हाथ का खाना अच्छे से चखने वाला व्यक्ति डीएम में संपर्क करे।",
+        "it": "Cerco qualcuno che voglia provare la mia cucina in DM.",
+        "tr": "Elimin lezzetini tatmak isteyenler DM atsin.",
+        "pl": "Szukam kogoś, kto chce spróbować moich kulinarnych umiejętności w DM.",
+        "nl": "Op zoek naar iemand die mijn kookkunsten wil proberen via DM.",
+        "uk": "Шукаю того, хто хоче як слід скуштувати мої страви, пишіть у дірект.",
+        "ms": "Mencari seseorang untuk merasai masakan saya melalui DM."
       },
       "videos": [
         {
@@ -4864,7 +4876,7 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112666810759983104/img/MkuheDNhTnRSEIK3.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642345546,
+      "mediaCheckedAt": 1792649285327,
       "pruneCheckedAt": 1792643653783
     },
     {
@@ -4905,7 +4917,9 @@
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112664013654081536/img/zD7fVPbU8wU4sYfi.jpg",
       "hasVideo": true,
       "mediaCheckedAt": 1792642346139,
-      "pruneCheckedAt": 1792643653916
+      "pruneCheckedAt": 1792643653916,
+      "translateFail": "incomplete_langs:tr",
+      "translateFailAt": 1792649285327
     },
     {
       "id": "2112513658156888570",
@@ -4944,7 +4958,9 @@
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112510392144740353/img/t4OQknsgchMhefsN.jpg",
       "hasVideo": true,
       "mediaCheckedAt": 1792642346747,
-      "pruneCheckedAt": 1792643654056
+      "pruneCheckedAt": 1792643654056,
+      "translateFail": "incomplete_langs:th",
+      "translateFailAt": 1792649285327
     },
     {
       "id": "2112667940600606767",
@@ -5039,23 +5055,24 @@
       "translations": {
         "ko": "오빠들 수영장 물속보다 내 몸이 더 뜨거워져서 어뜩해 ㅋ\n예쁘게 말하면 특급 서비스로 대딸 시켜주세요 해줄 오빠 있어? 💕",
         "en": "Guys, my body is getting hotter than the swimming pool water, what do I do haha\nIs there any oppa who will let me give him a handjob as a special service if he asks nicely? 💕",
-        "ja": "みんな、プールの中の水より私の体のほうが熱くなっちゃったんだけどどうしようw\n上手におねがいできたら、特急サービスで手コキしてあげるよっていうお兄さんいる？💕",
-        "zh": "哥哥们，我的身体比泳池的水还要热，怎么办呀 哈哈\n有没有哥哥想听好听的话，然后我用特级服务帮你打飞机呢？💕",
+        "ja": "みんな、プールの水より私の身体の方が熱くなっちゃってどうしようw\n上手にお願いしてくれたら、特急サービスで手コキしてあげるオッパいる？💕",
+        "zh": "哥哥们，我的身体比泳池的水还要烫，怎么办哈哈\n如果好好说的话，有没有哥哥想让我用特级服务帮你手交的？💕",
         "es": "Chicos, mi cuerpo se está poniendo más caliente que el agua de la piscina, ¿qué hago jaja\n¿Hay algún oppa que quiera que le haga una paja como servicio especial si me lo pide bonito? 💕",
-        "fr": "Les gars, mon corps devient plus chaud que l'eau de la piscine, comment je fais haha\nEst-ce qu'il y a un oppa qui voudrait que je lui fasse une branlette en service spécial s'il demande gentiment ? 💕",
-        "de": "Leute, mein Körper wird heißer als das Poolwasser, was mache ich haha\nGibt es einen Oppa, der sich von mir einen Handjob als Spezialservice geben lässt, wenn er nett fragt? 💕",
-        "pt": "Gatos, meu corpo está ficando mais quente que a água da piscina, o que eu faço haha\nTem algum oppa que vai querer que eu faça uma punheta como serviço especial se pedir direitinho? 💕",
-        "ru": "Ребят, мое тело становится горячее воды в бассейне, что делать ха-ха\nЕсть какой-нибудь оппа, который хочет, чтобы я сделала ему ручной массаж в качестве особой услуги, если он вежливо попросит? 💕",
-        "ar": "يا شباب، جسدي أصبح أحر من ماء المسبح، ماذا أفعل حها\nهل هناك أي أوبا يريدني أن أعطيه مساعدة يدوية كخدمة خاصة إذا طلب بلطف؟ 💕",
-        "id": "Teman-teman, tubuhku menjadi lebih panas daripada air kolam renang, bagaimana nih wkwk\nAda nggak oppa yang mau kuberi handjob sebagai layanan khusus kalau dia minta dengan manis? 💕",
-        "th": "ทุกคน ร่างกายฉันร้อนกว่าน้ำในสระแล้วเนี่ยทำไงดี 555\nมีโอปป้าคนไหนอยากให้ฉันช่วยชักให้เป็นบริการพิเศษถ้าพูดจาดีๆ บ้างไหม? 💕",
-        "vi": "Mọi người ơi, cơ thể tôi còn nóng hơn cả nước hồ bơi, phải làm sao đây haha\nCó oppa nào muốn tôi sục cặc cho như một dịch vụ đặc biệt nếu nói ngọt không? 💕",
-        "hi": "दोस्तों, मेरा शरीर पूल के पानी से भी ज्यादा गर्म हो रहा है, मैं क्या करूं हाहा\nक्या कोई ओप्पा है जो प्यार से पूछने पर मुझे उसे स्पेशल सर्विस के रूप में हैंडजोब देने देगा? 💕",
+        "fr": "Les gars, mon corps devient plus chaud que l'eau de la piscine, comment je fais haha\nY a-t-il un oppa qui veut que je lui fasse une masturbation manuelle en service spécial s'il demande gentiment ? 💕",
+        "de": "Leute, mein Körper wird heißer als das Poolwasser, was soll ich tun haha\nGibt es einen Oppa, der sich von mir als Spezialservice einen Handjob geben lassen möchte, wenn er lieb fragt? 💕",
+        "pt": "Gatões, meu corpo está ficando mais quente que a água da piscina, o que eu faço haha\nTem algum oppa que quer que eu faça uma punheta para ele como serviço especial se pedir direitinho? 💕",
+        "ru": "Ребята, мое тело становится горячее воды в бассейне, что делать ха-ха\nЕсть ли какой-нибудь оппа, который хочет, чтобы я сделала ему ручной массаж в качестве особой услуги, если он попросит вежливо? 💕",
+        "ar": "يا شباب، جسدي أصبح أحر من مياه المسبح، ماذا أفعل حها\nهل هناك أي أوبا يريد مني أن أقوم له بخدمة يدوية كخدمة خاصة إذا طلب بلطف؟ 💕",
+        "id": "Cowok-cowok, badan aku jadi lebih panas daripada air kolam renang, gimana nih wkwk\nAda oppa nggak yang mau aku coliin sebagai layanan spesial kalau dia minta dengan manis? 💕",
+        "th": "ทุกคน ตัวฉันร้อนกว่าน้ำในสระอีกทำไงดี 555\nมีโอปป้าคนไหนอยากให้ฉันช่วยสำเร็จความด้วยมือเป็นบริการพิเศษถ้าพูดจาดีๆ บ้างไหม? 💕",
+        "vi": "Mọi người ơi cơ thể em còn nóng hơn cả nước hồ bơi, phải làm sao đây haha\nCó oppa nào muốn anh sướng tay với dịch vụ đặc biệt nếu nói năng ngọt ngào không? 💕",
+        "hi": "दोस्तों, मेरा शरीर स्विमिंग पूल के पानी से भी ज़्यादा गर्म हो रहा है, मैं क्या करूँ हाहा\nक्या कोई ओप्पा है जो प्यार से पूछने पर मुझे उसे स्पेशल सर्विस के तौर पर हैंडजॉब देने देगा? 💕",
         "it": "Ragazzi, il mio corpo sta diventando più caldo dell'acqua della piscina, che faccio ahah\nC'è qualche oppa che vuole che gli faccia una sega come servizio speciale se me lo chiede carino? 💕",
-        "pl": "Chłopaki, moje ciało robi się gorętsza niż woda w basenie, co mam zrobić haha\nCzy jest jakiś oppa, który pozwoli mi zrobić sobie dobrze ręką jako specjalna usługa, jeśli ładnie poprosi? 💕",
-        "nl": "Jongens, mijn lichaam wordt heter dan het zwembadwater, wat moet ik doen haha\nIs er een oppa die wil dat ik hem een handjob geef als special service als hij lief vraagt? 💕",
-        "uk": "Хлопці, моє тіло стає гарячішим за воду в басейні, що робити ха-ха\nЧи є якийсь оппа, який хоче, щоб я зробила йому ручний сервіс як особливу послугу, якщо він чемно попросить? 💕",
-        "ms": "Kawan-kawan, badan saya jadi lebih panas daripada air kolam, macam mana ni haha\nAda tak oppa yang nak saya beri perkhidmatan khas handjob kalau dia minta dengan elok? 💕"
+        "tr": "Beyler, vücudum havuz suyundan daha sıcak hale geliyor, ne yapacağım ha ha\nEski usul güzelce rica ederse ona özel servis olarak otuzbir çektirmeme izin verecek bir oppa var mı? 💕",
+        "pl": "Chłopaki, moje ciało robi się gorętsze niż woda w basenie, co mam zrobić haha\nCzy jest jakiś oppa, który chciałby, żebym zrobiła mu ręczną laskę jako specjalną usługę, jeśli ładnie poprosi? 💕",
+        "nl": "Jongens, mijn lichaam wordt heter dan het zwembadwater, wat moet ik doen haha\nIs er een oppa die wil dat ik hem een handjob geef als special service als hij het lief vraagt? 💕",
+        "uk": "Хлопці, моє тіло стає гарячішим за воду в басейні, що робити ха-ха\nЧи є якийсь оппа, який хоче, щоб я зробила йому ручний масаж як особливу послугу, якщо він гарно попросить? 💕",
+        "ms": "Korang, badan aku makin panas daripada air kolam renang, macam mana ni haha\nAda oppa tak yang nak aku tolong 'handjob' sebagai servis istimewa kalau dia minta elok-elok? 💕"
       },
       "videos": [
         {
@@ -5065,7 +5082,7 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112635846721691648/img/BwTDkQVNexexF0oH.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642348605,
+      "mediaCheckedAt": 1792649285327,
       "pruneCheckedAt": 1792643654488
     },
     {
@@ -5201,24 +5218,25 @@
       "tweetText": "오줌싸고 왓는데 보빨 가능?🛣️",
       "translations": {
         "ko": "오줌싸고 왓는데 보빨 가능?🛣️",
-        "en": "Just went for a pee, can I eat you out?🛣️",
+        "en": "Just went to pee, can I eat you out?🛣️",
         "ja": "おしっこしてきたんだけど、クンニできる？🛣️",
-        "zh": "刚上完厕所回来，可以舔吗？🛣️",
-        "es": "Acabo de ir a hacer pis, ¿puedo hacerte cunnilingus?🛣️",
-        "fr": "Je viens d'aller pisser, je peux te lécher la chatte ?🛣️",
-        "pt": "Acabei de ir hacer xixi, posso te comer (cunnilingus)?🛣️",
-        "ru": "Только что сходил пописать, можно куннилингус?🛣️",
-        "ar": "لتوّي ذهبت للبول، هل يمكنني لعق فرجك؟🛣️",
-        "id": "Baru saja kencing, bisa cunnilingus?🛣️",
-        "th": "เพิ่งไปฉี่มา เล็มหอยได้ไหม🛣️",
-        "vi": "Vừa đi tè về, có bú lồn được không?🛣️",
+        "zh": "刚上完厕所回来，能舔吗？🛣️",
+        "es": "Acabo de ir a hacer pis, ¿puedo hacerte un cunnilingus?🛣️",
+        "fr": "Je viens d'aller pisser, tu veux que je te lèche la chatte ?🛣️",
+        "de": "War gerade pinkeln, kann ich dich lecken?🛣️",
+        "pt": "Acabei de ir mijar, rola um lamber a xota?🛣️",
+        "ru": "Только что сходил пописать, можно полизать киску?🛣️",
+        "ar": "ذهبت للتبول للتو، هل يمكنني لعق فرجك؟🛣️",
+        "id": "Baru habis kencing, bisa cunnilingus nggak?🛣️",
+        "th": "เพิ่งไปฉี่มา เลียให้หน่อยได้ไหม?🛣️",
+        "vi": "Vừa đi tiểu xong, có muốn bú lồn không?🛣️",
         "hi": "अभी पेशाब करके आया हूँ, क्या मैं चाट सकता हूँ?🛣️",
         "it": "Sono appena andato a pisciare, posso leccarti la figa?🛣️",
-        "tr": "Az önce tuvalete gittim, yalayabilir miyim?🛣️",
-        "pl": "Właśnie poszedłem sikać, mogę ci zrobić loda/cunnilingus?🛣️",
+        "tr": "Az önce tuvaletten geldim, yalayabilir miyim?🛣️",
+        "pl": "Właśnie poszedłem sikać, mogę cię wylizać?🛣️",
         "nl": "Ben net gaan plassen, kan ik je likken?🛣️",
-        "uk": "Тільки що сходив пописати, можна кунілінгус?🛣️",
-        "ms": "Baru lepas kencing, boleh cunnilingus?🛣️"
+        "uk": "Тільки що ходив пописати, можна полизати кицю?🛣️",
+        "ms": "Baru lepas kencing, boleh jilat tak?🛣️"
       },
       "videos": [
         {
@@ -5228,7 +5246,7 @@
       ],
       "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112667553005002752/img/19Kl85kvhbQqfCMA.jpg",
       "hasVideo": true,
-      "mediaCheckedAt": 1792642351030,
+      "mediaCheckedAt": 1792649285327,
       "pruneCheckedAt": 1792643654978
     },
     {
