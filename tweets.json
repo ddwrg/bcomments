@@ -13120,7 +13120,39 @@
       "note": "",
       "createdAt": 1792485355855,
       "score": 0,
-      "delHash": "8088a0410c043d166351c0ec9affef7b6455bdc449466ad1712833c5699ae9f2"
+      "delHash": "8088a0410c043d166351c0ec9affef7b6455bdc449466ad1712833c5699ae9f2",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112206040658022400/vid/avc1/720x1280/4HPoaUs5AvVOMQhp.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112206040658022400/img/gTRM1Dc_Dwe5vKie.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112206040658022400/img/gTRM1Dc_Dwe5vKie.jpg",
+      "tweetText": "라떼 마시면서 옷 슬쩍 올렷는데 커피보다 내 밀크가 더 부드러워보이지 안아? ☕️",
+      "translations": {
+        "ko": "라떼 마시면서 옷 슬쩍 올렷는데 커피보다 내 밀크가 더 부드러워보이지 안아? ☕️",
+        "en": "Drank some latte and pulled my shirt up a bit. Doesn't my milk look softer than the coffee? ☕️",
+        "ja": "ラテを飲みながら服をちらっとめくってみたんだけど、コーヒーより私のミルクのほうが柔らかそうに見えない？ ☕️",
+        "zh": "喝着拿铁悄悄掀起衣服，我的奶看起来是不是比咖啡还要丝滑？ ☕️",
+        "es": "Me tomé un latte y me levanté un poco la ropa. ¿A que mi leche se ve más suave que el café? ☕️",
+        "fr": "J'ai bu un latte et j'ai relevé un peu mon t-shirt. Mon lait n'a pas l'air plus doux que le café ? ☕️",
+        "de": "Habe einen Latte getrunken und mein Oberteil ein bisschen hochgezogen. Sieht meine Milch nicht weicher aus als der Kaffee? ☕️",
+        "pt": "Tomei um latte e levantei a blusa um pouquinho. O meu leite não parece mais macio que o café? ☕️",
+        "ru": "Пью латте и тут слегка приподнял(а) одежду. Разве мое молоко не выглядит нежнее кофе? ☕️",
+        "ar": "كنت أشرب لاتيه ورفعت ملابسي قليلاً. ألا تبدو حليبي (بشرتي/جسمي) أعمق أو أنعم من القهوة؟ ☕️",
+        "id": "Sambil minum latte, aku sedikit mengangkat bajuku. Bukankah susu (kulit)ku terlihat lebih lembut daripada kopi? ☕️",
+        "th": "กำลังดื่มลาเต้แล้วแอบดึงเสื้อขึ้นนิดหน่อย ดูสิว่านมของฉันดูนุ่มนวลกว่ากาแฟอีกใช่ไหม? ☕️",
+        "vi": "Vừa uống latte vừa kéo áo lên một chút. Trông sữa của tôi có vẻ mịn màng hơn cả cà phê phải không? ☕️",
+        "hi": "लट्टे पीते हुए मैंने अपनी शर्ट थोड़ी ऊपर उठाई। क्या मेरा दूध (त्वचा) कॉफी से ज़्यादा सॉफ्ट नहीं लग रहा? ☕️",
+        "it": "Mentre bevevo un latte ho tirato su un po' la maglietta. Il mio latte non sembra più morbido del caffè? ☕️",
+        "tr": "Latte içerken kıyafetimi hafifçe kaldırdım. Sütüm kahveden daha yumuşak görünmüyor mu? ☕️",
+        "pl": "Pijąc latte, lekko podniosłam koszulkę. Czy moje mleczko nie wygląda na delikatniejsze niż kawa? ☕️",
+        "nl": "Ik dacht, laat ik tijdens het drinken van mn latte m'n shirt eens een stukje optrekken. Ziet mijn melk er niet zachter uit dan de koffie? ☕️",
+        "uk": "П'ю латте і тут трішки підняв(ла) одяг. Хіба моє молоко не виглядає ніжнішим за каву? ☕️",
+        "ms": "Sambil minum latte, aku selak sikit baju aku. Bukankah susu aku nampak lagi lembut daripada kopi? ☕️"
+      },
+      "mediaCheckedAt": 1792641403167
     },
     {
       "id": "2111959317457088805",
