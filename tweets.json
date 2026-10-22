@@ -17091,7 +17091,38 @@
       "note": "",
       "createdAt": 1792485120617,
       "score": 0,
-      "delHash": "29231b1a6bd16eb3c118ee212e6b3e2a6d089e037d6c943293ace546b092721e"
+      "delHash": "29231b1a6bd16eb3c118ee212e6b3e2a6d089e037d6c943293ace546b092721e",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112233841020874752/vid/avc1/720x1280/X3AXYludaHrmAg8K.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112233841020874752/img/Gemga6iYdbKuwgoc.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112233841020874752/img/Gemga6iYdbKuwgoc.jpg",
+      "tweetText": "뉴나 좁보인데 손으로 확인해보실? 🚍",
+      "translations": {
+        "ko": "뉴나 좁보인데 손으로 확인해보실? 🚍",
+        "en": "Hey oppa/bro, it's tight, want to check with your hand? 🚍",
+        "ja": "お姉さん狭いんだけど、手で確認してみる？ 🚍",
+        "zh": "姐姐很紧哦，要用手确认一下吗？ 🚍",
+        "es": "Hola, soy apretadita, ¿quieres comprobarlo con la mano? 🚍",
+        "fr": "Hé, c'est serré, tu veux vérifier avec ta main ? 🚍",
+        "pt": "Ei, é apertadinho, quer verificar com a mão? 🚍",
+        "ru": "Привет, тут узко, хочешь проверить рукой? 🚍",
+        "ar": "مرحباً، إنه ضيق، هل تريد التحقق بيدك؟ 🚍",
+        "id": "Kakak Sempit nih, mau cek pakai tangan? 🚍",
+        "th": "พี่สาวคับแคบนะ อยากลองเช็คด้วยมือดูไหม? 🚍",
+        "vi": "Chị em chật lắm đấy, có muốn kiểm tra bằng tay không? 🚍",
+        "hi": "हे बहन, यह बहुत टाइट है, क्या हाथ से चेक करना चाहते हो? 🚍",
+        "it": "Ehi, è stretto, vuoi controllare con la mano? 🚍",
+        "tr": "abla dar, elle kontrol etmek ister misin? 🚍",
+        "pl": "Hej, jest ciasno, chcesz sprawdzić ręką? 🚍",
+        "nl": "Hé, het is strak, wil je met je hand controleren? 🚍",
+        "uk": "Привіт, тут вузько, хочеш перевірити рукою? 🚍",
+        "ms": "Kakak sempit ni, nak semak guna tangan ke? 🚍"
+      },
+      "mediaCheckedAt": 1792643205751
     },
     {
       "id": "2112233479950008409",
