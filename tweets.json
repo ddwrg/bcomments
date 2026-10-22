@@ -14927,7 +14927,39 @@
       "note": "",
       "createdAt": 1792485250751,
       "score": 0,
-      "delHash": "27162e001d644971b2784244cff9acf8548802f6aa6dc8240604f26c18e40e5d"
+      "delHash": "27162e001d644971b2784244cff9acf8548802f6aa6dc8240604f26c18e40e5d",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2111969940651794433/vid/avc1/720x720/SGTK5x95IzRLBzvk.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111969940651794433/img/LfJKQCjao0Fw2HZs.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111969940651794433/img/LfJKQCjao0Fw2HZs.jpg",
+      "tweetText": "솔직하게 내 젖평 남겨줄 사람?",
+      "translations": {
+        "ko": "솔직하게 내 젖평 남겨줄 사람?",
+        "en": "Anyone honestly wanna leave a review on my breast size/chest? 🍈",
+        "ja": "正直に私の乳評価（胸の評価）してくれる人？",
+        "zh": "有谁愿意诚实地对我的胸部做出评价吗？",
+        "es": "¿Alguien que honestamente quiera dejar una opinión sobre mi pecho?",
+        "fr": "Quelqu'un pour donner un avis honnête sur ma poitrine ?",
+        "de": "Möchte ehrlich jemand eine Bewertung zu meiner Oberweite abgeben?",
+        "pt": "Alguém quer deixar uma avaliação honesta sobre os meus peitos?",
+        "ru": "Кто честно хочет оставить отзыв о моей груди?",
+        "ar": "هل هناك من يرغب في ترك تقييم صادق لحجم صدري؟",
+        "id": "Ada yang mau jujur ninggalin ulasan soal ukuran dada aku?",
+        "th": "ใครอยากคอมเมนต์รีวิวขนาดหน้าอกฉันแบบตรงๆ บ้าง?",
+        "vi": "Có ai thật lòng muốn để lại đánh giá về ngực của tôi không?",
+        "hi": "क्या कोई ईमानदारी से मेरी छाती पर समीक्षा देना चाहता है?",
+        "it": "Qualcuno vuole lasciare onestamente una recensione sul mio seno?",
+        "tr": "Göğüslerim hakkında dürüstçe yorum yapmak isteyen var mı?",
+        "pl": "Czy ktoś chce szczerze zostawić opinię o moim biuście?",
+        "nl": "Wil er iemand eerlijk een beoordeling achterlaten over mijn borsten?",
+        "uk": "Хто хоче чесно залишити відгук про мої груди?",
+        "ms": "Ada sesiapa yang nak jujur tinggalkan ulasan pasal saiz dada saya?"
+      },
+      "mediaCheckedAt": 1792642080648
     },
     {
       "id": "2112093418931564808",
