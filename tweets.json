@@ -11981,28 +11981,8 @@
       "score": 0,
       "delHash": "7f612fe58b51b0e24fb8855ff4fe442423d53e203e5110b5dbd2734166a34c8b",
       "tweetText": "오빠가 나 보평 제대로 해줄 사람?",
-      "translations": {
-        "ko": "오빠가 나 보평 제대로 해줄 사람?",
-        "en": "Who's going to properly review/rate me? 🙋‍♀️",
-        "ja": "オッパが私をちゃんと評価してくれる人？",
-        "zh": "谁来好好帮我评价一下？",
-        "es": "¿Quién me va a evaluar/reseñar correctamente? 🙋‍♀️",
-        "fr": "Qui va m'évaluer correctement ? 🙋‍♀️",
-        "de": "Wer wird mich richtig bewerten/kritisieren? 🙋‍♀️",
-        "pt": "Quem vai me avaliar direito? 🙋‍♀️",
-        "ru": "Кто меня нормально оценит? 🙋‍♀️",
-        "ar": "من سيقوم بتقييمي بشكل صحيح؟ 🙋‍♀️",
-        "id": "Siapa yang mau menilai/mereview aku dengan benar? 🙋‍♀️",
-        "th": "ใครจะมารีวิว/ประเมินฉันแบบจริงจังบ้าง? 🙋‍♀️",
-        "vi": "Ai sẽ đánh giá tôi đàng hoàng đây? 🙋‍♀️",
-        "hi": "कौन मेरा सही से मूल्यांकन करने वाला है? 🙋‍♀️",
-        "it": "Chi mi valuterà/recensirà per bene? 🙋‍♀️",
-        "tr": "Beni düzgünce değerlendirecek/inceleyecek biri var mı? 🙋‍♀️",
-        "pl": "Kto mnie porządnie oceni/zrecenzuje? 🙋‍♀️",
-        "nl": "Wie gaat mij properly beoordelen? 🙋‍♀️",
-        "uk": "Хто мене нормально оцінить? 🙋‍♀️",
-        "ms": "Siapa nak nilai/ulas aku dengan betul? 🙋‍♀️"
-      }
+      "translateFail": "bad_json",
+      "translateFailAt": 1792634629946
     },
     {
       "id": "2112319601317228958",
