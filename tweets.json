@@ -16035,7 +16035,38 @@
       "note": "",
       "createdAt": 1792485185258,
       "score": 0,
-      "delHash": "b524ab834eeedfde075a6e68259567eb5c5a351f4065a5b6146cbf563e2ee53e"
+      "delHash": "b524ab834eeedfde075a6e68259567eb5c5a351f4065a5b6146cbf563e2ee53e",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2111978625990086657/vid/avc1/1302x720/9bEuI_k2b5X1mI4h.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111978625990086657/img/A0Q-UCPj3D56sc-o.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111978625990086657/img/A0Q-UCPj3D56sc-o.jpg",
+      "tweetText": "오빠 국자로 밥떠먹지말구 딴거먹어",
+      "translations": {
+        "ko": "오빠 국자로 밥떠먹지말구 딴거먹어",
+        "en": "Hey bro, stop eating rice with a soup ladle and eat something else",
+        "ja": "お兄ちゃん、お玉でお米すくって食べないで別のもの食べてよ",
+        "zh": "哥，别用汤勺盛饭吃了，吃点别的吧",
+        "es": "Oye bro, deja de comer arroz con el cucharón de sopa y come otra cosa",
+        "fr": "Hé mec, arrête de manger du riz avec une louche à soupe et mange autre chose",
+        "de": "Hey Digga, hör auf, Reis mit einer Suppenkelle zu essen, und iss was anderes",
+        "pt": "Mano, para de comer arroz com concha de sopa e come outra coisa",
+        "ru": "Бро, хватит есть рис половником, поешь что-нибудь другое",
+        "ar": "يا أخي، توقف عن أكل الأرز مغرفة الشوربة وكل شيئاً آخر",
+        "id": "Bro, jangan makan nasi pakai sendok sayur, makan yang lain deh",
+        "th": "พี่คะ เลิกตักข้าว,กินด้วยทัพพีซุปแล้วไปกินอย่างอื่นเถอะ",
+        "vi": "Ông anh ơi, đừng dùng vá múc canh ăn cơm nữa, ăn cái khác đi",
+        "it": "Fra, smettila di mangiare il riso con il mestolo da zuppa e mangia qualcos'altro",
+        "tr": "Abi kepçeyle pilav yemeyi bırak, başka bir şey ye",
+        "pl": "Stary, przestań jeść ryż chochlą do zupy i zjedz coś innego",
+        "nl": "Hé man, stop met rijst eten met een soeplepel en eet iets anders",
+        "uk": "Бро, хай скільки ти їси рис ополоником, поїж щось інше",
+        "ms": "Bro, berhenti makan nasi guna senduk sup dan makan benda lain"
+      },
+      "mediaCheckedAt": 1792642758208
     },
     {
       "id": "2112328833814950385",
