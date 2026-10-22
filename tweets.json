@@ -15424,7 +15424,38 @@
       "note": "",
       "createdAt": 1792485221909,
       "score": 0,
-      "delHash": "7801c5a848e53b5706cf6a2ba7bd83104b252cc54281aff45554a6bcf04f0cd3"
+      "delHash": "7801c5a848e53b5706cf6a2ba7bd83104b252cc54281aff45554a6bcf04f0cd3",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112221084867334145/vid/avc1/720x960/WH1o1-N3qdph1ynI.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112221084867334145/img/weDZTjrbe3yTclfo.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112221084867334145/img/weDZTjrbe3yTclfo.jpg",
+      "tweetText": "오빠들 DM으로 사진 찍어서 보내고 솔직하게 꼬평 받을 사람?",
+      "translations": {
+        "ko": "오빠들 DM으로 사진 찍어서 보내고 솔직하게 꼬평 받을 사람?",
+        "en": "Hey guys, who wants to send me a photo via DM and get an honest outfit/style review?",
+        "ja": "オッパたち、DMで写真撮って送って正直にコーデ評価してもらう人？",
+        "zh": "哥哥们，有谁想通过私信发照片给我，并获得诚实的穿搭评价吗？",
+        "es": "¿Chicos, quién quiere enviarme una foto por DM y recibir una evaluación sincera de su estilo?",
+        "fr": "Les gars, qui veut m'envoyer une photo en DM pour une évaluation honnête de son style ?",
+        "de": "Hey Leute, wer möchte mir ein Foto per DM schicken und eine ehrliche Outfit-Bewertung bekommen?",
+        "pt": "Guris, quem quer me mandar uma foto por DM e receber uma avaliação sincera do look?",
+        "ru": "Ребята, кто хочет прислать мне фото в Директ и получить честную оценку стиля?",
+        "ar": "يا شباب، من يريد أن يرسل لي صورة عبر الرسائل الخاصة ليحصل على تقييم صادق لإطلالته؟",
+        "id": "Oppa-oppa, siapa yang mau kirim foto lewat DM dan minta penilaian jujur soal gaya/penampilan?",
+        "th": "โอปป้าคนไหนอยากส่งรูปมาทาง DM แล้วให้ฉันรีวิวการแต่งตัวแบบตรงไปตรงมาบ้าง?",
+        "vi": "Các oppa, ai muốn gửi ảnh qua DM để nhận được đánh giá chân thực về phong cách nào?",
+        "it": "Ragazzi, chi vuole mandarmi una foto in DM e ricevere una valutazione sincera del proprio stile?",
+        "tr": "Beyler, DM'den bana fotoğraf gönderip dürüstçe tarz değerlendirmesi almak isteyen var mı?",
+        "pl": "Chłopaki, kto chce wysłać mi zdjęcie w DM i dostać szczery评оce? / szczerą ocenę stylówki?",
+        "nl": "Jongens, wie wil er een foto via DM sturen en een eerlijke beoordeling van hun outfit krijgen?",
+        "uk": "Хлопці, хто хоче надіслати мені фото в Дірект і отримати чесну оцінку стилю?",
+        "ms": "Abang-abang, siapa nak hantar gambar melalui DM dan dapatkan penilaian gaya secara jujur?"
+      },
+      "mediaCheckedAt": 1792642312698
     },
     {
       "id": "2112222019823747123",
