@@ -16932,7 +16932,39 @@
       "note": "",
       "createdAt": 1792485129497,
       "score": 0,
-      "delHash": "2237c357819192699bcb26ecc8da599725e3d41a6aa4e9eee604c80469a6c20b"
+      "delHash": "2237c357819192699bcb26ecc8da599725e3d41a6aa4e9eee604c80469a6c20b",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112231429140832256/vid/avc1/720x958/vsg4upkjJrpqqVGo.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112231429140832256/img/CoX02CLBx6F-5Tr_.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112231429140832256/img/CoX02CLBx6F-5Tr_.jpg",
+      "tweetText": "오빠들 침대에서 가디건 슬쩍 벗으면서 혼자 노는거 ㅈㄴ 꼴리는데",
+      "translations": {
+        "ko": "오빠들 침대에서 가디건 슬쩍 벗으면서 혼자 노는거 ㅈㄴ 꼴리는데",
+        "en": "It's so damn hot when guys casually take off their cardigans on the bed and play by themselves 🔥",
+        "ja": "オッパたちがベッドでカーディガンをそれとなく脱ぎながら一人で遊んでるの、めちゃくちゃそそるんだけど",
+        "zh": "哥哥们在床上偷偷脱掉开衫自己玩的样子真的太撩人了",
+        "es": "Es jodidamente caliente cuando los chicos se quitan disimuladamente el cárdigan en la cama y juegan solos 😏",
+        "fr": "C'est tellement excitant de voir les gars enlever discrètement leur gilet sur le lit pour jouer tout seuls",
+        "de": "Es ist so verdammt heiß, wenn Typen im Bett lässig ihre Cardigans ausziehen und alleine spielen",
+        "pt": "É muito gostoso ver os caras tirando o cardigã de fininho na cama e brincando sozinhos",
+        "ru": "Так чертовски заводит, когда парни в постели невзначай снимают кардиганы и играют сами с собой",
+        "ar": "إنه أمر مثير اللعنة عندما يخلع الشباب ستراتهم بخفة على السرير ويلعبون بمفردهم",
+        "id": "Sumpah hot banget lihat para cowok diem-diem lepas kardigan di kasur terus main sendiri",
+        "th": "ผู้ชายถอดคาร์ดิแกนบนเตียงแบบเนียนๆ แล้วเล่นคนเดียวนี่คืองandโคตรเซ็กซี่เลย",
+        "vi": "Mấy anh em trên giường vừa cởi hờ chiếc áo khoác cardigan vừa chơi một mình trông gợi cảm vãi",
+        "hi": "बिस्तर पर लड़कों का चुपचाप अपना कार्डिगन उतारना और अकेले मजे करना बेहद हॉट है",
+        "it": "È dannatamente eccitante quando i ragazzi si tolgo con nonchalance il cardigan sul letto e giocano da soli",
+        "tr": "Erkeklerin yatakta hırkalarını gizlice çıkarıp tek başlarına takılması o kadar seksii ki",
+        "pl": "To cholernie pociągające, kiedy chłopaki ukradkiem zdejmują kardigany w łóżku i bawią się sami",
+        "nl": "Het is zo verdomd hot als gasten stiekem hun vest uittrekken op bed en in hun eentje spelen",
+        "uk": "Так чортовськи заводить, коли хлопці в ліжку непомітно знімають кардигани і граються самі",
+        "ms": "Memang hot gila bila abang-abang ni senyap-senyap tanggalkan kardigan atas katil sambil main sorang-sorang"
+      },
+      "mediaCheckedAt": 1792643123847
     },
     {
       "id": "2112348321306272216",
