@@ -12961,7 +12961,39 @@
       "note": "",
       "createdAt": 1792485364552,
       "score": 0,
-      "delHash": "db767d82e54622e80907c11ed9582f02391e1cb9efdff2cbb51c69766904f61f"
+      "delHash": "db767d82e54622e80907c11ed9582f02391e1cb9efdff2cbb51c69766904f61f",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112204482302066688/vid/avc1/1280x720/RBYH-9DJ7hdJEJEM.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112204482302066688/img/teVS1peALp66H_s-.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112204482302066688/img/teVS1peALp66H_s-.jpg",
+      "tweetText": "고추 17cm이상만 댓적어봐 🏈",
+      "translations": {
+        "ko": "고추 17cm이상만 댓적어봐 🏈",
+        "en": "Only leave a comment if your pepper is 17cm or longer 🏈",
+        "ja": "唐辛子が17cm以上の方だけコメントしてください 🏈",
+        "zh": "辣椒17cm以上的才来留言 🏈",
+        "es": "Solo deja un comentario si tu pimiento mide 17 cm o más 🏈",
+        "fr": "Laissez un commentaire seulement si votre piment mesure 17 cm ou plus 🏈",
+        "de": "Kommentiere nur, wenn dein Chili 17 cm oder länger ist 🏈",
+        "pt": "Comente apenas se a sua pimenta tiver 17 cm ou mais 🏈",
+        "ru": "Оставляйте комментарий, только если ваш перец больше 17 см 🏈",
+        "ar": "الرجاء ترك تعليق فقط إذا كان الفلفل الخاص بك بطول 17 سم أو أكثر 🏈",
+        "id": "Tulis komentar hanya jika cabai Anda 17cm atau lebih 🏈",
+        "th": "คอมเมนต์เฉพาะคนที่มีพริก 17 ซม. ขึ้นไปเท่านั้น 🏈",
+        "vi": "Chỉ bình luận nếu ớt của bạn từ 17cm trở lên 🏈",
+        "hi": "केवल तभी टिप्पणी करें जब आपकी मिर्च 17 सेमी या उससे अधिक लंबी हो 🏈",
+        "it": "Lascia un commento solo se il tuo peperoncino è di 17 cm o più 🏈",
+        "tr": "Biberi 17 cm veya daha uzun olanlar sadece yorum yapsın 🏈",
+        "pl": "Zostaw komentarz tylko wtedy, gdy Twoja papryczka ma 17 cm lub więcej 🏈",
+        "nl": "Laat alleen een reactie achter als je peper 17 cm of langer is 🏈",
+        "uk": "Залишайте коментар, лише якщо ваш перець має довжину 17 см або більше 🏈",
+        "ms": "Hanya tinggalkan komen jika cili anda berukuran 17cm atau lebih 🏈"
+      },
+      "mediaCheckedAt": 1792641289465
     },
     {
       "id": "2112204993604510100",
