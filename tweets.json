@@ -11714,7 +11714,9 @@
       "note": "",
       "createdAt": 1792552859279,
       "score": 0,
-      "delHash": "3de7c2c323c30d19ee0424ada815024cb377bc0b2070879cdfc9faed6aec3f14"
+      "delHash": "3de7c2c323c30d19ee0424ada815024cb377bc0b2070879cdfc9faed6aec3f14",
+      "translateFail": "no_text",
+      "translateFailAt": 1792631843844
     },
     {
       "id": "2112578901923045452",
