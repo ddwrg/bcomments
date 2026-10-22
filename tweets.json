@@ -13532,7 +13532,38 @@
       "note": "",
       "createdAt": 1792485331021,
       "score": 0,
-      "delHash": "014c7147caf0c7e31a3c52dfcda8f4633ab3d2cf6b43185089aa0bb186eab3de"
+      "delHash": "014c7147caf0c7e31a3c52dfcda8f4633ab3d2cf6b43185089aa0bb186eab3de",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112208254285819904/vid/avc1/720x960/RRdDalqQa7vJL2Lt.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112208254285819904/img/WEd5MaT-s0l-WMDR.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112208254285819904/img/WEd5MaT-s0l-WMDR.jpg",
+      "tweetText": "단추 너무 팽팽해서 팅겨나가면 바로 오랄 모드 들어감 ㅋㅋㅋ",
+      "translations": {
+        "ko": "단추 너무 팽팽해서 팅겨나가면 바로 오랄 모드 들어감 ㅋㅋㅋ",
+        "en": "The button is so tight that if it pops off, it's straight into oral mode lol",
+        "ja": "ボタンがパツパツすぎて、はじけ飛んだら即オトナのモードに入るw",
+        "zh": "扣子太紧了，要是弹飞的话直接进入口交模式 哈哈哈",
+        "es": "El botón está tan apretado que si sale volando, entra directo en modo oral jajaja",
+        "fr": "Le bouton est tellement serré que s'il saute, on passe direct en mode oral mdr",
+        "de": "Der Knopf ist so stramm, wenn der abspringt, geht's direkt in den Oral-Modus lol",
+        "pt": "O botão tá tão apertado que se voar, vai direto pro modo oral kkk",
+        "ru": "Пуговица такая тугая, что если отлетит, сразу включится оральный режим лмао",
+        "ar": "الزر مشدود لدرجة أنه لو طار، هيدخل في وضع الأورال علطول ههههه",
+        "id": "Kancingnya kenceng banget, kalau copot langsung masuk mode oral wkwk",
+        "th": "กระดุมแน่นเกินไป ถ้าดีดหลุดนี่เข้าโหมดออรัลทันที 555",
+        "vi": "Cúc áo căng quá, bật ra phát là vào chế độ oral luôn haha",
+        "hi": "बटन इतना टाइट है कि अगर उड़ गया, तो सीधे ओरल मोड में चले जाएंगे हाहा",
+        "it": "Il bottone è così tirato che se parte, si va dritti in modalità orale lol",
+        "pl": "Guzik jest tak napięty, że jak odskoczy, to od razu wchodzi tryb oralny heh",
+        "nl": "De knop zit zo strak dat als hij eraf springt, het meteen oral mode wordt lol",
+        "uk": "Ґудзик такий натягнутий, що якщо відлетить, одразу вмикається оральний режим лол",
+        "ms": "Butang ketat sangat, kalau tercabut terus masuk mode oral haha"
+      },
+      "mediaCheckedAt": 1792641511769
     },
     {
       "id": "2111833277686538309",
