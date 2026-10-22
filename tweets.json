@@ -13337,7 +13337,39 @@
       "note": "",
       "createdAt": 1792485341311,
       "score": 0,
-      "delHash": "ba755eacc694add72a217afc43dce291f38e6e6097ad1c37b77403fea53aed00"
+      "delHash": "ba755eacc694add72a217afc43dce291f38e6e6097ad1c37b77403fea53aed00",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112207725564411904/vid/avc1/720x960/BCTUz_SEe0ZPBzFX.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112207725564411904/img/Dxabebk-KUU4up19.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112207725564411904/img/Dxabebk-KUU4up19.jpg",
+      "tweetText": "바지 핏이 진짜 장난아니게 딱 붙어서 기분 너무 조타 ㅋ",
+      "translations": {
+        "ko": "바지 핏이 진짜 장난아니게 딱 붙어서 기분 너무 조타 ㅋ",
+        "en": "These pants fit so insanely skin-tight and I love it lol",
+        "ja": "ズボンのフィット感がマジでやばいくらいピタッとしてて超気分いいｗ",
+        "zh": "裤子的版型真的超级无敌修身，心情太美妙了哈哈",
+        "es": "Los pantalones me quedan increíblemente ajustados y me encanta jaja",
+        "fr": "Le jean est tellement serré de fou, ça fait trop plaisir ptdr",
+        "de": "Die Hose sitzt so krank eng, ich feier es einfach lol",
+        "pt": "A calça fica tão incrivelmente colada que eu tô amando kkk",
+        "ru": "Эти штаны сидят так безумно в обтяжку, и мне это капец как нравится лол",
+        "ar": "مقاس البنطال ضيق بشكل جنوني وأنا أحب ذلك حقاً ههههه",
+        "id": "Celananya pas banget ngepas gila, seneng banget deh wkwk",
+        "th": "ทรงกางเกงคือเข้ารูปแบบปังมากแม่ ฟินสุดๆ 555",
+        "vi": "Quần ôm sát đỉnh chóp luôn, thích gì đâu á haha",
+        "hi": "ये पैंट्स इतनी गजब की फिटिंग वाली और टाइट हैं कि मजा आ गया हाहा",
+        "it": "I pantaloni calzano così pazzesantemente stretti che adoro lol",
+        "tr": "Pantolonun duruşu o kadar delice dar ki aşırı hoşuma gitti ya kiki",
+        "pl": "Te spodnie leżą tak niesamowicie obcisle, że jaram się jak małe dziecko haha",
+        "nl": "Deze broek zit zo insane strak, ik vind dit echt geweldig lol",
+        "uk": "Ці штани сидять так шалено в обтяжку, що мені дуже подобається лол",
+        "ms": "Seluar ni fit gila ketat, rasa best sangat haha"
+      },
+      "mediaCheckedAt": 1792641466795
     },
     {
       "id": "2112207557754585152",
