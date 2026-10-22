@@ -16972,7 +16972,38 @@
       "note": "",
       "createdAt": 1792485127105,
       "score": 0,
-      "delHash": "5fcee88410e1dd78ed81e6ff31d7b1fadb734f52afce768d4fddbbcde9b69427"
+      "delHash": "5fcee88410e1dd78ed81e6ff31d7b1fadb734f52afce768d4fddbbcde9b69427",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112348182273536000/vid/avc1/878x720/7klpddRXRgTgLBhQ.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112348182273536000/img/_T-a6aQYIpS5Fmzc.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112348182273536000/img/_T-a6aQYIpS5Fmzc.jpg",
+      "tweetText": "RT 많이 눌러주면 더 이쁜 셀카두 가능.",
+      "translations": {
+        "ko": "RT 많이 눌러주면 더 이쁜 셀카두 가능. 😉",
+        "en": "More RTs means even prettier selfies. 😉",
+        "ja": "RTがたくさんもらえるともっと可愛い自撮りも可能。😉",
+        "zh": "转发多的话，可以发更好看的自拍哦。😉",
+        "es": "Más RTs significa selfiesaún más bonitas. 😉",
+        "fr": "Plus de RTs, c'est encore plus de beaux selfies. 😉",
+        "de": "Mehr RTs bedeutet noch schönere Selfies. 😉",
+        "pt": "Mais RTs significa selfies ainda mais bonitas. 😉",
+        "ar": "المزيد من إعادة التغريد يعني سيلفي أجمل بكثير. 😉",
+        "id": "Semakin banyak RT, semakin banyak selfie cantik yang bisa aku bagikan. 😉",
+        "th": "รีทวิตเยอะๆ จะได้ลงเซลפיสวยๆ อีกนะ 😉",
+        "vi": "Càng nhiều RT thì càng có nhiều ảnh selfie đẹp hơn nha. 😉",
+        "hi": "ज़्यादा RT का मतलब और भी सुंदर सेल्फी। 😉",
+        "it": "Più RT significano selfie ancora più belle. 😉",
+        "tr": "Daha fazla RT, daha güzel özçekimler demektir. 😉",
+        "pl": "Więcej RT oznacza jeszcze ładniejsze selfie. 😉",
+        "nl": "Meer RT's betekent nog mooiere selfies. 😉",
+        "uk": "Більше ретвітів — більше красивих селфі. 😉",
+        "ms": "Lebih banyak RT bermaksud lebih banyak selfie yang cantik. 😉"
+      },
+      "mediaCheckedAt": 1792643131353
     },
     {
       "id": "2112233916467982750",
