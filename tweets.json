@@ -12014,24 +12014,23 @@
       "tweetText": "머리에 달린 해바라기보다 오빠만 보면 반응하는 내 꽃이 더 뜨거운거 가타 🌻\n진짜 열기 올라왔는지 오빠가 직접 만져봐",
       "translations": {
         "ko": "머리에 달린 해바라기보다 오빠만 보면 반응하는 내 꽃이 더 뜨거운거 가타 🌻\n진짜 열기 올라왔는지 오빠가 직접 만져봐",
-        "en": "My flower reacts to you more than the sunflower on my head, and I think it's hotter 🌻\nCome touch it yourself and see if it's really heating up",
-        "ja": "頭につけたヒマワリよりも、オッパを見るだけで反応する私の花の方が熱いみたい 🌻\n本当に熱が出ているか、オッパが直接触ってみて",
-        "zh": "比起头上的向日葵，一看到哥哥就做出反应的我的花好像更烫呢 🌻\n哥哥亲自来摸摸看是不是真的发热了",
-        "es": "Mi flor reacciona más a ti que el girasol en mi cabeza, creo que está más caliente 🌻\nVen a tocarla tú mismo para ver si de verdad está subiendo la temperatura",
-        "fr": "Ma fleur réagit plus à toi que le tournesol sur ma tête, et je crois qu'elle est plus chaude 🌻\nViens toucher par toi-même pour voir si ça chauffe vraiment",
-        "pt": "Minha flor reage mais a você do que o girassol na minha cabeça, acho que está mais quente 🌻\nVenha tocar você mesmo para ver se está esquentando de verdade",
-        "ru": "Мой цветок реагирует на тебя сильнее, чем подсолнух на моей голове, кажется, он горячее 🌻\nПриходи потрогать сам и проверь, действительно ли он нагрелся",
-        "ar": "زهرتي تتفاعل معك أكثر من عباد الشمس على رأسي، وأعتقد أنها أكثر سخونة 🌻\nتعال المسها بنفسك وترى إن كانت تسخن حقاً",
-        "id": "Bungaku lebih bereaksi padamu daripada bunga matahari di kepalaku, rasanya lebih panas 🌻\nDatang dan sentuh sendiri untuk lihat apakah benar-benar panas",
-        "th": "ดอกไม้บนหัวฉันยังสู้ดอกไม้ของฉันที่ตอบสนองเวลาเห็นโอปป้าไม่ได้ น่าจะร้อนกว่าด้วยซ้ำ 🌻\nลองมาสัมผัสดูเองสิว่ามันร้อนขึ้นจริงๆ หรือเปล่า",
-        "vi": "Bông hoa của tôi phản ứng với bạn nhiều hơn là bông hướng dương trên đầu, tôi nghĩ nó còn nóng hơn cơ 🌻\nĐến tự tay chạm vào xem có thật sự đang nóng lên không nhé",
-        "hi": "मेरे सिर पर लगे सूरजमुखी से ज्यादा मेरा फूल तुम्हें देखकर प्रतिक्रिया देता है, और मुझे लगता है कि यह ज्यादा गर्म है 🌻\nखुद छूकर देखो कि क्या सच में गर्मी बढ़ गई है",
-        "it": "Il mio fiore reagisce a te più del girasole sulla mia testa, e penso che sia più caldo 🌻\nVieni a toccarlo tu stesso per vedere se si sta davvero scaldando",
-        "tr": "Kafamdaki ayçiçeğinden çok seni görünce tepki veren çiçeğim daha sıcak sanki 🌻\nGerçekten ısınıp ısınmadığını gel de kendin dokun",
-        "pl": "Mój kwiat reaguje na ciebie bardziej niż słonecznik na mojej głowie, chyba jest gorętszy 🌻\nPrzyjdź i dotknij sam, żeby sprawdzić, czy naprawdę robi się gorąco",
-        "nl": "Mijn bloem reageert meer op jou dan de zonnebloem op mijn hoofd, en ik denk dat hij heter is 🌻\nKom het zelf aanraken om te zien czy het echt warm wordt",
-        "uk": "Мій квітковий бутон реагує на тебе сильніше, ніж соняшник на моїй голові, думаю, він гарячіший 🌻\nПрийди і поторкай сам, чи справді він нагрівся",
-        "ms": "Bunga saya lebih bertindak balas terhadap anda berbanding bunga matahari di kepala saya, rasa lebih panas 🌻\nDatang sentuh sendiri dan lihat sama ada ia benar-benar panas"
+        "en": "My flower that reacts only when I see you is hotter than the sunflower on my head 🌻\nCheck for yourself if it's really getting hot",
+        "ja": "頭についたひまわりよりも、オッパを見るだけで反応する私の花のほうが熱いみたい 🌻\n本当に熱が出ているか、オッパが直接触って確かめて",
+        "zh": "比起头顶的向日葵，一看到哥哥就做出反应的我这朵花好像更烫呢 🌻\n哥哥亲自来摸摸看是不是真的发热了",
+        "es": "Mi flor, que reacciona solo al verte, está más caliente que el girasol en mi cabeza 🌻\nComprueba tú mismo si de verdad está subiendo la temperatura",
+        "fr": "Ma fleur qui réagit rien qu'en te voyant est plus chaude que le tournesol sur ma tête 🌻\nVérifie par toi-même si ça chauffe vraiment",
+        "pt": "Minha flor, que reage só de te ver, está mais quente do que o girassol na minha cabeça 🌻\nConfere você mesmo se está esquentando de verdade",
+        "ru": "Мой цветок, который реагирует только тогда, когда я вижу тебя, горячее подсолнуха на моей голове 🌻\nПроверь сам, действительно ли тут стало жарко",
+        "ar": "زهرتي التي تتفاعل فقط عندما أراك هي أحر من عباد الشمس على رأسي 🌻\nتحقق بنفسك مما إذا كانت السحونة ترتفع حقًا",
+        "id": "Bungaku yang merespons hanya saat melihatmu terasa lebih panas daripada bunga matahari di kepalaku 🌻\nCoba buktikan sendiri apakah beneran sudah panas",
+        "th": "ดอกไม้ของฉันที่ตอบสนองก็ต่อเมื่อเห็นเธอ ร้อนยิ่งกว่าดอกทานตะวันบนหัวฉันซะอีก 🌻\nพิสูจน์ด้วยตัวเองเลยว่ามันร้อนขึ้นจริงไหม",
+        "vi": "Bông hoa của em chỉ phản ứng khi nhìn thấy anh còn nóng hơn cả hoa hướng dương trên đầu em 🌻\nAnh cứ tự tay chạm vào xem có thật sự nóng lên không nhé",
+        "it": "Il mio fiore che reagisce solo quando ti vedo è più caldo del girasole sulla mia testa 🌻\nControlla tu stesso se sta davvero scaldando",
+        "tr": "Sadece seni görünce tepki veren çiçeğim başımdaki ayçiçeğinden daha sıcak 🌻\nGerçekten ısınıp ısınmadığını kendin dokunup kontrol et",
+        "pl": "Mój kwiat, który reaguje tylko wtedy, gdy cię widzę, jest gorętszy niż słonecznik na mojej głowie 🌻\nSprawdź sam, czy naprawdę robi się gorąco",
+        "nl": "Mijn bloem die alleen reageert als ik jou zie is heter dan de zonnebloem op mijn hoofd 🌻\nVoel zelf maar of het echt heet is geworden",
+        "uk": "Моя квітка, яка реагує лише тоді, коли я бачу тебе, гарячіша за соняшник на моїй голові 🌻\nПеревір сам, чи справді тут стало спекотно",
+        "ms": "Bunga saya yang bertindak balas hanya apabila melihat awak lebih panas daripada bunga matahari di kepala saya 🌻\nCuba sentuh sendiri sama ada betul-betul sudah panas"
       }
     },
     {
@@ -12040,9 +12039,7 @@
       "note": "",
       "createdAt": 1792485410769,
       "score": 0,
-      "delHash": "582dcbfd0a47f07e69d62f7e358be2d66d85ee9307f761d3ba52735fd416a926",
-      "translateFail": "no_text",
-      "translateFailAt": 1792634955940
+      "delHash": "582dcbfd0a47f07e69d62f7e358be2d66d85ee9307f761d3ba52735fd416a926"
     },
     {
       "id": "2111951128581881972",
