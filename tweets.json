@@ -14967,7 +14967,38 @@
       "note": "",
       "createdAt": 1792485248897,
       "score": 0,
-      "delHash": "dc6de19182ba91dde9c5772a87a64b690f6504eaf1ffd69f28315a18e194f226"
+      "delHash": "dc6de19182ba91dde9c5772a87a64b690f6504eaf1ffd69f28315a18e194f226",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2112093310626254848/vid/avc1/720x720/tH2L4HsuJ_FYz7mc.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112093310626254848/img/353aKT6ehEo7fDxH.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2112093310626254848/img/353aKT6ehEo7fDxH.jpg",
+      "tweetText": "님들 저 몸팔면 사먹을거임? 🦴",
+      "translations": {
+        "ko": "님들 저 몸팔면 사먹을거임? 🦴",
+        "en": "Guys, if I sell my body, will you buy food from me? 🦴",
+        "ja": "みんな、私が体売ったら食べ物買ってくれる？ 🦴",
+        "zh": "家人们，如果我卖身，你们会买吗？ 🦴",
+        "es": "Chicos, si vendo mi cuerpo, ¿me comprarán comida? 🦴",
+        "fr": "Les gars, si je vends mon corps, vous m'achèterez de la bouffe ? 🦴",
+        "de": "Leute, wenn ich meinen Körper verkaufe, kauft ihr mir Essen ab? 🦴",
+        "pt": "Gente, se eu vender meu corpo, vocês compram comida de mim? 🦴",
+        "ru": "Ребят, если я буду продавать тело, купите у меня поесть? 🦴",
+        "ar": "يا جماعة، لو بعت جسمي، هتشتري مني أكل؟ 🦴",
+        "id": "Gengs, kalau aku jual badan, kalian mau beli makanan dariku? 🦴",
+        "th": "ทุกคน ถ้าฉันขายตัว จะมีใครซื้อของกินจากฉันไหม? 🦴",
+        "vi": "Mọi người ơi, nếu tôi bán thân thì có mua đồ ăn không? 🦴",
+        "it": "Ragazzi, se vendo il mio corpo, mi comprerete da mangiare? 🦴",
+        "tr": "Millet, vücudumu satsam yemek alır mısınız? 🦴",
+        "pl": "Ludzie, jak sprzedam ciało, kupicie mi coś do jedzenia? 🦴",
+        "nl": "Jongens, als ik mijn lichaam verkoop, kopen jullie eten van mij? 🦴",
+        "uk": "Люди, якщо я продам тіло, купите мені поїсти? 🦴",
+        "ms": "Kawan-kawan, kalau saya jual badan, korang nak beli makanan tak? 🦴"
+      },
+      "mediaCheckedAt": 1792642109717
     },
     {
       "id": "2112217479326175569",
