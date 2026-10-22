@@ -14809,7 +14809,39 @@
       "note": "",
       "createdAt": 1792485256672,
       "score": 0,
-      "delHash": "8deb17c4974c398c3938388449db5261690742b6d16b495dff6c8c5b00a02ee3"
+      "delHash": "8deb17c4974c398c3938388449db5261690742b6d16b495dff6c8c5b00a02ee3",
+      "videos": [
+        {
+          "url": "https://video.twimg.com/amplify_video/2111969229448916992/vid/avc1/1006x720/faK5UH4_Zah28q4D.mp4?tag=14",
+          "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111969229448916992/img/GiN9t0NVJoHqCCl2.jpg"
+        }
+      ],
+      "hasVideo": true,
+      "thumb": "https://pbs.twimg.com/amplify_video_thumb/2111969229448916992/img/GiN9t0NVJoHqCCl2.jpg",
+      "tweetText": "지퍼 더 내리면 터질꺼 같은데 오빠가 직접 내려줄래\n내가 위에 올라타서 꽉 껴안아주면 몇분까지 버틸 수 있어?",
+      "translations": {
+        "ko": "지퍼 더 내리면 터질꺼 같은데 오빠가 직접 내려줄래\n내가 위에 올라타서 꽉 껴안아주면 몇분까지 버틸 수 있어?",
+        "en": "It feels like it'll burst if I pull the zipper down more. Can you pull it down for me? \nIf I climb on top of you and hug you tight, how many minutes can you last?",
+        "ja": "チャックをもっと下げたら弾けそうなんだけど、お兄ちゃんが直接下げてくれる？\n私が上に乗ってギュッと抱きしめたら、何分まで耐えられる？",
+        "zh": "再拉低拉链感觉就要炸开了，哥哥能帮我拉下来吗？\n如果我骑坐在你身上紧紧抱住你，你能撑几分钟？",
+        "es": "Siento que va a reventar si bajo más la cremallera. ¿Me la bajas tú?\nSi me subo encima de ti y te abrazo fuerte, ¿cu cuántos minutos puedes durar?",
+        "fr": "J'ai l'impression que ça va exploser si je baisse un peu plus la fermeture éclair, tu peux la baisser pour moi ?\nSi je monte sur toi et que je te serre fort dans mes bras, tu tiens combien de minutes ?",
+        "de": "Es fühlt sich an, als würde es platzen, wenn ich den Reißverschluss weiter runterziehe. Kannst du ihn für mich runterziehen?\nWenn ich mich auf dich setze und dich fest umarme, wie viele Minuten hältst du durch?",
+        "pt": "Parece que vai rebentar se eu baixar mais o fecho. Podes baixar tu para mim?\nSe eu subir para cima de ti e te abraçar bem forte, aguentas quantos minutos?",
+        "ru": "Кажется, она лопнет, если я спущу молнию еще ниже. Можешь сам ее расстегнуть?\nЕсли я сяду на тебя сверху и крепко обниму, сколько минут ты сможешь продержаться?",
+        "ar": "أشعر أنه سينفجر إذا أنزلت السحاب أكثر. هل يمكنك أن تنزله لي؟\nإذا صعدت فوقك وعانقتك بقوة، كم دقيقة يمكنك التحمل؟",
+        "id": "Rasanya mau meledak kalau resletingnya diturunin lagi. Kamu bisa turunin sendiri buat aku?\nKalau aku naik di atas kamu dan meluk kencang-kencang, kamu bisa tahan sampai berapa menit?",
+        "th": "รู้สึกเหมือนมันจะระเบิดถ้าดึงซิปลงอีก พี่ช่วยรูดลงให้หน่อยได้ไหม?\nถ้าฉันขึ้นไปคร่อมแล้วกอดแน่นๆ จะทนได้กี่นาทีกันนะ?",
+        "vi": "Cảm giác như nó sắp bung ra nếu kéo khóa xuống thêm chút nữa, anh tự tay kéo xuống giúp em nhé?\nNếu em ngồi lên trên và ôm anh thật chặt, anh chịu được mấy phút?",
+        "hi": "लगता है ज़िप और नीचे की तो फट जाएगी, क्या तुम इसे खुद नीचे खींच सकते हो?\nअगर मैं तुम्हारे ऊपर चढ़कर तुम्हें कसकर गले लगाऊँ, तो तुम कितने मिनट टिक सकते हो?",
+        "it": "Sembra che stia per scoppiare se tiro giù di più la cerniera. Me la tiri giù tu?\nSe ti salgo sopra e ti abbraccio forte, quanti minuti riesci a resistere?",
+        "tr": "Fermuarı biraz daha indirsem patlayacak gibi sanki, sen indirir misin?\nÜstüne çıkıp sıkıca sarılırsam kaç dakika dayanabilirsin?",
+        "pl": "Mam wrażenie, że to zaraz pęknie, jeśli zsunę suwak niżej. Pomożesz mi go ściągnąć?\nJeśli usiądę na tobie i mocno cię przytulę, ile minut wytrzymasz?",
+        "nl": "Het voelt alsof het zal barsten als ik de rits nog verder naar beneden trek. Kun jij hem voor mij naar beneden trekken?\nAls ik boven op je klim je stevig vastkneep, hoeveel minuten kun je het volhouden?",
+        "uk": "Мені здається, воно лусне, якщо спустити блискавку ще нижче. Можеш сам її розстебнути?\nЯкщо я сяду на тебе зверху і міцно обійму, скільки хвилин ти зможеш протриматися?",
+        "ms": "Rasanya macam nak meletup kalau zip ni diturunkan lagi. Boleh tak abang turunkan untuk saya?\nKalau saya naik atas abang dan peluk kuat-kuat, berapa minit abang boleh tahan?"
+      },
+      "mediaCheckedAt": 1792642052505
     },
     {
       "id": "2112216070006419528",
